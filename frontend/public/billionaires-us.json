@@ -1,0 +1,13 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-26",
+ "retrievedAt": "2026-10-26T05:07:44.851Z",
+ "scope": "公开版不含福布斯富豪榜数据（版权原因），仅桌面本机版保留。",
+ "source": "https://www.forbes.com/real-time-billionaires/",
+ "mirror": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/list/rtb/2026-10-26",
+ "mirrorProject": "https://github.com/komed3/rtb-api",
+ "unit": "USD",
+ "inputUnit": "million USD",
+ "politicalEvidenceStatus": "not_collected",
+ "people": []
+}

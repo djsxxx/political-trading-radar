@@ -1,0 +1,2 @@
+import { moneyUnits,useBillionaireMoney } from './billionaireMoney'
+export function BillionaireUnitSelect(){const{unit,setUnit}=useBillionaireMoney();return <select className="bb-unit-select" aria-label="富豪金额单位" title="统一改变富豪榜、排行、详情与地图金额单位；不进行汇率换算" value={unit} onChange={e=>setUnit(e.target.value)}>{Object.entries(moneyUnits).map(([id,u])=><option value={id} key={id}>{u.label}</option>)}</select>}

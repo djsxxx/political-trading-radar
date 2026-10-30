@@ -1,0 +1,80 @@
+{
+  "name": "financial-ai-os",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Apple Silicon multi-market monitoring, dual-strategy signals, and decision-audit prototype",
+  "main": "out/main/main.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "tsc --noEmit && electron-vite build",
+    "dist:mac": "npm run build && electron-builder --mac dmg zip --arm64",
+    "preview": "electron-vite preview",
+    "typecheck": "tsc --noEmit",
+    "audit": "node research/political-trades/audit_annual.cjs && node research/political-trades/audit_annual_changes.cjs && node research/political-trades/audit_atlas.cjs && node research/political-trades/audit_shared_assets.cjs && node research/political-trades/audit_asset_valuation.cjs && node research/political-trades/audit_quote_change.cjs && node research/political-trades/audit_compute_centers.cjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "d3-geo": "^3.1.1",
+    "echarts": "^5.6.0",
+    "echarts-for-react": "^3.0.2",
+    "hyparquet": "^1.31.5",
+    "hyparquet-compressors": "^1.1.2",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/topojson-client": "^3.1.5",
+    "@types/ws": "^8.18.1",
+    "autoprefixer": "^10.4.20",
+    "electron": "^34.0.0",
+    "electron-builder": "^25.1.8",
+    "electron-vite": "^3.0.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  },
+  "build": {
+    "appId": "com.mxdai.desktop",
+    "productName": "MXdai",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "out/**/*",
+      "package.json"
+    ],
+    "mac": {
+      "category": "public.app-category.finance",
+      "identity": null,
+      "artifactName": "${productName}-${version}-${arch}.${ext}",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64"
+          ]
+        },
+        {
+          "target": "zip",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ]
+    },
+    "dmg": {
+      "title": "MXdai ${version}",
+      "artifactName": "${productName}-${version}-${arch}.${ext}"
+    }
+  }
+}

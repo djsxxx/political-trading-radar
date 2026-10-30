@@ -1,0 +1,38 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict')
+const root=path.resolve(__dirname,'../..')
+const data=JSON.parse(fs.readFileSync(path.join(root,'frontend/public/compute-centers.json'),'utf8'))
+const world=JSON.parse(fs.readFileSync(path.join(root,'frontend/public/world-countries.json'),'utf8'))
+const countryIds=new Set(world.objects.countries.geometries.map(g=>String(g.id)))
+const types=new Set(['ai-gpu','supercomputer']),statuses=new Set(['operating','building','announced'])
+const ids=new Set()
+assert.match(data.asOf,/^\d{4}-\d{2}-\d{2}$/)
+assert.equal(data.threshold,10000)
+assert.ok(data.scope&&data.coverage&&data.attribution,'scope, coverage and attribution required')
+assert.ok(data.facilities.length>=100,'expected global 10k+ coverage, got '+data.facilities.length)
+const check=(f,placed)=>{
+  assert.ok(!ids.has(f.id),`duplicate id ${f.id}`);ids.add(f.id)
+  for(const k of ['name','operator','location','country','coordPrecision'])assert.ok(typeof f[k]==='string'&&f[k].trim(),`${f.id} missing ${k}`)
+  assert.ok(types.has(f.type),`${f.id} bad type`)
+  assert.ok(statuses.has(f.status),`${f.id} bad status`)
+  for(const k of ['h100eCurrent','h100ePlanned','chips','powerMW','plannedPowerMW'])assert.ok(f[k]==null||(typeof f[k]==='number'&&f[k]>0),`${f.id} bad ${k}`)
+  // 门槛：除 TOP500 前十人工补录外，规模（卡数或 H100 当量，含规划）必须达到 1 万。
+  if(f.origin!=='curated')assert.ok(Math.max(f.chips||0,f.h100eCurrent||0,f.h100ePlanned||0)>=data.threshold,`${f.id} below threshold`)
+  else assert.ok(f.top500Rank>=1&&f.top500Rank<=10,`${f.id} curated entries must be TOP500 top 10`)
+  if(f.status==='operating'&&f.origin==='epoch-data-centers')assert.ok(f.h100eCurrent>0,`${f.id} operating without current compute`)
+  if(f.status!=='operating')assert.ok(!f.h100eCurrent,`${f.id} non-operating with current compute`)
+  for(const k of ['commissioned','plannedOnline'])if(f[k]!=null)assert.match(f[k],/^\d{4}-\d{2}$/,`${f.id} bad ${k}`)
+  assert.match(f.checkedAt,/^\d{4}-\d{2}-\d{2}$/,`${f.id} bad checkedAt`)
+  assert.ok(Array.isArray(f.sources)&&f.sources.length>0,`${f.id} needs sources`)
+  for(const s of f.sources)assert.match(s.url,/^https:\/\//,`${f.id} source must be https`)
+  assert.ok(Array.isArray(f.relatedClusters),`${f.id} relatedClusters must be an array`)
+  if(placed){
+    assert.ok(countryIds.has(f.countryId),`${f.id} unknown countryId ${f.countryId}`)
+    assert.ok(f.lat>=-90&&f.lat<=90&&f.lon>=-180&&f.lon<=180,`${f.id} coordinates out of range`)
+    assert.notEqual(f.coordPrecision,'unknown',`${f.id} placed with unknown precision`)
+  }else{
+    assert.ok(f.lat==null&&f.lon==null,`${f.id} unplaced entry must not carry coordinates`)
+  }
+}
+data.facilities.forEach(f=>check(f,true))
+data.unplaced.forEach(f=>check(f,false))
+console.log(`COMPUTE_CENTERS_AUDIT_OK: ${data.facilities.length} placed, ${data.unplaced.length} unplaced, threshold ${data.threshold}, as of ${data.asOf}`)

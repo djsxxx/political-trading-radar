@@ -1,0 +1,5637 @@
+{
+ "asOf": "2026-10-30",
+ "threshold": 10000,
+ "scope": "单个园区或集群达到 1 万张 AI 加速卡（或 1 万 H100 当量，含规划）即收录；另收 TOP500 前十超算。",
+ "coverage": "主要来源 Epoch AI（CC BY 4.0），其自述仅覆盖全球集群算力的一部分；中国条目在公开版中匿名，位置未公开。H100 当量是算力折算值，不是实际卡数。",
+ "attribution": "Epoch AI, ‘AI data centers’ 与 ‘GPU clusters’, epoch.ai, CC BY 4.0；TOP500.org",
+ "facilities": [
+  {
+   "id": "epoch-dc-openai-stargate-new-mexico",
+   "name": "OpenAI Stargate New Mexico",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Doña Ana County, New Mexico, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 5103588,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1750,
+   "commissioned": null,
+   "plannedOnline": "2028-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Project Jupiter Website",
+     "url": "https://projectjupitertogether.com/"
+    },
+    {
+     "title": "Stormwater Permitting",
+     "url": "https://drive.google.com/file/d/1vVKvPogq2TkeFn7ibnp0GNqz8aB4tZXz/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.328,
+   "lon": -106.849
+  },
+  {
+   "id": "epoch-dc-openai-stargate-shackelford",
+   "name": "OpenAI Stargate Shackelford",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "175 Private Road 1604, Abilene, TX 79601, Shackelford County",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 4562911,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1400,
+   "commissioned": null,
+   "plannedOnline": "2027-08",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Vantage data center page with power capacity, number of buildings, and first building timeline",
+     "url": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx"
+    },
+    {
+     "title": "OpenAI Stargate expansion announcement mentioning Shackelford site",
+     "url": "https://openai.com/index/five-new-stargate-sites/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.597,
+   "lon": -99.502
+  },
+  {
+   "id": "epoch-dc-meta-hyperion",
+   "name": "Meta Hyperion",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Holly Ridge, LA 71269",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 4142944,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1632,
+   "commissioned": null,
+   "plannedOnline": "2028-01",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Data center profile by Meta",
+     "url": "https://datacenters.atmeta.com/richland-parish-data-center/"
+    },
+    {
+     "title": "Entergy's application for generation and transmission resources",
+     "url": "https://drive.google.com/file/d/1FLY13apaHy4hI8RNVk9n_nlJpwFHtBrB/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.468,
+   "lon": -91.627
+  },
+  {
+   "id": "epoch-dc-qts-cedar-rapids",
+   "name": "QTS Cedar Rapids",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "6200 76th Ave SW, Fairfax, IA 52228",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 3668823,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1133,
+   "commissioned": null,
+   "plannedOnline": "2026-11",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "MISO new load announcements",
+     "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf"
+    },
+    {
+     "title": "Article by The Gazette",
+     "url": "https://www.thegazette.com/business/fast-start-to-cedar-rapids-data-center-projects/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.906,
+   "lon": -91.751
+  },
+  {
+   "id": "epoch-dc-google-fort-wayne",
+   "name": "Google Fort Wayne",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "6015 Adams Center Road, Fort Wayne, IN 46806",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 2940879,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 863,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Google's plans for wetlands in Fort Wayne",
+     "url": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+    },
+    {
+     "title": "Data center's diesel generators",
+     "url": "https://www.thelocalfw.com/data-center-diesel-generators/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.031,
+   "lon": -85.054
+  },
+  {
+   "id": "epoch-dc-openai-stargate-michigan",
+   "name": "OpenAI Stargate Michigan",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Saline Township, Michigan, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 2880243,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 988,
+   "commissioned": null,
+   "plannedOnline": "2028-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Related Digital website for this site ",
+     "url": "https://www.related-digital.com/michigan"
+    },
+    {
+     "title": "Michigan Public Service Commission Energy Contract Approval, reports 1,383 MW as the site capacity",
+     "url": "https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 42.125,
+   "lon": -83.839
+  },
+  {
+   "id": "epoch-dc-openai-stargate-wisconsin",
+   "name": "OpenAI Stargate Wisconsin",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Port Washington, Wisconsin, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 2627590,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 902,
+   "commissioned": null,
+   "plannedOnline": "2028-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Data center page on Vantage website",
+     "url": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+    },
+    {
+     "title": "Environmental Analysis Summary",
+     "url": "https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 43.389,
+   "lon": -87.869
+  },
+  {
+   "id": "epoch-dc-openai-stargate-milam",
+   "name": "OpenAI Stargate Milam",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Softbank",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Milam County, Texas, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 2496210,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 857,
+   "commissioned": null,
+   "plannedOnline": "2028-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Data Center Dynamics article on the site",
+     "url": "https://www.datacenterdynamics.com/en/news/softbanks-sb-energy-to-build-and-operate-openais-12gw-stargate-data-center-in-milam-county-texas/"
+    },
+    {
+     "title": "SB Energy article, source for 1.2 GW capacity ",
+     "url": "https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 30.763,
+   "lon": -96.998
+  },
+  {
+   "id": "epoch-dc-goodnight",
+   "name": "Goodnight",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "10001 Lima Rd, Claude, TX 79019",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 2278929,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1006,
+   "commissioned": null,
+   "plannedOnline": "2027-03",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Amended tax abatement agreement, with updated blueprints on p.46",
+     "url": "https://www.co.armstrong.tx.us/upload/page/5361/Amended_Restated_Consolidated%20Second%20Property%20Tax%20Abatement%20Agreement%20%20GNDC1_ArmstrongCounty.pdf"
+    },
+    {
+     "title": "Original tax abatement agreement, with original blueprints and specs on the last page",
+     "url": "https://drive.google.com/file/d/1ky5HhuhU8_JADNB2GziWa4WDRbTU4qtO/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 35.108,
+   "lon": -101.363
+  },
+  {
+   "id": "epoch-dc-openai-stargate-uae",
+   "name": "OpenAI Stargate UAE",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "G42",
+   "users": "OpenAI",
+   "country": "United Arab Emirates",
+   "countryId": "784",
+   "location": "Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 2021223,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 1000,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "News update with timelapse of construction",
+     "url": "https://www.khaleejtimes.com/uae/stargate-uae-phase-1-in-two-years"
+    },
+    {
+     "title": "Announcement of the (separate) 100 MW Khazna Ajman data center",
+     "url": "https://khaznadatacenters.com/press-release/khazna-announces-the-uaes-first-ai-optimized-data-center-and-the-largest-in-its-portfolio-powering-the-nations-drive-toward-ai-leadership/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 24.264,
+   "lon": 54.529
+  },
+  {
+   "id": "epoch-dc-crusoe-abilene-expansion",
+   "name": "Crusoe Abilene Expansion",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": "Microsoft",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5502 Spinks Rd, Abilene, TX 79601",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 1707933,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 672,
+   "commissioned": null,
+   "plannedOnline": "2027-09",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Bloomberg reporting that Oracle and OpenAI pulled out of expanding to these buildings, NVIDIA and Meta might replace them",
+     "url": "https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center"
+    },
+    {
+     "title": "Air Permit Application for the buildings, featuring blueprints on p.391",
+     "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/400428-ac.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.494,
+   "lon": -99.801
+  },
+  {
+   "id": "epoch-dc-colossus-2",
+   "name": "Colossus 2",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "SpaceXAI",
+   "users": "Anthropic , Cursor , SpaceXAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5420 Tulane Rd, Memphis, TN 38109",
+   "coordPrecision": "address",
+   "h100eCurrent": 1111673,
+   "h100ePlanned": 1824154,
+   "chips": null,
+   "chipTypes": "B200,B300",
+   "powerMW": 946,
+   "plannedPowerMW": 1531,
+   "commissioned": "2025-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "WSJ profile of the Colossus data centers",
+     "url": "https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d"
+    },
+    {
+     "title": "Final GPU count reported by Elon Musk",
+     "url": "https://x.com/elonmusk/status/1947701807389515912"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 34.998,
+   "lon": -90.035
+  },
+  {
+   "id": "epoch-dc-meta-bowling-green",
+   "name": "Meta Bowling Green",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "12356 Middleton Pike, Bowling Green, OH 43402",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 855159,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 422,
+   "commissioned": null,
+   "plannedOnline": "2027-02",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta letter to Middleton Township",
+     "url": "https://drive.google.com/drive/folders/12Cz7AlZt4fJfWevNAWTfq8IyLfNHpajz"
+    },
+    {
+     "title": "Construction notice for new transmission lines to data center substation",
+     "url": "https://drive.google.com/file/d/1YBuaFsslxCAZxlJtSI0rXfNsFqddwaHN/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.375,
+   "lon": -83.651
+  },
+  {
+   "id": "epoch-dc-anthropic-amazon-new-carlisle",
+   "name": "Anthropic-Amazon New Carlisle",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Amazon",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "55001 Larrison Blvd, New Carlisle, IN 46552",
+   "coordPrecision": "city",
+   "h100eCurrent": 818428,
+   "h100ePlanned": 1746038,
+   "chips": null,
+   "chipTypes": "Trainium2",
+   "powerMW": 1037,
+   "plannedPowerMW": 1925,
+   "commissioned": "2025-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Air Construction Permit application for the northern portion",
+     "url": "https://drive.google.com/file/d/1BKiTFNUk2KDaUaiHG7fz0KlkNSBTHzbb/view?usp=sharing"
+    },
+    {
+     "title": "Backup diesel generator referenced in the permit",
+     "url": "https://www.cat.com/en_US/products/new/power-systems/electric-power/diesel-generator-sets/117341.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.706,
+   "lon": -86.51
+  },
+  {
+   "id": "epoch-dc-microsoft-fairwater-atlanta",
+   "name": "Microsoft Fairwater Atlanta",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": "OpenAI , Microsoft",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1435 Hwy 54 W, Fayetteville, GA 30214",
+   "coordPrecision": "address",
+   "h100eCurrent": 768769,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 636,
+   "plannedPowerMW": null,
+   "commissioned": "2025-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "2023 Air Permit application",
+     "url": "https://drive.google.com/file/d/1p7aY9syz319IcEuyukgIIvzmhTNKRS6p/view?usp=sharing"
+    },
+    {
+     "title": "YouTube video with aerial views",
+     "url": "https://www.youtube.com/watch?v=44eWesI-174"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.445,
+   "lon": -84.525
+  },
+  {
+   "id": "epoch-dc-openai-stargate-abilene",
+   "name": "OpenAI Stargate Abilene",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5502 Spinks Rd, Abilene, TX 79601",
+   "coordPrecision": "address",
+   "h100eCurrent": 764022,
+   "h100ePlanned": 1018696,
+   "chips": null,
+   "chipTypes": "B200,B300",
+   "powerMW": 618,
+   "plannedPowerMW": 824,
+   "commissioned": "2025-09",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Crusoe 2024 Impact Report, with details on Abilene",
+     "url": "https://drive.google.com/file/d/1oHWA9vmpvFOh-LvDy5fgq_wq5ITuxd1r/view?usp=sharing"
+    },
+    {
+     "title": "Air Permit Application for buildings 1-2, featuring blueprints on p.157",
+     "url": "https://drive.google.com/file/d/1FgfX6hqojlBtqNXJHjzJmnwWAMx4_M0b/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.494,
+   "lon": -99.801
+  },
+  {
+   "id": "epoch-dc-google-cedar-rapids",
+   "name": "Google Cedar Rapids",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 670136,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 261,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "MISO new load announcements",
+     "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf"
+    },
+    {
+     "title": "Permit application",
+     "url": "https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.922,
+   "lon": -91.716
+  },
+  {
+   "id": "epoch-dc-google-pryor-north",
+   "name": "Google Pryor (North)",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "4581 Webb St, Pryor, OK 74361",
+   "coordPrecision": "address",
+   "h100eCurrent": 636685,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v5p,TPU v5e",
+   "powerMW": 368,
+   "plannedPowerMW": null,
+   "commissioned": "2024-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Google announces expansion of Pryor facility",
+     "url": "https://blog.google/inside-google/company-announcements/google-american-innovation-oklahoma/"
+    },
+    {
+     "title": "Google 2025 Environmental Report",
+     "url": "https://sustainability.google/reports/google-2025-environmental-report/"
+    }
+   ],
+   "relatedClusters": [
+    "Google Oklahoma TPU v4 Pods（32,768 卡，2022-05）"
+   ],
+   "checkedAt": "2026-10-30",
+   "lat": 36.241,
+   "lon": -95.33
+  },
+  {
+   "id": "epoch-dc-dayone-nusajaya",
+   "name": "DayOne Nusajaya",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "Malaysia",
+   "countryId": "458",
+   "location": "Iskandar Puteri, Johor, Malaysia",
+   "coordPrecision": "city",
+   "h100eCurrent": 583837,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,B300",
+   "powerMW": 473,
+   "plannedPowerMW": null,
+   "commissioned": "2024-12",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "News of Phase 2 operation",
+     "url": "https://www.moomoo.com/news/post/41886329/support-ai-computing-deployment-gds-holdings-nusajaya-technology-park-datacenter?level=1&data_ticket=1778269491837872"
+    },
+    {
+     "title": "Archived DayOne website - \"120 MW in operation\" in Johor",
+     "url": "https://web.archive.org/web/20241231165420/https://dayonedc.com/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 1.452,
+   "lon": 103.614
+  },
+  {
+   "id": "epoch-dc-openai-stargate-lordstown",
+   "name": "OpenAI Stargate Lordstown",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Softbank",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "2300 Hallock Young Rd, Warren, OH 44481",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 545730,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 214,
+   "commissioned": null,
+   "plannedOnline": "2027-03",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Announcement of 5 new Stargate sites mentioning Lordstown",
+     "url": "https://www.datacenterdynamics.com/en/news/openai-announces-five-more-us-stargate-data-centers-with-oracle-and-softbank/"
+    },
+    {
+     "title": "Water Quality Permitting stating that “manufacturing and assembly” is the main purpose of the construction",
+     "url": "https://drive.google.com/file/d/1VfWvb9unUXZs3u4zwBjZjQwtsu91y8i9/view?usp=drivesdk"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.237,
+   "lon": -80.819
+  },
+  {
+   "id": "epoch-dc-meta-prometheus",
+   "name": "Meta Prometheus",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1 Community Cir, New Albany, OH 43054",
+   "coordPrecision": "city",
+   "h100eCurrent": 536343,
+   "h100ePlanned": 1164337,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 471,
+   "plannedPowerMW": 1022,
+   "commissioned": "2025-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta blog post with details on Prometheus",
+     "url": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/"
+    },
+    {
+     "title": "New Albany Business Park land use map",
+     "url": "https://drive.google.com/file/d/1Wb_BBVOnhu5UCQ8Q5d6iRIG9K_vigD8A/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.081,
+   "lon": -82.809
+  },
+  {
+   "id": "epoch-dc-dayone-kempas",
+   "name": "DayOne Kempas",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "Malaysia",
+   "countryId": "458",
+   "location": "HP79+MP, 81300 Johor Bahru, Johor, Malaysia",
+   "coordPrecision": "city",
+   "h100eCurrent": 480639,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 422,
+   "plannedPowerMW": null,
+   "commissioned": "2026-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "News of Phase 2 operation",
+     "url": "https://www.moomoo.com/news/post/41886329/support-ai-computing-deployment-gds-holdings-nusajaya-technology-park-datacenter?level=1&data_ticket=1778269491837872"
+    },
+    {
+     "title": "Archived DayOne website - \"120 MW in operation\" in Johor",
+     "url": "https://web.archive.org/web/20241231165420/https://dayonedc.com/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 1.355,
+   "lon": 103.627
+  },
+  {
+   "id": "epoch-dc-microsoft-fairwater-wisconsin",
+   "name": "Microsoft Fairwater Wisconsin",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": "OpenAI , Microsoft",
+   "country": "United States",
+   "countryId": "840",
+   "location": "4800 90th St, Mount Pleasant, WI 53403",
+   "coordPrecision": "address",
+   "h100eCurrent": 445680,
+   "h100ePlanned": 4527539,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 369,
+   "plannedPowerMW": 2263,
+   "commissioned": "2026-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Microsoft blog with engineering details",
+     "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/"
+    },
+    {
+     "title": "Microsoft blog with more general information",
+     "url": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 42.675,
+   "lon": -87.895
+  },
+  {
+   "id": "epoch-dc-qts-eagle-mountain",
+   "name": "QTS Eagle Mountain",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "652 E Hyperscale Way, Eagle Mountain, UT 84013",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 346968,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 304,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "QTS Eagle Mountain website",
+     "url": "https://q.com/data-centers/eagle-mountain/"
+    },
+    {
+     "title": "DEQ Approval listing emergency generators",
+     "url": "https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.269,
+   "lon": -112.034
+  },
+  {
+   "id": "epoch-dc-google-columbus",
+   "name": "Google Columbus",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5076 S High St, Columbus, OH 43207",
+   "coordPrecision": "address",
+   "h100eCurrent": 331986,
+   "h100ePlanned": 576049,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v5p,TPU v6e,TPU v7",
+   "powerMW": 303,
+   "plannedPowerMW": 386,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "DCD article detailing early work beginning on the site ",
+     "url": "https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-columbus-ohio-data-center/"
+    },
+    {
+     "title": "Transmission line construction notice; details current site capacity, expansion, and maximum future site capacity ",
+     "url": "https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.861,
+   "lon": -83.004
+  },
+  {
+   "id": "epoch-dc-google-new-albany",
+   "name": "Google New Albany",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1101 Beech Rd SW, New Albany, OH 43054",
+   "coordPrecision": "address",
+   "h100eCurrent": 323901,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v5p,TPU v6e",
+   "powerMW": 333,
+   "plannedPowerMW": null,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Draft basis of air permit for Google Omaha, a similar data center",
+     "url": "https://drive.google.com/file/d/1KN7o-wQOyt1UEud8wpM8PymXJF479r0n/view?usp=sharing"
+    },
+    {
+     "title": "2025 Environmental Report",
+     "url": "https://sustainability.google/reports/google-2025-environmental-report/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.07,
+   "lon": -82.754
+  },
+  {
+   "id": "epoch-dc-google-mesa",
+   "name": "Google Mesa",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "Mesa, Arizona, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 289540,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v6e,TPU v5p",
+   "powerMW": 183,
+   "plannedPowerMW": null,
+   "commissioned": "2025-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "DCD article on the site breaking ground",
+     "url": "https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-mesa-data-center-campus-in-arizona/"
+    },
+    {
+     "title": "DCD article on announcement to build Building 2",
+     "url": "https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.415,
+   "lon": -111.831
+  },
+  {
+   "id": "epoch-dc-colossus-1",
+   "name": "Colossus 1",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "SpaceXAI",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "3231 Riverport Rd, Memphis, TN 38109",
+   "coordPrecision": "address",
+   "h100eCurrent": 275796,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,H200,B200",
+   "powerMW": 340,
+   "plannedPowerMW": null,
+   "commissioned": "2024-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "May 2025 Electricity Provider Disclosure",
+     "url": "https://drive.google.com/file/d/17WAFThn95X85ebzA_e19R1zYycwFzAl2/view?usp=sharing"
+    },
+    {
+     "title": "July 2025 Permit for Gas Turbines",
+     "url": "https://www.scribd.com/document/883601734/01156-01PC-070225-Permit"
+    }
+   ],
+   "relatedClusters": [
+    "xAI Colossus Memphis Phase 3（230,000 卡，2025-07）"
+   ],
+   "checkedAt": "2026-10-30",
+   "lat": 35.069,
+   "lon": -90.097
+  },
+  {
+   "id": "epoch-dc-microsoft-narvik-norway",
+   "name": "Microsoft Narvik Norway",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Nscale",
+   "users": "Microsoft",
+   "country": "Norway",
+   "countryId": "578",
+   "location": "Narvik, Norway",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 265285,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 92,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Nscale announcing more than 30.000 Rubin GPUs",
+     "url": "https://www.nscale.com/press-releases/nscale-microsoft-norway"
+    },
+    {
+     "title": "NScale announcing 230 initial MW and possibly an additional 290MW, mentioning 100.000 Nvidia GPUs",
+     "url": "https://www.nscale.com/blog/stargate-norway-laying-the-foundation-for-the-future-of-ai"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 68.438,
+   "lon": 17.427
+  },
+  {
+   "id": "epoch-dc-google-council-bluffs-east",
+   "name": "Google Council Bluffs (East)",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "10410 Bunge Ave, Council Bluffs, IA 51503",
+   "coordPrecision": "address",
+   "h100eCurrent": 255685,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v6e,TPU v5p,TPU v7",
+   "powerMW": 237,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Construction permit application form with site address",
+     "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_A_GEN&SUBMISSION_RID=67330&SUB_FORM_RID=148293"
+    },
+    {
+     "title": "Construction permit application form with backup generator data",
+     "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.167,
+   "lon": -95.798
+  },
+  {
+   "id": "epoch-dc-coreweave-denton-tx",
+   "name": "CoreWeave Denton TX",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "8171 Jim Christal Rd, Denton, TX 76207",
+   "coordPrecision": "address",
+   "h100eCurrent": 252653,
+   "h100ePlanned": 271854,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 262,
+   "plannedPowerMW": 282,
+   "commissioned": "2025-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Core Scientific - CoreWeave Announce 1.2B expansion in Denton, TX",
+     "url": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+    },
+    {
+     "title": "Core Scientific - Denton Datacenter Official Site",
+     "url": "https://corescientific.com/high-density-data-centers/denton-texas/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.219,
+   "lon": -97.175
+  },
+  {
+   "id": "epoch-dc-qts-richmond-1",
+   "name": "QTS Richmond 1",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "6000 Technology Blvd, Sandston, VA 23150",
+   "coordPrecision": "address",
+   "h100eCurrent": 242547,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": 238,
+   "plannedPowerMW": null,
+   "commissioned": "2024-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Richmond 1 factsheet",
+     "url": "https://qtsdatacenters.com/data-centers/richmond-1/"
+    },
+    {
+     "title": "Environmental permit detailing power generation",
+     "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
+    }
+   ],
+   "relatedClusters": [
+    "Meta Research SuperCluster (RSC-1) Phase 2（16,000 卡，2023-05）"
+   ],
+   "checkedAt": "2026-10-30",
+   "lat": 37.489,
+   "lon": -77.247
+  },
+  {
+   "id": "epoch-dc-coreweave-lancaster-greenfield-site",
+   "name": "CoreWeave Lancaster Greenfield site",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "216 Greenfield Rd, Lancaster, PA",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 232946,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 92,
+   "commissioned": null,
+   "plannedOnline": "2027-06",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "CoreWeave announces plans to spend $6 billion on Lancaster data centers",
+     "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx"
+    },
+    {
+     "title": "Machine Investment Group purchases two former printing press sites in Lancaster, Pennsylvania",
+     "url": "https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.047,
+   "lon": -76.256
+  },
+  {
+   "id": "epoch-dc-bridge-data-centres-my06",
+   "name": "Bridge Data Centres MY06",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "ByteDance",
+   "users": "ByteDance",
+   "country": "Malaysia",
+   "countryId": "458",
+   "location": "Bridge Data Centres, Sedenak Tech Park, Johor, Malaysia",
+   "coordPrecision": "city",
+   "h100eCurrent": 221052,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "A100,H100,B200",
+   "powerMW": 243,
+   "plannedPowerMW": null,
+   "commissioned": "2022-12",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Bridge Data Centers 2025 article about MY06",
+     "url": "https://www.bridgedatacentres.com/bridge-data-centres-and-bca-international-to-partner-to-promote-green-data-centers-globally/"
+    },
+    {
+     "title": "Drone footage from 2024",
+     "url": "https://www.youtube.com/watch?v=n2b0ljMXyEg"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 1.713,
+   "lon": 103.526
+  },
+  {
+   "id": "epoch-dc-meta-rosemount",
+   "name": "Meta Rosemount",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1772-2396 145th St, Rosemount, MN 55068, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 215675,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 178,
+   "plannedPowerMW": null,
+   "commissioned": "2026-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official Meta announcement.",
+     "url": "https://datacenters.atmeta.com/2024/03/hello-rosemount/"
+    },
+    {
+     "title": "Air quality permit for initial buildout.",
+     "url": "https://drive.google.com/file/d/1i2D0eMp9uc1CfRhymu69Bms5wz9q0Rkc/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 44.739,
+   "lon": -93.126
+  },
+  {
+   "id": "epoch-dc-amazon-madison-mega-site",
+   "name": "Amazon Madison Mega Site",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Amazon",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Amazon Data Services Inc, Madison Mega Site Nissan Parkway and Highway 22 Canton, Mississippi Madison County",
+   "coordPrecision": "city",
+   "h100eCurrent": 214348,
+   "h100ePlanned": 514436,
+   "chips": null,
+   "chipTypes": "Trainium2",
+   "powerMW": 284,
+   "plannedPowerMW": 683,
+   "commissioned": "2025-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Air Construction Permit",
+     "url": "https://drive.google.com/file/d/1lhSF8TBA7fNWsN4Onj-nfL7X_-BN573r/view?usp=sharing"
+    },
+    {
+     "title": "Backup diesel generator referenced in the permit",
+     "url": "https://www.cat.com/en_US/products/new/power-systems/electric-power/diesel-generator-sets/117341.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.613,
+   "lon": -90.037
+  },
+  {
+   "id": "epoch-dc-google-bristow",
+   "name": "Google Bristow",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "13001 Rollins Ford Road, Bristow, VA 20136",
+   "coordPrecision": "city",
+   "h100eCurrent": 209861,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v5p,TPU v6e,TPU v7",
+   "powerMW": 238,
+   "plannedPowerMW": null,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Google Environmental Report",
+     "url": "https://sustainability.google/reports/google-2026-environmental-report/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 38.731,
+   "lon": -77.548
+  },
+  {
+   "id": "epoch-dc-microsoft-goodyear",
+   "name": "Microsoft Goodyear",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": "OpenAI , Microsoft",
+   "country": "United States",
+   "countryId": "840",
+   "location": "14250 W Broadway Rd, Goodyear, AZ 85338",
+   "coordPrecision": "address",
+   "h100eCurrent": 205154,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,B200",
+   "powerMW": 202,
+   "plannedPowerMW": null,
+   "commissioned": "2023-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Maricopa County map",
+     "url": "https://gis.maricopa.gov/aqd/recordsviewer/#"
+    },
+    {
+     "title": "Dust control permit",
+     "url": "https://edms.maricopa.gov/aq/api/Document/AQizTh7Ek3Odb1UYnAFQc%C3%81Z0k59aCsu4%C3%890gw6xcPqnhTfYtG7scD%C3%89BewWyX4qdzXFk%C3%81xL9%C3%89VthN71ODAxZuKKeU%3D/"
+    }
+   ],
+   "relatedClusters": [
+    "OpenAI/Microsoft Goodyear Arizona（100,000 卡，2024-10）"
+   ],
+   "checkedAt": "2026-10-30",
+   "lat": 33.409,
+   "lon": -112.365
+  },
+  {
+   "id": "epoch-dc-meta-jeffersonville",
+   "name": "Meta Jeffersonville",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "500 8th St, Jeffersonville, IN 47130, USA",
+   "coordPrecision": "address",
+   "h100eCurrent": 203133,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 178,
+   "plannedPowerMW": null,
+   "commissioned": "2026-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official Meta Fact Sheet ",
+     "url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Jeffersonville-Data-Center.pdf"
+    },
+    {
+     "title": "Turner Construction contractor presenting their involvement in the project.",
+     "url": "https://www.turnerconstruction.com/insights/turner-construction-company-to-build-hyperscale-data-center-for-meta-in-indiana"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 38.279,
+   "lon": -85.739
+  },
+  {
+   "id": "epoch-dc-google-kansas-city-east",
+   "name": "Google Kansas City East",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "Kansas City, Missouri, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 202628,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": 105,
+   "plannedPowerMW": null,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Hunt Midwest Business Center press release linking data center with Google",
+     "url": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/"
+    },
+    {
+     "title": "DCD article on the site",
+     "url": "https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.1,
+   "lon": -94.578
+  },
+  {
+   "id": "epoch-dc-meta-temple",
+   "name": "Meta Temple",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "2310 Eberhardt Rd, Temple, TX 76504",
+   "coordPrecision": "address",
+   "h100eCurrent": 202473,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 178,
+   "plannedPowerMW": null,
+   "commissioned": "2025-12",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "JE Dunn project page",
+     "url": "https://jedunn.com/projects/meta-temple-data-center/"
+    },
+    {
+     "title": "TDLR filing",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2022017728"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 31.126,
+   "lon": -97.36
+  },
+  {
+   "id": "epoch-dc-aws-new-albany",
+   "name": "AWS New Albany",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Amazon",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "13360 Miller Rd NW",
+   "coordPrecision": "city",
+   "h100eCurrent": 201112,
+   "h100ePlanned": 351693,
+   "chips": null,
+   "chipTypes": "Trainium2,H100,H200,B200",
+   "powerMW": 213,
+   "plannedPowerMW": 338,
+   "commissioned": "2024-12",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "City of New Albany Project Updates",
+     "url": "https://newalbanyohio.org/community-development/project-updates/"
+    },
+    {
+     "title": "New Albany Community Development Report - Dec. 2024",
+     "url": "https://newalbanyohio.org/wp-content/uploads/2025/01/CD-2024-12.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.081,
+   "lon": -82.809
+  },
+  {
+   "id": "epoch-dc-google-omaha",
+   "name": "Google Omaha",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "11110 State St, Omaha, NE 68142",
+   "coordPrecision": "address",
+   "h100eCurrent": 198585,
+   "h100ePlanned": 904497,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v5p,TPU v6e,TPU v7",
+   "powerMW": 237,
+   "plannedPowerMW": 395,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Draft basis of air permit with details of cooling towers",
+     "url": "https://drive.google.com/file/d/1KN7o-wQOyt1UEud8wpM8PymXJF479r0n/view?usp=sharing"
+    },
+    {
+     "title": "2025 Environmental Report",
+     "url": "https://sustainability.google/reports/google-2025-environmental-report/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.336,
+   "lon": -96.052
+  },
+  {
+   "id": "epoch-dc-coreweave-muskogee-ok",
+   "name": "CoreWeave Muskogee OK",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1525 W 43rd St S, Muskogee, OK 74401, USA",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 198080,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 153,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Core Scientific ground breaking announcement",
+     "url": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+    },
+    {
+     "title": "Port Muskogee ground breaking announcement",
+     "url": "https://www.portmuskogee.com/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 35.697,
+   "lon": -95.384
+  },
+  {
+   "id": "epoch-dc-google-lincoln",
+   "name": "Google Lincoln",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "5475 Cloud Ct, Lincoln, NE 68514",
+   "coordPrecision": "address",
+   "h100eCurrent": 197575,
+   "h100ePlanned": 672057,
+   "chips": null,
+   "chipTypes": "TPU v6e,TPU v7",
+   "powerMW": 141,
+   "plannedPowerMW": 283,
+   "commissioned": "2026-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Army corps land use application with a useful construction plan diagram, split across 7 phases",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Application_no-_NWO-2019-00110-WEH_-_USACE-p16021coll15-1525.pdf"
+    },
+    {
+     "title": "DCD article on the start of site construction",
+     "url": "https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.907,
+   "lon": -96.646
+  },
+  {
+   "id": "epoch-dc-qts-richmond-2",
+   "name": "QTS Richmond 2",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "6030–6070 Technology Blvd, Sandston, VA 23150",
+   "coordPrecision": "city",
+   "h100eCurrent": 182921,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": 180,
+   "plannedPowerMW": null,
+   "commissioned": "2025-02",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Richmond 2 factsheet",
+     "url": "https://qtsdatacenters.com/data-centers/richmond-1/"
+    },
+    {
+     "title": "Environmental permit detailing power generation",
+     "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.523,
+   "lon": -77.316
+  },
+  {
+   "id": "epoch-dc-google-the-dalles",
+   "name": "Google The Dalles",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "3500 River Rd, The Dalles, OR",
+   "coordPrecision": "address",
+   "h100eCurrent": 175341,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v6e,TPU v5p,TPU v5e,TPU v7",
+   "powerMW": 154,
+   "plannedPowerMW": null,
+   "commissioned": "2025-03",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Permit confirming this is a data center and the internal square footage",
+     "url": "https://static1.squarespace.com/static/5e9a1686f716835e61268f2a/t/63659cb153e00407c9cd0bc9/1667603634454/SPR%2B512-22%2C%2BNOD%2C%2B10-31-22%2B%281%29.pdf"
+    },
+    {
+     "title": "Google PUE data listing the \"3rd facility\" from Q3 2025",
+     "url": "https://datacenters.google/efficiency/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 45.625,
+   "lon": -121.202
+  },
+  {
+   "id": "epoch-dc-qts-richmond-3",
+   "name": "QTS Richmond 3",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "3525–3543 Portugee Rd, Sandston, VA 23150",
+   "coordPrecision": "city",
+   "h100eCurrent": 174836,
+   "h100ePlanned": 291056,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": 144,
+   "plannedPowerMW": 240,
+   "commissioned": "2026-02",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Richmond 3 factsheet",
+     "url": "https://q.com/data-centers/richmond-3/"
+    },
+    {
+     "title": "Environmental permit detailing power generation",
+     "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.523,
+   "lon": -77.316
+  },
+  {
+   "id": "epoch-dc-meta-montgomery",
+   "name": "Meta Montgomery",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Co Rd 42, Montgomery, AL 36105, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 174517,
+   "h100ePlanned": 407486,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 153,
+   "plannedPowerMW": 358,
+   "commissioned": "2026-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta Introduction to the Montgomery Project",
+     "url": "https://datacenters.atmeta.com/2024/05/hello-montgomery/"
+    },
+    {
+     "title": "Meta expansion announcement",
+     "url": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.377,
+   "lon": -86.3
+  },
+  {
+   "id": "epoch-dc-meta-kuna",
+   "name": "Meta Kuna",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "601 Kuna Mora Rd, Kuna ID 83634",
+   "coordPrecision": "address",
+   "h100eCurrent": 173248,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 152,
+   "plannedPowerMW": null,
+   "commissioned": "2026-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official Pamphlet from Meta",
+     "url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Kuna-Data-Center.pdf"
+    },
+    {
+     "title": "Application for Power Purchase Agreement, Pleasant Valley Solar 1 ",
+     "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2229/CaseFiles/20221114Application.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 43.459,
+   "lon": -116.421
+  },
+  {
+   "id": "epoch-dc-meta-cheyenne",
+   "name": "Meta Cheyenne",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Cheyenne, WY 82007, USA",
+   "coordPrecision": "address",
+   "h100eCurrent": 172815,
+   "h100ePlanned": 235978,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 152,
+   "plannedPowerMW": 207,
+   "commissioned": "2026-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta Introduction to the Cheyenne Project",
+     "url": "https://datacenters.atmeta.com/2024/07/hello-cheyenne/"
+    },
+    {
+     "title": "Fortis Construction announcement",
+     "url": "https://fortisconstruction.com/news/fortis-building-metas-cheyenne-campus/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.14,
+   "lon": -104.82
+  },
+  {
+   "id": "epoch-dc-amazon-ridgeland",
+   "name": "Amazon Ridgeland",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Amazon",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1626 County Line Road Ridgeland, Mississippi",
+   "coordPrecision": "address",
+   "h100eCurrent": 171299,
+   "h100ePlanned": 788277,
+   "chips": null,
+   "chipTypes": "Trainium2",
+   "powerMW": 228,
+   "plannedPowerMW": 840,
+   "commissioned": "2026-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Air Construction Permit",
+     "url": "https://drive.google.com/file/d/1dQ5Pxl7rQAHLvHoTYrpOX32WAolo46d7/view?usp=sharing"
+    },
+    {
+     "title": "Permit review document",
+     "url": "https://drive.google.com/file/d/1myQ6BYqqzcfsWwv41tufHobvA8T3qo_d/view?usp=sharing"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.4,
+   "lon": -90.197
+  },
+  {
+   "id": "epoch-dc-envision-galaxy-ulanqab",
+   "name": "Envision Galaxy Ulanqab",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "Ulanqab, Inner Mongolia, China",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": 169869,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 470,
+   "commissioned": null,
+   "plannedOnline": "2026-11",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Envision Galaxy Campus website",
+     "url": "https://web.archive.org/web/20261020151735/https://www.envision-group.com/envision-galaxy-campus-ulanqab"
+    },
+    {
+     "title": "Interview with Envision’s head of AI data centers",
+     "url": "https://web.archive.org/web/20261020151337/https://m.21jingji.com/article/20260820/herald/b332589beede6b5fbfb4079dab9a6a03.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.99,
+   "lon": 113.132
+  },
+  {
+   "id": "epoch-dc-meta-huntsville",
+   "name": "Meta Huntsville",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5400 Prosperity Dr NW, Toney, AL",
+   "coordPrecision": "city",
+   "h100eCurrent": 166761,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 146,
+   "plannedPowerMW": null,
+   "commissioned": "2026-03",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Announcement of expansion completing in 2026 ",
+     "url": "https://plateauexcavation.com/projects/huntsville-meta-data-center-meta-project-ferris/"
+    },
+    {
+     "title": "TVA solar installation announcements",
+     "url": "https://www.prnewswire.com/news-releases/tva-announces-largest-valley-solar-installations--built-for-facebook-300743255.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 34.898,
+   "lon": -86.734
+  },
+  {
+   "id": "epoch-dc-coreweave-helios",
+   "name": "Coreweave Helios",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "984 County Road 112, Afton, TX 79220",
+   "coordPrecision": "city",
+   "h100eCurrent": 159552,
+   "h100ePlanned": 638207,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 132,
+   "plannedPowerMW": 528,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Galaxy Q3 financial results with power capacity timeline",
+     "url": "https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx"
+    },
+    {
+     "title": "Permit review with details on backup generators and power capacity",
+     "url": "https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_EXTERNAL_SEARCH_GET_FILE&dID=8711478&Rendition=Web#:~:text=Galaxy%20Helios%20I%20LLC%20owns,are%20the%20basis%20of%20the"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.763,
+   "lon": -100.817
+  },
+  {
+   "id": "epoch-dc-microsoft-project-osmium",
+   "name": "Microsoft Project Osmium",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "5855 SW Kerry St, Cumming, IA 50061",
+   "coordPrecision": "city",
+   "h100eCurrent": 155634,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "A100,H100,B200",
+   "powerMW": 190,
+   "plannedPowerMW": null,
+   "commissioned": "2021-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "SemiAnalysis article with IT power estimations and detailing usage by OpenAI for training GPT 3.5",
+     "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
+    },
+    {
+     "title": "DCD Article on site expansion",
+     "url": "https://www.datacenterdynamics.com/en/news/microsoft-granted-permit-for-new-data-center-in-des-moines-iowa/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.483,
+   "lon": -93.762
+  },
+  {
+   "id": "epoch-dc-ytl-johor",
+   "name": "YTL Johor",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "Malaysia",
+   "countryId": "458",
+   "location": "YTL Green Data Centers, Kulai, Johor, Malaysia",
+   "coordPrecision": "city",
+   "h100eCurrent": 153532,
+   "h100ePlanned": 585422,
+   "chips": null,
+   "chipTypes": "B200,B300",
+   "powerMW": 113,
+   "plannedPowerMW": 284,
+   "commissioned": "2025-11",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official YTL page for the campus",
+     "url": "https://ytldatacenters.com/locations/malaysia/"
+    },
+    {
+     "title": "YTL press release on the use of GB200's",
+     "url": "https://www.ytlpowerinternational.com/press-releases/ytl-creates-one-of-the-worlds-most-advanced-supercomputers-powered-by-nvidia-grace-blackwell-based-dgx-cloud/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 1.667,
+   "lon": 103.6
+  },
+  {
+   "id": "epoch-dc-meta-eagle-mountain",
+   "name": "Meta Eagle Mountain",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1275 N Community Cir, Eagle Mountain, UT 84005",
+   "coordPrecision": "city",
+   "h100eCurrent": 151354,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 133,
+   "plannedPowerMW": null,
+   "commissioned": "2025-12",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Expansion announcement by Meta ",
+     "url": "https://www.facebook.com/EagleMountainDataCenter/posts/517902967007646"
+    },
+    {
+     "title": "Report on Williams Company gas-fired plant under construction adjacent to data cente",
+     "url": "https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.309,
+   "lon": -112.012
+  },
+  {
+   "id": "epoch-dc-google-midlothian",
+   "name": "Google Midlothian",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "3250 Railport Parkway, Midlothian, TX 76065",
+   "coordPrecision": "address",
+   "h100eCurrent": 143581,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v7,TPU v6e",
+   "powerMW": 103,
+   "plannedPowerMW": null,
+   "commissioned": "2026-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Site Map and Permit",
+     "url": "https://ecode360.com/MI6405/laws/LF1665983.pdf"
+    },
+    {
+     "title": "City Council Presentation",
+     "url": "https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.439,
+   "lon": -97.051
+  },
+  {
+   "id": "epoch-dc-ecodatacenter-2",
+   "name": "EcoDataCenter 2",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Mistral AI",
+   "users": "Mistral AI",
+   "country": "Sweden",
+   "countryId": "752",
+   "location": "Kvarnsvedsvägen 420, 784 66 Borlänge, Sweden",
+   "coordPrecision": "address",
+   "h100eCurrent": null,
+   "h100ePlanned": 138912,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 48,
+   "commissioned": null,
+   "plannedOnline": "2027-06",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "EcoDataCenter 2 campus overview",
+     "url": "https://ecodatacenter.tech/data-center/ecodatacenter2"
+    },
+    {
+     "title": "EcoDataCenter 2025 Annual Report",
+     "url": "https://ecodatacenter.tech/hubfs/Annual%20Report%202025_EcoDC%20Holding%20AB_ENG.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 60.525,
+   "lon": 15.414
+  },
+  {
+   "id": "epoch-dc-google-storey-county",
+   "name": "Google Storey County",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "Storey County, Nevada, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 133906,
+   "h100ePlanned": 540677,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v4,TPU v6e,TPU v5p",
+   "powerMW": 161,
+   "plannedPowerMW": 300,
+   "commissioned": "2023-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Air quality permit application listing emergency generators and a small \"R&D\" fuel cell plant",
+     "url": "https://ndep-onbase.nv.gov/api/Document/AeFo%C3%89pjclbkomJ7CWpPryLOjA6FQT9HFrkSuMWbMXTpKCzSR%C3%81W1f8zzFhGhik1iZCcNSpuTRRqNXD1inrrpBxtA%3D/"
+    },
+    {
+     "title": "Aterio",
+     "url": "https://www.aterio.io/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.457,
+   "lon": -119.516
+  },
+  {
+   "id": "epoch-dc-meta-los-lunas",
+   "name": "Meta Los Lunas",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "4250 Messenger Lp, Los Lunas, NM 87031",
+   "coordPrecision": "address",
+   "h100eCurrent": 133906,
+   "h100ePlanned": 869126,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 118,
+   "plannedPowerMW": 218,
+   "commissioned": "2026-03",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta fact sheet",
+     "url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Los-Lunas-Data-Center.pdf"
+    },
+    {
+     "title": "Air quality permit for expansion",
+     "url": "https://drive.google.com/file/d/1TxuazhSkiaHCd5FGKh_Syc_RsrzfV7Wd/view?usp=drive_link"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 34.83,
+   "lon": -106.784
+  },
+  {
+   "id": "epoch-dc-google-lancaster",
+   "name": "Google Lancaster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "105 Whiley Rd, Lancaster, OH 43130",
+   "coordPrecision": "address",
+   "h100eCurrent": 130369,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v5e,TPU v6e",
+   "powerMW": 137,
+   "plannedPowerMW": null,
+   "commissioned": "2024-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "DCD article discussing the announcement of this site",
+     "url": "https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.727,
+   "lon": -82.683
+  },
+  {
+   "id": "epoch-dc-meta-qts-hillsboro-2",
+   "name": "Meta-QTS Hillsboro 2",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "4755 NE Huffman St, Hillsboro, OR 97124",
+   "coordPrecision": "address",
+   "h100eCurrent": 123839,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100",
+   "powerMW": 180,
+   "plannedPowerMW": null,
+   "commissioned": "2023-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "QTS Hillsboro 2 data center announcement",
+     "url": "https://q.com/data-centers/hillsboro-2/"
+    },
+    {
+     "title": "QTS and Meta sign an agreement with PGE for a 120MWac solar installation",
+     "url": "https://q.com/news/avangrid-and-portland-general-electric-collaborate-with-qts-and-meta-to-build-120-mwac-solar-project-in-oregon/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 45.559,
+   "lon": -122.93
+  },
+  {
+   "id": "epoch-dc-google-waltham-cross",
+   "name": "Google Waltham Cross",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United Kingdom",
+   "countryId": "826",
+   "location": "Land at Maxwell's Farm West, Great Cambridge Road, Cheshunt, EN8 8XH",
+   "coordPrecision": "city",
+   "h100eCurrent": 123800,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v6e",
+   "powerMW": 88,
+   "plannedPowerMW": null,
+   "commissioned": "2025-09",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Google — Waltham Cross data centre page",
+     "url": "https://datacenters.google/locations/waltham-cross/"
+    },
+    {
+     "title": "Google opening announcement (Sept 2025)",
+     "url": "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 51.686,
+   "lon": -0.033
+  },
+  {
+   "id": "epoch-dc-vnet-bayin-ulanqab",
+   "name": "VNET Bayin Ulanqab",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "VNET",
+   "users": "ByteDance",
+   "country": "China",
+   "countryId": "156",
+   "location": "Bayin, Ulanqab, China",
+   "coordPrecision": "address",
+   "h100eCurrent": 122789,
+   "h100ePlanned": 388075,
+   "chips": null,
+   "chipTypes": "Ascend 910C",
+   "powerMW": 221,
+   "plannedPowerMW": 700,
+   "commissioned": "2025-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official VNET resource page for data centers",
+     "url": "https://web.archive.org/web/20260619185141/https://www.vnet.com/resource.html"
+    },
+    {
+     "title": "Analyst report by Zhongtai Securities, citing 1-GW capacity goals",
+     "url": "https://web.archive.org/web/20260619185224/https://stcn.com/article/detail/2241162.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.624,
+   "lon": 112.633
+  },
+  {
+   "id": "epoch-dc-google-arcola",
+   "name": "Google Arcola",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "42575 Arcola Blvd, Sterling, VA 20166",
+   "coordPrecision": "city",
+   "h100eCurrent": 108135,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v6e,TPU v7",
+   "powerMW": 77,
+   "plannedPowerMW": null,
+   "commissioned": "2026-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Google Investing $1B To Improve Northern Virginia Data Centers (via Aterio)",
+     "url": "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.002,
+   "lon": -77.403
+  },
+  {
+   "id": "epoch-dc-google-red-oak",
+   "name": "Google Red Oak",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "330 Austin Blvd, Red Oak, TX 75154",
+   "coordPrecision": "address",
+   "h100eCurrent": 108135,
+   "h100ePlanned": 279434,
+   "chips": null,
+   "chipTypes": "TPU v6e",
+   "powerMW": 77,
+   "plannedPowerMW": 154,
+   "commissioned": "2025-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Media coverage confirming location, project name, investment size, and some timing",
+     "url": "https://www.mysanantonio.com/business/article/google-texas-data-center-21236627.php"
+    },
+    {
+     "title": "Google PUE data listing the Red Oak site from Q1 2026",
+     "url": "https://datacenters.google/efficiency/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 32.538,
+   "lon": -96.797
+  },
+  {
+   "id": "epoch-dc-google-papillion",
+   "name": "Google Papillion",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Google",
+   "users": "Google DeepMind",
+   "country": "United States",
+   "countryId": "840",
+   "location": "14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 100556,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "TPU v4,TPU v5e,TPU v5p",
+   "powerMW": 237,
+   "plannedPowerMW": null,
+   "commissioned": "2023-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Draft basis of air permit with details of cooling towers",
+     "url": "https://drive.google.com/file/d/1nONzuLnpMPST0bOINDKXmSZ0ANlynYY0/view?usp=sharing"
+    },
+    {
+     "title": "2025 Environmental Report",
+     "url": "https://sustainability.google/reports/google-2025-environmental-report/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.154,
+   "lon": -96.042
+  },
+  {
+   "id": "epoch-dc-meta-gallatin",
+   "name": "Meta Gallatin",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1 Meta Lp, Gallatin, TN 37066",
+   "coordPrecision": "city",
+   "h100eCurrent": 99545,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 87,
+   "plannedPowerMW": null,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta fact sheet",
+     "url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Gallatin-Data-Center.pdf"
+    },
+    {
+     "title": "Campus extension announcement",
+     "url": "https://www.gallatingetsit.com/newsroom/meta-approved-for-another-data-center-on-gallatin-campus"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 36.388,
+   "lon": -86.448
+  },
+  {
+   "id": "epoch-dc-coreweave-ellendale-nd",
+   "name": "CoreWeave Ellendale ND",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "9685 87th Ave SE, Ellendale, ND 58436",
+   "coordPrecision": "address",
+   "h100eCurrent": 93482,
+   "h100ePlanned": 505306,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 68,
+   "plannedPowerMW": 400,
+   "commissioned": "2025-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Applied Digital Announces 250MW AI Data Center Lease With CoreWeave",
+     "url": "https://ir.applieddigital.com/news-events/press-releases/detail/123/applied-digital-announces-250mw-ai-data-center-lease-with"
+    },
+    {
+     "title": "SEC 8k Filing with Applied Digital",
+     "url": "https://ir.applieddigital.com/sec-filings/all-sec-filings/content/0001641172-25-013199/form8-k.htm"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 46.021,
+   "lon": -98.569
+  },
+  {
+   "id": "epoch-dc-meta-sarpy",
+   "name": "Meta Sarpy",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "14436-14998 Fairview Rd, Springfield, NE 68059, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 91966,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 80,
+   "plannedPowerMW": null,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta Sarpy info sheet (PDF)",
+     "url": "https://datacenters.atmeta.com/asset/sarpy-data-center-info-sheet/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.082,
+   "lon": -96.134
+  },
+  {
+   "id": "epoch-dc-huawei-horinger",
+   "name": "Huawei Horinger",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Huawei",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "Huawei, Horinger, China",
+   "coordPrecision": "city",
+   "h100eCurrent": 89439,
+   "h100ePlanned": 168108,
+   "chips": null,
+   "chipTypes": "Ascend 910C",
+   "powerMW": 184,
+   "plannedPowerMW": 346,
+   "commissioned": "2025-06",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Press report on the campus launch announcing CloudMatrix384 use",
+     "url": "https://web.archive.org/web/20260623185431/https://finance.sina.com.cn/tech/roll/2025-07-14/doc-inffmier6612415.shtml"
+    },
+    {
+     "title": "News article on construction start date and capacity at full build-out",
+     "url": "https://web.archive.org/web/20260624112951/http://nmg.news.cn/20231008/57bb95be6791497db95bc7d2f229a68e/c.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 40.38,
+   "lon": 111.822
+  },
+  {
+   "id": "epoch-dc-coreweave-chester-va",
+   "name": "CoreWeave Chester VA",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1401 Meadowville Technology Parkway, Chester, VA",
+   "coordPrecision": "city",
+   "h100eCurrent": 88428,
+   "h100ePlanned": 125821,
+   "chips": null,
+   "chipTypes": "H100,B200",
+   "powerMW": 82,
+   "plannedPowerMW": 113,
+   "commissioned": "2024-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Chirisa secures $200 million loan to fit out VA Data center for CoreWeave",
+     "url": "https://www.datacenterdynamics.com/en/news/chirisa-secures-200-million-loan-to-fit-out-virginia-data-center-for-coreweave/"
+    },
+    {
+     "title": "Blue Owl-led JV secures $750m to build out data centers for CoreWeave",
+     "url": "https://www.datacenterdynamics.com/en/news/blue-owl-led-jv-secures-750m-to-build-out-data-centers-for-coreweave/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.349,
+   "lon": -77.438
+  },
+  {
+   "id": "epoch-dc-oracle-batam",
+   "name": "Oracle Batam",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Oracle",
+   "users": "Tencent",
+   "country": "Indonesia",
+   "countryId": "360",
+   "location": "Batam, Indonesia",
+   "coordPrecision": "city",
+   "h100eCurrent": 84386,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200,B300",
+   "powerMW": 72,
+   "plannedPowerMW": null,
+   "commissioned": "2025-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "DayOne discloses a partnership with \"leading global tech company\" at their Batam campus",
+     "url": "https://www.linkedin.com/posts/digitaltransformation-datacenter-ugcPost-7264614420276744194-aQSa/"
+    },
+    {
+     "title": "Oracle announces their Batam cloud compute region",
+     "url": "https://docs.oracle.com/en-us/iaas/releasenotes/oci/new-region-batam.htm"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 1.103,
+   "lon": 104.038
+  },
+  {
+   "id": "epoch-dc-aws-berwick",
+   "name": "AWS Berwick",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Amazon",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1125 Electron Ave, Berwick, PA 18603",
+   "coordPrecision": "address",
+   "h100eCurrent": 81354,
+   "h100ePlanned": 145023,
+   "chips": null,
+   "chipTypes": "Trainium2",
+   "powerMW": 108,
+   "plannedPowerMW": 169,
+   "commissioned": "2025-09",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "NYT reporting that one of the Project Rainier sites may be in Pennsylvania",
+     "url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
+    },
+    {
+     "title": "Talen SEC filing detailing the $650M sale of the Cumulus data center campus to AWS",
+     "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828024036935/tln-20240630.htm"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.084,
+   "lon": -76.144
+  },
+  {
+   "id": "epoch-dc-coreweave-marble-nc",
+   "name": "CoreWeave Marble NC",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "155 Palmer Ln, Marble, NC 28905",
+   "coordPrecision": "address",
+   "h100eCurrent": 78828,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 65,
+   "plannedPowerMW": null,
+   "commissioned": "2026-03",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Core Scientific - Q1 2026 Fiscal Earnings Call",
+     "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-26-031246/q1fy26earningsdeck.htm"
+    },
+    {
+     "title": "Core Scientific - Official Marble, NC Datacenter page",
+     "url": "https://corescientific.com/high-density-data-centers/marble-nc/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 35.185,
+   "lon": -83.914
+  },
+  {
+   "id": "epoch-dc-meta-aiken",
+   "name": "Meta Aiken",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Meta",
+   "users": "Meta",
+   "country": "United States",
+   "countryId": "840",
+   "location": "7601 State Hwy 105, Trenton, SC 29847, USA",
+   "coordPrecision": "city",
+   "h100eCurrent": 78322,
+   "h100ePlanned": 147044,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 69,
+   "plannedPowerMW": 129,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Meta Introduction to the Aiken Project",
+     "url": "https://datacenters.atmeta.com/2024/08/hello-south-carolina/"
+    },
+    {
+     "title": "DPR Construction project page",
+     "url": "https://www.dpr.com/projects/meta-aiken-data-center-aiken-sc"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.74,
+   "lon": -81.84
+  },
+  {
+   "id": "epoch-dc-huawei-wuhu",
+   "name": "Huawei Wuhu",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Huawei",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "Wuhu, China",
+   "coordPrecision": "address",
+   "h100eCurrent": 76326,
+   "h100ePlanned": 221924,
+   "chips": null,
+   "chipTypes": "Ascend 910C",
+   "powerMW": 157,
+   "plannedPowerMW": 457,
+   "commissioned": "2025-01",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official Huawei page for its Wuhu DC",
+     "url": "https://activity.huaweicloud.com/events/east-china1.html"
+    },
+    {
+     "title": "Aerial footage of Jiangbei, one of three zones part of the multi-part campus",
+     "url": "https://www.bilibili.com/video/BV1ca4y127pB/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 31.18,
+   "lon": 118.214
+  },
+  {
+   "id": "epoch-dc-core42-lake-mariner",
+   "name": "Core42 Lake Mariner",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Core42",
+   "users": "G42",
+   "country": "United States",
+   "countryId": "840",
+   "location": "7725 Lake Rd, Barker, NY 14012",
+   "coordPrecision": "address",
+   "h100eCurrent": 71753,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 58,
+   "plannedPowerMW": null,
+   "commissioned": "2025-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Terawulf press release with details of Core42 lease for Buildings 1-2",
+     "url": "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center"
+    },
+    {
+     "title": "Terawulf press release with details and timeline for Buildings 1-5",
+     "url": "https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 43.359,
+   "lon": -78.604
+  },
+  {
+   "id": "epoch-dc-microsoft-sat40",
+   "name": "Microsoft SAT40",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "15000 Lambda Drive, San Antonio, TX 78245",
+   "coordPrecision": "city",
+   "h100eCurrent": 64679,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,B300",
+   "powerMW": 75,
+   "plannedPowerMW": null,
+   "commissioned": "2024-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "TDLR for SAT40 (Building 2)",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2023013247"
+    },
+    {
+     "title": "TDLR for a set of three long buildings, which includes the first building we believe is for AI (Building 1)",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 29.425,
+   "lon": -98.495
+  },
+  {
+   "id": "epoch-dc-stack-infrastructure-nva02",
+   "name": "STACK Infrastructure NVA02",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "9590 Hornbaker Rd, Manassas, VA 20109",
+   "coordPrecision": "address",
+   "h100eCurrent": 61142,
+   "h100ePlanned": 250632,
+   "chips": null,
+   "chipTypes": "H100",
+   "powerMW": 85,
+   "plannedPowerMW": 348,
+   "commissioned": "2024-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official website for NVA02, showcasing their project.",
+     "url": "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/"
+    },
+    {
+     "title": "Most recent official schematic of the NVA02 campus.",
+     "url": "https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-expands-northern-virginia-data-center-campus/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 38.746,
+   "lon": -77.538
+  },
+  {
+   "id": "epoch-dc-anthropic-lake-mariner",
+   "name": "Anthropic Lake Mariner",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "AI XPV Platform",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "7725 Lake Rd, Barker, NY 14012",
+   "coordPrecision": "address",
+   "h100eCurrent": 58565,
+   "h100ePlanned": 527084,
+   "chips": null,
+   "chipTypes": "TPU v7",
+   "powerMW": 42,
+   "plannedPowerMW": 378,
+   "commissioned": "2026-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Terawulf press release with details and timeline for Buildings 1-5",
+     "url": "https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results"
+    },
+    {
+     "title": "DCD article suggesting that Fluidstack will deploy Google TPUs at Lake Mariner",
+     "url": "https://www.datacenterdynamics.com/en/news/google-offers-its-tpus-to-ai-cloud-providers-report/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 43.359,
+   "lon": -78.604
+  },
+  {
+   "id": "epoch-dc-microsoft-nebius-new-jersey",
+   "name": "Microsoft-Nebius New Jersey",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Nebius",
+   "users": "Microsoft",
+   "country": "United States",
+   "countryId": "840",
+   "location": "3963 S Lincoln Ave, Vineland, New Jersey",
+   "coordPrecision": "address",
+   "h100eCurrent": 56847,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 50,
+   "plannedPowerMW": null,
+   "commissioned": "2026-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Nebius: up to 300 MW capacity at new New Jersey data center",
+     "url": "https://nebius.com/newsroom/nebius-accelerates-us-expansion-adding-up-to-300-mw-capacity-at-new-data-center-in-new-jersey"
+    },
+    {
+     "title": "DataOne and Nebius partner for 300 MW AI data center (Data Centre Magazine)",
+     "url": "https://datacentremagazine.com/articles/dataone-and-nebius-partner-for-new-300mw-ai-data-centre"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 39.428,
+   "lon": -75.018
+  },
+  {
+   "id": "epoch-dc-coreweave-norway",
+   "name": "CoreWeave Norway",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "Norway",
+   "countryId": "578",
+   "location": "Stølevegen 39, 4715 Øvrebø, Norway",
+   "coordPrecision": "address",
+   "h100eCurrent": 50773,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 42,
+   "plannedPowerMW": null,
+   "commissioned": "2025-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "CoreWeave/Bulk N01 partnership announcement",
+     "url": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+    },
+    {
+     "title": "Bulk N01 expansion announcement",
+     "url": "https://bulkinfrastructure.com/newsroom/bulk-data-centers-unveils-plan-for-data-center-expansion-following-unprecedented-demand"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 58.258,
+   "lon": 7.892
+  },
+  {
+   "id": "epoch-cluster-tesla-cortex-phase-1",
+   "name": "Tesla Cortex Phase 1",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Tesla",
+   "users": "Tesla",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "1 Tesla Rd, Austin, TX 78725",
+   "coordPrecision": "site",
+   "h100eCurrent": 50000,
+   "h100ePlanned": null,
+   "chips": 50000,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 71,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20250217061801/https://www.datacenterdynamics.com/en/news/teslas-50000-gpu-cortex-supercomputer-went-live-in-q4-2024/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240822222555/https://www.fool.com/earnings/call-transcripts/2024/07/24/tesla-tsla-q2-2024-earnings-call-transcript/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 30.223,
+   "lon": -97.619
+  },
+  {
+   "id": "epoch-dc-nebius-mantsala",
+   "name": "Nebius Mantsala",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Nebius",
+   "users": "Microsoft",
+   "country": "Finland",
+   "countryId": "246",
+   "location": "Mäntsälä, Finland",
+   "coordPrecision": "city",
+   "h100eCurrent": 48528,
+   "h100ePlanned": 226234,
+   "chips": null,
+   "chipTypes": "H100,B300,H200",
+   "powerMW": 75,
+   "plannedPowerMW": 145,
+   "commissioned": "2024-10",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Nebius to triple capacity of Mantsala campus to 75 MW",
+     "url": "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw"
+    },
+    {
+     "title": "Nebius announcing deployment of first GB300 NVL72 systems in Europe",
+     "url": "https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 60.635,
+   "lon": 25.316
+  },
+  {
+   "id": "epoch-dc-southgate-melbourne",
+   "name": "Southgate Melbourne",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Firmus",
+   "users": null,
+   "country": "Australia",
+   "countryId": "036",
+   "location": "Melbourne, Victoria, Australia",
+   "coordPrecision": "city",
+   "h100eCurrent": 46488,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 41,
+   "plannedPowerMW": null,
+   "commissioned": "2026-08",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Firmus Expands Project Southgate Across Australia",
+     "url": "https://firmus.co/newsroom/southgate-expansion"
+    },
+    {
+     "title": "Firmus Signs Multi-Year Agreement with Global Hyperscale Customer at Project Southgate",
+     "url": "https://firmus.co/newsroom/firmus-signs-multi-year-agreement-with-global-hyperscale-customer-at-project-southgate"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": -37.814,
+   "lon": 144.963
+  },
+  {
+   "id": "epoch-dc-stream-phoenix",
+   "name": "Stream Phoenix",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "2950 S. Litchfield Road",
+   "coordPrecision": "city",
+   "h100eCurrent": 46134,
+   "h100ePlanned": 160182,
+   "chips": null,
+   "chipTypes": "H100",
+   "powerMW": 64,
+   "plannedPowerMW": 220,
+   "commissioned": "2026-05",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Official page for the data center.",
+     "url": "https://www.streamdatacenters.com/locations/phoenix/"
+    },
+    {
+     "title": "Official pre-construction planning document.",
+     "url": "https://www.streamdatacenters.com/wp-content/uploads/2026/01/SDC-Goodyear-CaseStudy-251218.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.467,
+   "lon": -112.385
+  },
+  {
+   "id": "epoch-dc-microsoft-sat14",
+   "name": "Microsoft SAT14",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Microsoft",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "3545 Wiseman Boulevard, San Antonio, TX 78251",
+   "coordPrecision": "address",
+   "h100eCurrent": 45174,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,B300",
+   "powerMW": 47,
+   "plannedPowerMW": null,
+   "commissioned": "2024-07",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Phase 1 TDLR",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019142"
+    },
+    {
+     "title": "Phase 2 TDLR",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019471"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 29.473,
+   "lon": -98.682
+  },
+  {
+   "id": "epoch-cluster-lawrence-livermore-nl-el-capitan-phase-2",
+   "name": "Lawrence Livermore NL El Capitan Phase 2",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "US Department of Energy",
+   "users": "US Government,Lawrence Livermore NL,Scientific Research",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "Lawrence Livermore National Laboratory 7000 East Ave, Livermore, CA 94550",
+   "coordPrecision": "site",
+   "h100eCurrent": 44143,
+   "h100ePlanned": null,
+   "chips": 44544,
+   "chipTypes": "AMD Instinct MI300A",
+   "powerMW": 35,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "top500Rank": 2,
+   "rmaxPF": 1809,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20241122140255/https://www.tomshardware.com/pc-components/cpus/amd-powered-el-capitan-is-now-the-worlds-fastest-supercomputer-with-1-7-exaflops-of-performance-fastest-intel-machine-falls-to-third-place-on-top500-list"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.682,
+   "lon": -121.768
+  },
+  {
+   "id": "epoch-dc-vantage-tx1",
+   "name": "Vantage TX1",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "未公开",
+   "users": null,
+   "country": "United States",
+   "countryId": "840",
+   "location": "14720 Omicron Dr, San Antonio, TX 78245",
+   "coordPrecision": "address",
+   "h100eCurrent": 38706,
+   "h100ePlanned": 154624,
+   "chips": null,
+   "chipTypes": "B200",
+   "powerMW": 32,
+   "plannedPowerMW": 128,
+   "commissioned": "2026-02",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Construction Permitting for TX11",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561"
+    },
+    {
+     "title": "Construction Permitting for TX12",
+     "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001234"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 29.417,
+   "lon": -98.79
+  },
+  {
+   "id": "epoch-dc-coreweave-dalton-1-2",
+   "name": "CoreWeave Dalton 1 & 2",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "CoreWeave",
+   "users": "OpenAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "2205 Industrial South Rd, Dalton, GA, 30721",
+   "coordPrecision": "address",
+   "h100eCurrent": 32239,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 28,
+   "plannedPowerMW": null,
+   "commissioned": "2026-02",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Core Scientific page",
+     "url": "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/"
+    },
+    {
+     "title": "SEC filing with power utility information",
+     "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001140361-25-039864/0001140361-25-039864.pdf"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 34.713,
+   "lon": -84.952
+  },
+  {
+   "id": "epoch-dc-alibaba-zhangbei",
+   "name": "Alibaba Zhangbei",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Alibaba",
+   "users": "Alibaba",
+   "country": "China",
+   "countryId": "156",
+   "location": "Alibaba Zhangbei Yun Calculation Data Center, Zhangbei County, Zhangjiakou, Hebei, China, 076471",
+   "coordPrecision": "city",
+   "h100eCurrent": 31885,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H20",
+   "powerMW": 169,
+   "plannedPowerMW": null,
+   "commissioned": "2025-09",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Sinocities blog on Eastern Data Western Compute sites",
+     "url": "https://sinocities.substack.com/p/how-is-chinas-eastern-data-western"
+    },
+    {
+     "title": "News on the Chahar site, with an aerial photo",
+     "url": "https://web.archive.org/web/20250712063836/https://www.cscec.com/xwzx_new/zqydt_new/202504/3867074.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.288,
+   "lon": 114.769
+  },
+  {
+   "id": "epoch-dc-start-campus-sines-data-campus",
+   "name": "Start Campus Sines Data Campus",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Nscale",
+   "users": "Microsoft",
+   "country": "Portugal",
+   "countryId": "620",
+   "location": "Start Campus - Sustainable Data Center Services, Sines, Portugal",
+   "coordPrecision": "city",
+   "h100eCurrent": 31834,
+   "h100ePlanned": 540677,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 33,
+   "plannedPowerMW": 233,
+   "commissioned": "2026-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Website for the site",
+     "url": "https://www.startcampus.pt/sines"
+    },
+    {
+     "title": "Factsheet for the full site",
+     "url": "https://23712035.hs-sites.com/hubfs/SINES%20DC_1.2%20GW%20DC%20Campus_V2.pdf?hsCtaAttrib=194868835084"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.957,
+   "lon": -8.869
+  },
+  {
+   "id": "epoch-cluster-jupiter-ju-lich",
+   "name": "Jupiter, Jülich",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "EuroHPC JU,Julich Supercomputing Center",
+   "users": null,
+   "country": "Germany",
+   "countryId": "276",
+   "location": "Jülich Supercomputing Centre (JSC) 52428 Jülich, Germany",
+   "coordPrecision": "site",
+   "h100eCurrent": 23536,
+   "h100ePlanned": null,
+   "chips": 23536,
+   "chipTypes": "NVIDIA GH200",
+   "powerMW": 18,
+   "plannedPowerMW": null,
+   "commissioned": "2025-06",
+   "plannedOnline": null,
+   "top500Rank": 5,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240825120701/https://nvidianews.nvidia.com/news/nvidia-grace-hopper-superchip-powers-jupiter-defining-a-new-class-of-supercomputers-to-propel-ai-for-scientific-discovery"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.is/oyvz9"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 50.922,
+   "lon": 6.358
+  },
+  {
+   "id": "epoch-cluster-nexgen-cloud-hyperstack-aq-compute-supercomputer",
+   "name": "NexGen Cloud Hyperstack AQ Compute Supercomputer",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "NexGen Cloud",
+   "users": "Cloud",
+   "country": "Norway",
+   "countryId": "578",
+   "location": "Follummoveien 94, 3516 Hønefoss, Norway",
+   "coordPrecision": "site",
+   "h100eCurrent": 16384,
+   "h100ePlanned": null,
+   "chips": 16384,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 23,
+   "plannedPowerMW": null,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240911111117/https://www.datacenterdynamics.com/en/news/nexgen-cloud-to-host-ai-supercloud-in-norwegian-data-center/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.ph/XcQQY"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 60.205,
+   "lon": 10.235
+  },
+  {
+   "id": "epoch-dc-xai-qts-atlanta",
+   "name": "xAI QTS Atlanta",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "SpaceXAI",
+   "users": "SpaceXAI",
+   "country": "United States",
+   "countryId": "840",
+   "location": "1025 Jefferson Street NW, Atlanta, GA 30318",
+   "coordPrecision": "address",
+   "h100eCurrent": 11470,
+   "h100ePlanned": null,
+   "chips": null,
+   "chipTypes": "H100,A100",
+   "powerMW": 17,
+   "plannedPowerMW": null,
+   "commissioned": "2025-02",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Develop Fulton bond fact sheet: X Corp Generative AI Equipment Project (Jan 23, 2024)",
+     "url": "https://www.developfultoncounty.com/meetings-and-minutes_239_547601452.pdf"
+    },
+    {
+     "title": "Business Insider: Elon Musk's new Atlanta data center for xAI has $700 million in AI equipment",
+     "url": "https://www.businessinsider.com/xai-elon-musk-x-new-atlanta-data-center-2025-2"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.777,
+   "lon": -84.42
+  },
+  {
+   "id": "epoch-cluster-nvidia-coreweave-eos-dfw-phase-1",
+   "name": "NVIDIA CoreWeave Eos-DFW Phase 1",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Nvidia,CoreWeave",
+   "users": "NVIDIA,CoreWeave",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "1000 Coit Rd, Plano, TX 75075",
+   "coordPrecision": "site",
+   "h100eCurrent": 10752,
+   "h100ePlanned": null,
+   "chips": 10752,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 16,
+   "plannedPowerMW": null,
+   "commissioned": "2023-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240430123932/https://blogs.nvidia.com/blog/scaling-ai-training-mlperf/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240901052405/https://www.nextplatform.com/2024/03/06/a-tale-of-two-nvidia-eos-supercomputers/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 33.015,
+   "lon": -96.765
+  },
+  {
+   "id": "epoch-cluster-alps-supercomputer-phase-2",
+   "name": "Alps Supercomputer Phase 2",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "ETH Domain",
+   "users": "Swiss Universities",
+   "country": "Switzerland",
+   "countryId": "756",
+   "location": "Swiss National Supercomputing Centre Via Trevano 131, 6900 Lugano, Switzerland",
+   "coordPrecision": "site",
+   "h100eCurrent": 10752,
+   "h100ePlanned": null,
+   "chips": 10752,
+   "chipTypes": "NVIDIA GH200",
+   "powerMW": 12,
+   "plannedPowerMW": null,
+   "commissioned": "2024-09",
+   "plannedOnline": null,
+   "top500Rank": 10,
+   "rmaxPF": 434.9,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240519135849/https://www.cscs.ch/computers/alps"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240415160748/https://www.hpcwire.com/2023/04/05/into-the-alps-what-exactly-is-the-new-swiss-supercomputer-infrastructure/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 46.024,
+   "lon": 8.96
+  },
+  {
+   "id": "epoch-cluster-tesla-10k-h100-cluster",
+   "name": "Tesla 10k H100 Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Tesla",
+   "users": "Tesla",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "on prem\" for Tesla",
+   "coordPrecision": "site",
+   "h100eCurrent": 10000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 15,
+   "plannedPowerMW": null,
+   "commissioned": "2023-08",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240802004227/https://www.theregister.com/2023/08/30/tesla_nvidia_supercomputer/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.ph/PwU9T"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 42.41,
+   "lon": -82.982
+  },
+  {
+   "id": "epoch-cluster-microsoft-gpt-4-cluster",
+   "name": "Microsoft GPT-4 cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Microsoft,OpenAI",
+   "users": "OpenAI",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "Des Moines, Iowa",
+   "coordPrecision": "site",
+   "h100eCurrent": 7883,
+   "h100ePlanned": null,
+   "chips": 25000,
+   "chipTypes": "NVIDIA A100",
+   "powerMW": 21,
+   "plannedPowerMW": null,
+   "commissioned": "2022-04",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://archive.ph/qTvzU"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.ph/vqdRc#selection-4109.11-4109.239"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.585,
+   "lon": -93.624
+  },
+  {
+   "id": "epoch-cluster-aramco-groq-inference-cluster",
+   "name": "Aramco Groq Inference Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Saudi Aramco",
+   "users": "Saudi Aramco,Cloud",
+   "country": "Saudi Arabia",
+   "countryId": "682",
+   "location": "Dammam, Saudi Arabia",
+   "coordPrecision": "site",
+   "h100eCurrent": 7475,
+   "h100ePlanned": null,
+   "chips": 19725,
+   "chipTypes": "GroqChip LPU v1",
+   "powerMW": 8,
+   "plannedPowerMW": null,
+   "commissioned": "2025-01",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20250212161800/https://www.linkedin.com/posts/sundeepm_groq-aramco-digital-build-the-activity-7294312309013848064-T1fY/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 26.434,
+   "lon": 50.098
+  },
+  {
+   "id": "epoch-cluster-oak-ridge-nl-frontier",
+   "name": "Oak Ridge NL Frontier",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "US Department of Energy",
+   "users": "US Government,Academia,Industry",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "Oak Ridge National Laboratory 5200, 1 Bethel Valley Rd, Oak Ridge, TN 37830",
+   "coordPrecision": "site",
+   "h100eCurrent": 7283,
+   "h100ePlanned": null,
+   "chips": 37632,
+   "chipTypes": "AMD Radeon Instinct MI250X",
+   "powerMW": 40,
+   "plannedPowerMW": null,
+   "commissioned": "2022-05",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240720224959/https://docs.olcf.ornl.gov/systems/frontier_user_guide.html"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240823003004/https://www.ornl.gov/news/frontier-supercomputer-debuts-worlds-fastest-breaking-exascale-barrier"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 36.01,
+   "lon": -84.27
+  },
+  {
+   "id": "epoch-dc-nscale-keflavik",
+   "name": "Nscale Keflavik",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-data-centers",
+   "operator": "Nscale",
+   "users": null,
+   "country": "Iceland",
+   "countryId": "352",
+   "location": "Valhallarbraut 868, 262 Reykjanesbær, Iceland",
+   "coordPrecision": "address",
+   "h100eCurrent": 5821,
+   "h100ePlanned": 11642,
+   "chips": null,
+   "chipTypes": "B300",
+   "powerMW": 5,
+   "plannedPowerMW": 10,
+   "commissioned": "2026-04",
+   "plannedOnline": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Nscale / Verne 15 MW deployment announcement",
+     "url": "https://www.nscale.com/press-releases/nscale-and-verne"
+    },
+    {
+     "title": "Nscale GB300 NVL72 production cluster confirmation",
+     "url": "https://www.nscale.com/blog/nscale-achieves-nvidia-exemplar-cloud-status-on-nvidia-gb300-nvl72"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 63.977,
+   "lon": -22.575
+  },
+  {
+   "id": "epoch-cluster-eurohpc-leonardo",
+   "name": "EuroHPC Leonardo",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "EuroHPC JU",
+   "users": "European researchers,academia,and industry",
+   "country": "Italy",
+   "countryId": "380",
+   "location": "Via Piero Gobetti, 101, 40129 Bologna BO, Italy",
+   "coordPrecision": "site",
+   "h100eCurrent": 4359,
+   "h100ePlanned": null,
+   "chips": 13824,
+   "chipTypes": "NVIDIA A100",
+   "powerMW": 13,
+   "plannedPowerMW": null,
+   "commissioned": "2022-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240830104624/https://www.theregister.com/2022/11/22/leonardo_supercomputer_goes_live/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20230720164245/https://en.wikipedia.org/wiki/Leonardo_(supercomputer)"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 44.522,
+   "lon": 11.338
+  },
+  {
+   "id": "epoch-cluster-eni-hpc6",
+   "name": "Eni HPC6",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Eni",
+   "users": "Eni",
+   "country": "Italy",
+   "countryId": "380",
+   "location": "Via per la Corradina, 35, 27032 Ferrera Erbognone PV, Italy",
+   "coordPrecision": "site",
+   "h100eCurrent": 2688,
+   "h100ePlanned": null,
+   "chips": 13888,
+   "chipTypes": "AMD Radeon Instinct MI250X",
+   "powerMW": 14,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "top500Rank": 8,
+   "rmaxPF": 477.9,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://archive.ph/RIheG"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 45.101,
+   "lon": 8.86
+  },
+  {
+   "id": "epoch-cluster-eurohpc-lumi",
+   "name": "EuroHPC LUMI",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "EuroHPC JU",
+   "users": "Researchers,Cloud",
+   "country": "Finland",
+   "countryId": "246",
+   "location": "Tehdaskatu 15, 87100 Kajaani, Finland",
+   "coordPrecision": "site",
+   "h100eCurrent": 2305,
+   "h100ePlanned": null,
+   "chips": 11912,
+   "chipTypes": "AMD Radeon Instinct MI250X",
+   "powerMW": 12,
+   "plannedPowerMW": null,
+   "commissioned": "2022-09",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20241003125301/https://www.lumi-supercomputer.eu/lumis-full-system-architecture-revealed/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240908234416/https://en.wikipedia.org/wiki/LUMI"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 64.234,
+   "lon": 27.703
+  },
+  {
+   "id": "epoch-cluster-argonne-nl-aurora",
+   "name": "Argonne NL Aurora",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "US Department of Energy",
+   "users": "Argonne National Laboratory and general scientific community",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "Theory and Computing Sciences Building Building 240, Argonne National Laboratory, 9700 S. Cass Ave, Argonne Ct, Lemont, IL 60439",
+   "coordPrecision": "site",
+   "h100eCurrent": 1689,
+   "h100ePlanned": null,
+   "chips": 63744,
+   "chipTypes": "Intel Data Center GPU Max 1550",
+   "powerMW": 60,
+   "plannedPowerMW": null,
+   "commissioned": "2024-05",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240824025729/https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html#gs.f9p1j0"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240524235355/https://www.extremetech.com/computing/intel-aurora-supercomputer-breaks-exascale-barrier-but-fails-to-topple"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 41.718,
+   "lon": -87.979
+  },
+  {
+   "id": "epoch-cluster-lawrence-livermore-nl-sierra",
+   "name": "Lawrence Livermore NL Sierra",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "US Department of Energy",
+   "users": "Lawrence Livermore NL,Scientific Research",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "Lawrence Livermore National Laboratory 7000 East Ave, Livermore, CA 94550",
+   "coordPrecision": "site",
+   "h100eCurrent": 1091,
+   "h100ePlanned": null,
+   "chips": 17280,
+   "chipTypes": "NVIDIA V100",
+   "powerMW": 12,
+   "plannedPowerMW": null,
+   "commissioned": "2018-06",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240926221231/https://en.wikipedia.org/wiki/Sierra_(supercomputer)"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://www.nextplatform.com/2017/10/05/clever-machinations-livermores-sierra-supercomputer/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 37.682,
+   "lon": -121.768
+  },
+  {
+   "id": "epoch-cluster-azure-openai-gpt-3-cluster",
+   "name": "Azure OpenAI GPT-3 Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Microsoft,OpenAI",
+   "users": "OpenAI",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "1515 Port Industrial Way, Quincy, WA 98848",
+   "coordPrecision": "site",
+   "h100eCurrent": 632,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": "NVIDIA V100",
+   "powerMW": 7,
+   "plannedPowerMW": null,
+   "commissioned": "2020-04",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240902024137/https://news.microsoft.com/source/features/ai/openai-azure-supercomputer/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240307163254/https://www.theregister.com/2020/05/20/microsoft_openai_supercomputer/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30",
+   "lat": 47.238,
+   "lon": -119.885
+  },
+  {
+   "id": "top500-lineshine",
+   "name": "LineShine",
+   "operator": "National Supercomputing Centre in Shenzhen",
+   "country": "China",
+   "location": "Shenzhen",
+   "lat": 22.54,
+   "lon": 114.06,
+   "top500Rank": 1,
+   "rmaxPF": 2198,
+   "chipTypes": "中国自研处理器",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "curated",
+   "users": null,
+   "countryId": "156",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": null,
+   "chips": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": null,
+   "plannedOnline": null,
+   "sourceLevel": "official",
+   "sources": [
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "top500-fugaku",
+   "name": "Fugaku",
+   "operator": "RIKEN",
+   "country": "Japan",
+   "location": "Kobe",
+   "lat": 34.65,
+   "lon": 135.22,
+   "top500Rank": 9,
+   "rmaxPF": 442,
+   "chipTypes": "A64FX CPU（无加速卡）",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "curated",
+   "users": null,
+   "countryId": "392",
+   "coordPrecision": "city",
+   "h100eCurrent": null,
+   "h100ePlanned": null,
+   "chips": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": null,
+   "plannedOnline": null,
+   "sourceLevel": "official",
+   "sources": [
+    {
+     "title": "TOP500 · 2026 年 6 月榜单",
+     "url": "https://top500.org/lists/top500/2026/06/highs"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  }
+ ],
+ "unplaced": [
+  {
+   "id": "epoch-dc-anthropic-barber-lake",
+   "name": "Anthropic Barber Lake",
+   "type": "ai-gpu",
+   "status": "building",
+   "origin": "epoch-data-centers",
+   "operator": "Cipher Mining",
+   "users": "Anthropic",
+   "country": "United States",
+   "countryId": "840",
+   "location": "United States",
+   "coordPrecision": "unknown",
+   "h100eCurrent": null,
+   "h100ePlanned": 288530,
+   "chips": null,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": 207,
+   "commissioned": null,
+   "plannedOnline": "2026-12",
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · AI Data Centers（CC BY 4.0）",
+     "url": "https://epoch.ai/data/ai-data-centers"
+    },
+    {
+     "title": "Cipher signs 168 MW AI hosting deal with Fluidstack, Google backs it (Sep 2025)",
+     "url": "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html"
+    },
+    {
+     "title": "Cipher adds 56 MW gross to reach 300 MW at Barber Lake (Nov 2025)",
+     "url": "https://www.globenewswire.com/news-release/2025/11/20/3191801/0/en/Cipher-Mining-Signs-Additional-56-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-meta-100k",
+   "name": "Meta 100k",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Meta AI",
+   "users": "Meta",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "United States of America",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 100000,
+   "h100ePlanned": null,
+   "chips": 100000,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 143,
+   "plannedPowerMW": null,
+   "commissioned": "2024-10",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://archive.ph/85KB1"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240901171617/https://www.semianalysis.com/p/100000-h100-clusters-power-network"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-oracle-oci-supercluster-h200s",
+   "name": "Oracle OCI Supercluster H200s",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Oracle",
+   "users": "Cloud",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 65536,
+   "h100ePlanned": null,
+   "chips": 65536,
+   "chipTypes": "NVIDIA H200 SXM",
+   "powerMW": 94,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://archive.ph/B3HJm#selection-1045.0-1045.83"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20241214043143/https://www.datacenterdynamics.com/en/news/oracles-65000-gpu-supercluster-now-generally-available/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-coreweave-h200s",
+   "name": "CoreWeave H200s",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "CoreWeave",
+   "users": "CoreWeave",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 42000,
+   "h100ePlanned": null,
+   "chips": 42000,
+   "chipTypes": "NVIDIA H200 SXM",
+   "powerMW": 60,
+   "plannedPowerMW": null,
+   "commissioned": "2024-08",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20250107015942/https://www.coreweave.com/blog/coreweave-is-the-first-cloud-provider-to-deploy-nvidia-h200-tensor-core-gpus"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-meta-genai-2024b",
+   "name": "Meta GenAI 2024b",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Meta AI",
+   "users": "Meta",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 24576,
+   "h100ePlanned": null,
+   "chips": 24576,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 35,
+   "plannedPowerMW": null,
+   "commissioned": "2024-03",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240827223115/https://www.semianalysis.com/p/gpt-4-architecture-infrastructure"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-meta-genai-2024a",
+   "name": "Meta GenAI 2024a",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Meta AI",
+   "users": "Meta",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 24576,
+   "h100ePlanned": null,
+   "chips": 24576,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 35,
+   "plannedPowerMW": null,
+   "commissioned": "2024-03",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240827223115/https://www.semianalysis.com/p/gpt-4-architecture-infrastructure"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-oracle-oci-mi300x",
+   "name": "Oracle OCI MI300x",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Oracle",
+   "users": "Cloud",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 21649,
+   "h100ePlanned": null,
+   "chips": 16384,
+   "chipTypes": "AMD Instinct MI300X",
+   "powerMW": 25,
+   "plannedPowerMW": null,
+   "commissioned": "2024-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://archive.ph/gdAb4"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-oracle-oci-supercluster-h100s",
+   "name": "Oracle OCI Supercluster H100s",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Oracle",
+   "users": "Cloud,Cohere,xAI",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 16384,
+   "h100ePlanned": null,
+   "chips": 16384,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 23,
+   "plannedPowerMW": null,
+   "commissioned": "2024-04",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20231023100410/https://blogs.oracle.com/cloud-infrastructure/post/general-availability-oci-compute-nvidia-h100"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.ph/B3HJm"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-microsoft-azure-eagle",
+   "name": "Microsoft Azure Eagle",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Microsoft",
+   "users": "Cloud",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 14400,
+   "h100ePlanned": null,
+   "chips": 14400,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 21,
+   "plannedPowerMW": null,
+   "commissioned": "2023-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240901103636/https://www.servethehome.com/microsoft-azure-eagle-is-a-paradigm-shifting-cloud-supercomputer-nvidia-intel/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-oracle-oci-supercluster-a100s",
+   "name": "Oracle OCI Supercluster A100s",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Oracle",
+   "users": "Cloud",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 10332,
+   "h100ePlanned": null,
+   "chips": 32768,
+   "chipTypes": "NVIDIA A100",
+   "powerMW": 27,
+   "plannedPowerMW": null,
+   "commissioned": "2023-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240910231627/https://www.oracle.com/news/announcement/nvidia-chooses-oracle-cloud-infrastructure-for-ai-services-2023-03-21/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://archive.ph/B3HJm"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-imbue-10k-cluster",
+   "name": "Imbue 10k Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Imbue",
+   "users": "Imbue",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 10000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": "NVIDIA H100 SXM5 80GB",
+   "powerMW": 15,
+   "plannedPowerMW": null,
+   "commissioned": "2023-09",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240423234157/https://investors.delltechnologies.com/news-releases/news-release-details/imbue-develop-next-generation-ai-models-150-million-dell-high"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20240830093115/https://imbue.com/company/introducing-imbue/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2024-10-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 10000,
+   "h100ePlanned": null,
+   "chips": 20000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2024-10",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2025-02-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 10000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2025-02",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2024-06-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 5000,
+   "h100ePlanned": null,
+   "chips": 40000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2024-06",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-amazon-titan-training-cluster",
+   "name": "Amazon Titan training cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Amazon",
+   "users": "Amazon",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 4339,
+   "h100ePlanned": null,
+   "chips": 13760,
+   "chipTypes": "NVIDIA A100",
+   "powerMW": 11,
+   "plannedPowerMW": null,
+   "commissioned": "2023-01",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240824020111/https://lifearchitect.ai/titan/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2023-09-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 4000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": null,
+   "powerMW": 10,
+   "plannedPowerMW": null,
+   "commissioned": "2023-09",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2024-08-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 4000,
+   "h100ePlanned": null,
+   "chips": 20000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2024-08",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-gemini-1-0-ultra-training-cluster-a",
+   "name": "Gemini 1.0 Ultra training cluster A",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Google",
+   "users": "Google",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3984,
+   "h100ePlanned": null,
+   "chips": 28672,
+   "chipTypes": "Google TPU v4",
+   "powerMW": 20,
+   "plannedPowerMW": null,
+   "commissioned": "2023-08",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://arxiv.org/abs/2312.11805"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20250320051300/https://ifp.org/web/20250320051300/https://ifp.org/future-of-ai-compute/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-xtx-markets-cluster",
+   "name": "XTX Markets Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "XTX Markets",
+   "users": "XTX Markets",
+   "country": "未公开",
+   "countryId": "",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3153,
+   "h100ePlanned": null,
+   "chips": 20000,
+   "chipTypes": "NVIDIA A100",
+   "powerMW": 15,
+   "plannedPowerMW": null,
+   "commissioned": "2023-03",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240222140115/https://www.xtxmarkets.com/career/xty-labs-ai-residency/"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://web.archive.org/web/20230331093712/https://www.stateof.ai/compute"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-10000",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": null,
+   "powerMW": 30,
+   "plannedPowerMW": null,
+   "commissioned": null,
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2021-03-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3000,
+   "h100ePlanned": null,
+   "chips": 100000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2021-03",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2021-07-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": null,
+   "powerMW": 6,
+   "plannedPowerMW": null,
+   "commissioned": "2021-07",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2025-01-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 3000,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2025-01",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-meta-2017-v100-cluster",
+   "name": "Meta 2017 V100 Cluster",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Meta AI",
+   "users": "Meta",
+   "country": "United States of America",
+   "countryId": "840",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 1390,
+   "h100ePlanned": null,
+   "chips": 22000,
+   "chipTypes": "NVIDIA Tesla V100 SXM2",
+   "powerMW": 15,
+   "plannedPowerMW": null,
+   "commissioned": "2017-10",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20240828114058/https://ai.meta.com/blog/ai-rsc/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2020-11-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 500,
+   "h100ePlanned": null,
+   "chips": 40000,
+   "chipTypes": null,
+   "powerMW": 30,
+   "plannedPowerMW": null,
+   "commissioned": "2020-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2022-04-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 400,
+   "h100ePlanned": null,
+   "chips": 30000,
+   "chipTypes": null,
+   "powerMW": null,
+   "plannedPowerMW": null,
+   "commissioned": "2022-04",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2020-09-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 300,
+   "h100ePlanned": null,
+   "chips": 20000,
+   "chipTypes": null,
+   "powerMW": 20,
+   "plannedPowerMW": null,
+   "commissioned": "2020-09",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2017-11-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 90,
+   "h100ePlanned": null,
+   "chips": 40000,
+   "chipTypes": null,
+   "powerMW": 20,
+   "plannedPowerMW": null,
+   "commissioned": "2017-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-jamstec-zettascaler-2-2-gyoukou",
+   "name": "JAMSTEC ZettaScaler-2.2 Gyoukou",
+   "type": "supercomputer",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "Japan Agency for Marine-Earth Science and Technology",
+   "users": "Japan Agency for Marine-Earth Science and Technology",
+   "country": "Japan",
+   "countryId": "392",
+   "location": "未公开",
+   "coordPrecision": "unknown",
+   "h100eCurrent": 81,
+   "h100ePlanned": null,
+   "chips": 10000,
+   "chipTypes": "PEZY-SC2",
+   "powerMW": 3,
+   "plannedPowerMW": null,
+   "commissioned": "2017-11",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    },
+    {
+     "title": "原始来源 1",
+     "url": "https://web.archive.org/web/20241222180018/https://en.wikipedia.org/wiki/Gyoukou"
+    },
+    {
+     "title": "原始来源 2",
+     "url": "https://www.top500.org/system/179102/"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2013-07-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": null,
+   "h100ePlanned": null,
+   "chips": 50000,
+   "chipTypes": null,
+   "powerMW": 20,
+   "plannedPowerMW": null,
+   "commissioned": "2013-07",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "epoch-cluster-anonymized-chinese-system-2023-12-15",
+   "name": "中国匿名集群（Epoch 公开版未披露名称）",
+   "type": "ai-gpu",
+   "status": "operating",
+   "origin": "epoch-gpu-clusters",
+   "operator": "未公开",
+   "users": null,
+   "country": "China",
+   "countryId": "156",
+   "location": "China",
+   "coordPrecision": "unknown",
+   "h100eCurrent": null,
+   "h100ePlanned": null,
+   "chips": 200000,
+   "chipTypes": null,
+   "powerMW": 80,
+   "plannedPowerMW": null,
+   "commissioned": "2023-12",
+   "plannedOnline": null,
+   "top500Rank": null,
+   "rmaxPF": null,
+   "sourceLevel": "dataset",
+   "sources": [
+    {
+     "title": "Epoch AI · GPU Clusters（CC BY 4.0）",
+     "url": "https://epoch.ai/data/gpu-clusters"
+    }
+   ],
+   "relatedClusters": [],
+   "checkedAt": "2026-10-30"
+  }
+ ]
+}

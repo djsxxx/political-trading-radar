@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "label": "开发：启动桌面应用",
+      "problemMatcher": []
+    },
+    {
+      "type": "npm",
+      "script": "typecheck",
+      "label": "检查：TypeScript",
+      "problemMatcher": [
+        "$tsc"
+      ]
+    },
+    {
+      "type": "npm",
+      "script": "audit",
+      "label": "检查：本地数据审计",
+      "problemMatcher": []
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "label": "构建：生产版本",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+ticker,asset,purchase_records,distinct_buyers,disclosed_min_total,disclosed_max_total,politicians,latest_trade_date
+MSFT,Microsoft Corporation - Common Stock (MSFT),10,5,835010.0,1775000.0,"Cleo Fields; Gilbert Ray Cisneros, Jr.; Josh Gottheimer; Lisa C. McClain; Ro Khanna",2026-09-30
+TSM,Taiwan Semiconductor Manufacturing Company Ltd. (TSM),5,5,5005.0,75000.0,"Cleo Fields; Gilbert Ray Cisneros, Jr.; Michael T. McCaul; Rick W. Allen; Ro Khanna",2026-10-09
+ACN,Accenture plc Class A Ordinary Shares (ACN),5,3,103005.0,245000.0,Michael T. McCaul; Ro Khanna; Scott Franklin,2026-08-28
+HD,"Home Depot, Inc. (HD)",4,3,18004.0,95000.0,David J. Taylor; Lloyd Doggett; Ro Khanna,2026-09-22
+AVGO,BROADCOM INC. CMN,4,3,18004.0,95000.0,David J. Taylor; Rick W. Allen; Ro Khanna,2026-08-26
+NVDA,NVIDIA Corporation - Common Stock (NVDA),5,3,5005.0,75000.0,Cleo Fields; John J. McGuire III; Ro Khanna,2026-10-01
+PG,Procter & Gamble Company (PG) [ST],5,3,5005.0,75000.0,David J. Taylor; Lloyd Doggett; Ro Khanna,2026-09-25
+NFLX,"Netflix, Inc. - Common Stock (NFLX)",4,3,4004.0,60000.0,Byron Donalds; Cleo Fields; Ro Khanna,2026-09-14
+IBM,International Business Machines Corporation Common Stock (IBM),3,3,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Lloyd Doggett; Ro Khanna",2026-09-11
+BE,BLOOM ENERGY CORP CMN CLASS A,3,2,1001003.0,2015000.0,Nancy Pelosi; Ro Khanna,2026-09-25
+EL,"Estee Lauder Companies, Inc. (EL)",2,2,51002.0,115000.0,Jonathan L. Jackson; Ro Khanna,2026-09-28
+PEP,"Pepsico, Inc. (PEP)",6,2,48006.0,195000.0,Ro Khanna; Scott Franklin,2026-09-25
+MRK,MERCK & CO INC. CMN,4,2,46004.0,165000.0,Maria Elvira Salazar; Ro Khanna,2026-08-24
+ON,ON Semiconductor Corporation - Common Stock (ON),3,2,31003.0,115000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-28
+BRK.B,Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST],5,2,19005.0,110000.0,Maria Elvira Salazar; Richard McCormick,2026-09-18
+HUBB,Hubbell Inc Common Stock (HUBB),5,2,19005.0,110000.0,April McClain Delaney; Ro Khanna,2026-09-04
+ISRG,"INTUITIVE SURGICAL, INC CMN",5,2,19005.0,110000.0,Michael T. McCaul; Ro Khanna,2026-09-25
+NXPI,NXP Semiconductors N.V. - Common Stock (NXPI),4,2,18004.0,95000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-17
+MCD,McDonald's Corporation Common Stock (MCD),4,2,18004.0,95000.0,Ro Khanna; Scott Franklin,2026-09-25
+JNJ,Johnson & Johnson Common Stock (JNJ),3,2,17003.0,80000.0,Lloyd Doggett; Ro Khanna,2026-09-25
+SNOW,Snowflake Inc. Common Stock (SNOW),3,2,17003.0,80000.0,"Gilbert Ray Cisneros, Jr.; Maria Elvira Salazar",2026-09-04
+ETN,"Eaton Corporation, PLC Ordinary Shares (ETN)",3,2,17003.0,80000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-25
+VZ,Verizon Communications Inc. Common Stock (VZ),3,2,17003.0,80000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-25
+CRM,SALESFORCE INC CMN,2,2,16002.0,65000.0,Ro Khanna; Tony Wied,2026-08-14
+WFC,WELLS FARGO & COMPANY CMN,2,2,16002.0,65000.0,Mitch McConnell; Ro Khanna,2026-09-25
+PWR,"Quanta Services, Inc. Common Stock (PWR)",2,2,16002.0,65000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-08-27
+AMZN,AMAZON COM INC CMN,7,2,7007.0,105000.0,Michael T. McCaul; Ro Khanna,2026-09-04
+APP,Applovin Corporation - Class A Common Stock (APP),4,2,4004.0,60000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-25
+MRNA,MODERNA INC CMN,4,2,4004.0,60000.0,Maria Elvira Salazar; Ro Khanna,2026-09-11
+META,META PLATFORMS INC CLASS A CMN CLASS A,4,2,4004.0,60000.0,Maria Elvira Salazar; Ro Khanna,2026-09-23
+MLM,"Martin Marietta Materials, Inc. Common Stock (MLM)",4,2,4004.0,60000.0,April McClain Delaney; Ro Khanna,2026-09-25
+T,AT&T INC. CMN,4,2,4004.0,60000.0,David J. Taylor; Ro Khanna,2026-10-09
+WMT,Walmart Inc. - Common Stock (WMT),4,2,4004.0,60000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-25
+BSX,Boston Scientific Corporation Common Stock (BSX),3,2,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-08-18
+ZTS,Zoetis Inc. Class A Common Stock (ZTS),3,2,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-18
+PODD,Insulet Corporation - Common Stock (PODD),3,2,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-11
+INTU,Intuit Inc. - Common Stock (INTU),3,2,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Michael T. McCaul",2026-08-31
+GLW,CORNING INCORPORATED CMN,3,2,3003.0,45000.0,Maria Elvira Salazar; Ro Khanna,2026-09-08
+CSGP,"CoStar Group, Inc. - Common Stock (CSGP)",3,2,3003.0,45000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-25
+AAPL,Apple Inc. - Common Stock (AAPL) [ST],3,2,3003.0,45000.0,Cleo Fields; Ed Case,2026-09-08
+CINF,Cincinnati Financial Corporation - Common Stock (CINF),2,2,2002.0,30000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-18
+KO,Coca-Cola Company (KO),2,2,2002.0,30000.0,Kevin Hern; Ro Khanna,2026-09-04
+CSCO,CISCO SYSTEMS INC. CMN,2,2,2002.0,30000.0,John Boozman; Ro Khanna,2026-09-25
+GS,"Goldman Sachs Group, Inc. (GS)",2,2,2002.0,30000.0,"Gilbert Ray Cisneros, Jr.; Michael A. Rulli",2026-09-03
+AMGN,AMGEN INC CMN,2,2,2002.0,30000.0,David J. Taylor; Ro Khanna,2026-09-22
+CB,Chubb Limited Common Stock (CB),2,2,2002.0,30000.0,Kevin Hern; Ro Khanna,2026-09-04
+ABT,Abbott Laboratories Common Stock (ABT),2,2,2002.0,30000.0,"Gilbert Ray Cisneros, Jr.; Ro Khanna",2026-09-18
+LIN,Linde plc - Ordinary Shares (LIN),2,2,2002.0,30000.0,"Ro Khanna; Thomas H. Kean, Jr.",2026-09-04
+FSLR,FIRST SOLAR INC. CMN,2,2,2002.0,30000.0,John Boozman; Ro Khanna,2026-08-13
+PPG,"PPG Industries, Inc. Common Stock (PPG)",2,2,2002.0,30000.0,Lloyd Doggett; Ro Khanna,2026-09-25
+ADI,ANALOG DEVICES INC. CMN,2,2,2002.0,30000.0,Rick Larsen; Ro Khanna,2026-10-08

@@ -1,0 +1,90 @@
+[
+  {
+    "page": 6,
+    "row": "1",
+    "cells": {
+      "name": "Melania LLC Underlying Assets: inactive Location: Palm Beach, FL",
+      "value": "None (or less than $1,001)"
+    }
+  },
+  {
+    "page": 6,
+    "row": "2",
+    "cells": {
+      "name": "721 33H Holdings LLC (pass-thru company for 721 33H LLC) Location: New York, NY",
+      "value": ""
+    }
+  },
+  {
+    "page": 6,
+    "row": "2.1",
+    "cells": {
+      "name": "721 33H LLC Underlying Assets: US bank account and residential real estate Location: New York, NY",
+      "value": "$500,001 - $1,000,000"
+    }
+  },
+  {
+    "page": 6,
+    "row": "3",
+    "cells": {
+      "name": "MKT World LLC Underlying Assets: US Bank Account Location: Palm Beach FL This company has been setup to enter into various agreements, including but not limited to appearance and speaking engagements and the sale of NFTs and other collectables, to receive net proceeds from the book \"Melania\", and the film \"Melania\"",
+      "value": ""
+    }
+  },
+  {
+    "page": 6,
+    "row": "3.1",
+    "cells": {
+      "name": "U.S Bank Account - Cash (Value used is cash balance in U.S. Bank Account)",
+      "value": "$50,001 - $100,000"
+    }
+  },
+  {
+    "page": 6,
+    "row": "3.2",
+    "cells": {
+      "name": "License agreement with Designers Manager - Film \"Melania\" (Value not readly ascertainable)",
+      "value": ""
+    }
+  },
+  {
+    "page": 6,
+    "row": "3.3",
+    "cells": {
+      "name": "License agreement with Designers Manager for the sale of NFTs and other collectibles. (Value not readily ascertainable)",
+      "value": ""
+    }
+  },
+  {
+    "page": 6,
+    "row": "3.4",
+    "cells": {
+      "name": "License agreement with Designers Manager -\"Melania\" Publisher Skyhorse (value not realdly ascertainable)",
+      "value": ""
+    }
+  },
+  {
+    "page": 6,
+    "row": "4",
+    "cells": {
+      "name": "MBWT LLC Underlying Assets: residential real estate and US cash bank account Location: Ljubljana, Slovenia",
+      "value": "$500,001 - $1,000,000"
+    }
+  },
+  {
+    "page": 6,
+    "row": "5",
+    "cells": {
+      "name": "MELANIA MARKS ACCESSORIES MEMBER CORP Dissolved 10/21/2025",
+      "value": "None (or less than $1,001)"
+    }
+  },
+  {
+    "page": 6,
+    "row": "6",
+    "cells": {
+      "name": "MELANIA MARKS ACCESSORIES LLC Dissolved 12/7/2023",
+      "value": "None (or less than $1,001)"
+    }
+  }
+]

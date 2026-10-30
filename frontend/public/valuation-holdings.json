@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-26",
+  "method": "仅原件明确数量的资产进入固定数量市值情景；不从金额档反推数量，不与年度披露区间累加。",
+  "holdings": [{
+    "id": "trump-trust-djt",
+    "personId": "US-PRESIDENT",
+    "symbol": "DJT",
+    "name": "特朗普媒体 · 信托持有普通股",
+    "quantity": 114750000,
+    "quantityAsOf": "2026-06-19",
+    "currency": "USD",
+    "owner": "Donald J. Trump Revocable Trust；Donald J. Trump为受益人，Donald J. Trump Jr.为受托人",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926021434/xslF345X06/rdgdoc.xml",
+    "annualSourceUrl": "https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf#page=865",
+    "note": "数量为该日期的公开披露，不证明目前仍持有相同数量。普通股存在限制；按公开市场价重估，不计流动性/限制折价、税费或负债。此信托权益只计算一次，不再给受托人另加一份。"
+  }]
+}

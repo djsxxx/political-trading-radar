@@ -1,0 +1,337 @@
+{
+  "T000467": [
+    {
+      "name": "House Committee on Agriculture",
+      "url": "https://agriculture.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001053": [
+    {
+      "name": "House Committee on Appropriations",
+      "url": "https://appropriations.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "R000575": [
+    {
+      "name": "House Committee on Armed Services",
+      "url": "https://armedservices.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "H001072": [
+    {
+      "name": "House Committee on Financial Services",
+      "url": "https://financialservices.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "A000375": [
+    {
+      "name": "House Committee on the Budget",
+      "url": "https://budget.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "W000798": [
+    {
+      "name": "House Committee on Education and Workforce",
+      "url": "https://edlabor.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "M001199": [
+    {
+      "name": "House Committee on Foreign Affairs",
+      "url": "https://foreignaffairs.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001108": [
+    {
+      "name": "House Committee on Oversight and Government Reform",
+      "url": "https://oversight.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "S001213": [
+    {
+      "name": "House Committee on House Administration",
+      "url": "https://cha.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    },
+    {
+      "name": "Joint Committee of Congress on the Library",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-library",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "G000597": [
+    {
+      "name": "House Committee on Homeland Security",
+      "url": "https://homeland.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "G000558": [
+    {
+      "name": "House Committee on Energy and Commerce",
+      "url": "https://energycommerce.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "W000821": [
+    {
+      "name": "House Committee on Natural Resources",
+      "url": "https://naturalresources.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001087": [
+    {
+      "name": "House Permanent Select Committee on Intelligence",
+      "url": "https://intelligence.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "J000289": [
+    {
+      "name": "House Committee on the Judiciary",
+      "url": "https://judiciary.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "G000546": [
+    {
+      "name": "House Committee on Transportation and Infrastructure",
+      "url": "https://transportation.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "F000450": [
+    {
+      "name": "House Committee on Rules",
+      "url": "https://rules.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "W000816": [
+    {
+      "name": "House Committee on Small Business",
+      "url": "https://smallbusiness.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "G000591": [
+    {
+      "name": "House Committee on Ethics",
+      "url": "https://ethics.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "B001291": [
+    {
+      "name": "House Committee on Science, Space, and Technology",
+      "url": "https://science.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "B001295": [
+    {
+      "name": "House Committee on Veterans' Affairs",
+      "url": "https://veterans.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "S001195": [
+    {
+      "name": "House Committee on Ways and Means",
+      "url": "https://waysandmeans.house.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "S001183": [
+    {
+      "name": "Joint Economic Committee",
+      "url": "http://www.jec.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "M000355": [
+    {
+      "name": "Joint Committee on Printing",
+      "url": "https://cha.house.gov/jointcommittees/joint-committee-on-printing",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    },
+    {
+      "name": "Senate Committee on Rules and Administration",
+      "url": "http://www.rules.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C000880": [
+    {
+      "name": "Joint Committee on Taxation",
+      "url": "https://www.jct.gov",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    },
+    {
+      "name": "Senate Committee on Finance",
+      "url": "http://www.finance.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001056": [
+    {
+      "name": "United States Senate Caucus on International Narcotics Control",
+      "url": "http://www.drugcaucus.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "W000802": [
+    {
+      "name": "United States Senate Caucus on International Narcotics Control",
+      "url": "http://www.drugcaucus.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "L000575": [
+    {
+      "name": "Senate Select Committee on Ethics",
+      "url": "http://www.ethics.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "M001153": [
+    {
+      "name": "Senate Committee on Indian Affairs",
+      "url": "http://www.indian.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001095": [
+    {
+      "name": "Senate Select Committee on Intelligence",
+      "url": "http://www.intelligence.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "S001217": [
+    {
+      "name": "Senate Special Committee on Aging",
+      "url": "http://www.aging.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "B001236": [
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "url": "http://www.agriculture.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001035": [
+    {
+      "name": "Senate Committee on Appropriations",
+      "url": "http://www.appropriations.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "W000437": [
+    {
+      "name": "Senate Committee on Armed Services",
+      "url": "http://www.armed-services.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "S001184": [
+    {
+      "name": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "url": "http://banking.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "J000293": [
+    {
+      "name": "Senate Committee on the Budget",
+      "url": "http://www.budget.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001098": [
+    {
+      "name": "Senate Committee on Commerce, Science, and Transportation",
+      "url": "http://www.commerce.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "L000577": [
+    {
+      "name": "Senate Committee on Energy and Natural Resources",
+      "url": "http://www.energy.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001047": [
+    {
+      "name": "Senate Committee on Environment and Public Works",
+      "url": "http://www.epw.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "R000584": [
+    {
+      "name": "Senate Committee on Foreign Relations",
+      "url": "http://www.foreign.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "P000603": [
+    {
+      "name": "Senate Committee on Homeland Security and Governmental Affairs",
+      "url": "http://www.hsgac.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "C001075": [
+    {
+      "name": "Senate Committee on Health, Education, Labor, and Pensions",
+      "url": "http://www.help.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "G000386": [
+    {
+      "name": "Senate Committee on the Judiciary",
+      "url": "http://www.judiciary.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "E000295": [
+    {
+      "name": "Senate Committee on Small Business and Entrepreneurship",
+      "url": "http://www.sbc.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "M000934": [
+    {
+      "name": "Senate Committee on Veterans' Affairs",
+      "url": "http://www.veterans.senate.gov/",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "M001194": [
+    {
+      "name": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ],
+  "L000583": [
+    {
+      "name": "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021",
+      "source": "https://github.com/unitedstates/congress-legislators/blob/main/committee-membership-current.yaml"
+    }
+  ]
+}

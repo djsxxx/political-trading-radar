@@ -1,0 +1,34 @@
+.atlas-world-map.cc-host{position:relative}
+.cc-layer .cc-dot{cursor:pointer;stroke:#06121c;stroke-width:.8;fill-opacity:.88;outline:none}
+.cc-layer .cc-dot:hover,.cc-layer .cc-dot:focus-visible,.cc-layer .cc-dot.selected{stroke:#ffffff;stroke-width:2;fill-opacity:1}
+.cc-legend{position:absolute;left:12px;top:34px;width:168px;box-sizing:border-box;display:flex;flex-direction:column;gap:3px;padding:7px 9px;border:1px solid #1f4259;border-radius:8px;background:#071420d9;font-size:11px;color:#c9dbe6}
+.cc-legend b{font-size:11px;letter-spacing:1px;color:#eef7fb;margin-bottom:2px}
+.cc-legend b small,.cc-legend button small{color:#829cb1;font-weight:400;margin-left:4px}
+.cc-legend button{display:flex;align-items:center;gap:6px;background:transparent;border:0;padding:2px 0;color:inherit;font-size:11px;cursor:pointer;text-align:left}
+.cc-legend button.off{opacity:.35}
+.cc-legend i{width:9px;height:9px;border-radius:50%;flex:none}
+.cc-size{display:flex;flex-wrap:wrap;align-items:center;gap:3px 4px;margin-top:3px;color:#829cb1;font-size:10px}
+.cc-size i{display:inline-block;background:#829cb1}
+.cc-size i.s1{width:5px;height:5px}.cc-size i.s2{width:9px;height:9px}.cc-size i.s3{width:13px;height:13px}
+/* 清单放在左下角南太平洋海面：那里没有任何算力点，不会遮挡亚洲、欧洲和澳洲的点位。 */
+.cc-drawer{position:absolute;left:12px;bottom:40px;width:290px;height:50%;display:flex;flex-direction:column;padding:10px;border:1px solid #1f4259;border-radius:8px;background:#071420ee;color:#c9dbe6;font-size:12px;box-sizing:border-box}
+.cc-drawer input{width:100%;box-sizing:border-box;background:#0b1d2c;color:#e6f1f7;border:1px solid #1f4259;border-radius:6px;padding:6px 8px;font-size:12px}
+.cc-list{list-style:none;margin:8px 0 0;padding:0;overflow:auto;flex:1;min-height:0}
+.cc-list button{width:100%;display:flex;align-items:center;gap:8px;text-align:left;background:transparent;border:0;border-bottom:1px solid #15303f;color:#dcebf3;padding:5px 2px;cursor:pointer;font-size:12px}
+.cc-list button:hover{color:#8eeaff}
+.cc-list i{width:8px;height:8px;border-radius:50%;flex:none}
+.cc-list span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cc-list span small{display:block;color:#829cb1;font-size:10px;overflow:hidden;text-overflow:ellipsis}
+.cc-list em{font-style:normal;color:#829cb1;font-size:11px;white-space:nowrap}
+.cc-list-head{padding:8px 2px 4px;color:#91d7f0;font-size:11px;letter-spacing:1px}
+.cc-note{margin:6px 0 0;color:#829cb1;font-size:10px;line-height:1.45}
+.cc-detail{overflow:auto;flex:1;min-height:0}
+.cc-back{background:transparent;border:0;color:#8eeaff;font-size:12px;cursor:pointer;padding:0}
+.cc-detail h3{margin:6px 0 0;font-size:14px;color:#eef7fb}
+.cc-detail-tag{margin:3px 0 0;font-size:11px}
+.cc-detail dl{display:grid;grid-template-columns:auto 1fr;gap:5px 10px;margin:10px 0}
+.cc-detail dt{color:#829cb1}
+.cc-detail dd{margin:0;color:#e6f1f7;word-break:break-word}
+.cc-detail dd small{display:block;color:#829cb1;margin-top:2px;line-height:1.4}
+.cc-sources{padding-left:16px;margin:6px 0 0}
+.cc-sources a{color:#8eeaff;word-break:break-all}

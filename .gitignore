@@ -1,0 +1,33 @@
+node_modules/
+dist/
+out/
+release/
+.vite/
+.cache/
+coverage/
+*.app
+*.dmg
+*.zip
+.DS_Store
+*.log
+database/*.db
+database/*.db-shm
+database/*.db-wal
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local research databases and Python caches
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local editor state
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+dist-web/

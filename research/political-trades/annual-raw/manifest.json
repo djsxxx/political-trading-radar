@@ -1,0 +1,112 @@
+{
+  "dataset": "congress-trading",
+  "pretty_name": "ZipLime US Congress Trading Disclosures (PIT)",
+  "name": "congress_trading",
+  "version": "1.1.0",
+  "data_type": "PIT_DATA",
+  "bundle_storage_class": "ziplime.data.services.file_system_delta_lake_bundle_storage.FileSystemDeltaLakeBundleStorage",
+  "bundle_storage_data": {
+    "table_uri": "data/pit/congress_trading.delta"
+  },
+  "entity_domain": "us_equities",
+  "schema": {
+    "representative": "Utf8",
+    "chamber": "Utf8",
+    "transaction_type": "Utf8",
+    "asset_ticker": "Utf8",
+    "amount_low": "Float64",
+    "amount_high": "Float64",
+    "disclosure_lag_days": "Int64",
+    "knowledge_source": "Utf8"
+  },
+  "event_date": "event_date",
+  "event_date_type": "date",
+  "knowledge_date": "knowledge_date",
+  "knowledge_date_type": "date",
+  "knowledge_date_policy": {
+    "primary": "filing_date",
+    "fallback": [
+      "notification_date",
+      "transaction_date + statutory_lag_days"
+    ],
+    "source_column": "knowledge_source",
+    "never_before_event_date": true
+  },
+  "configs": {
+    "trades": {
+      "path": "data/trades/*.parquet",
+      "grain": "one disclosed transaction line"
+    },
+    "pit": {
+      "path": "data/pit/congress_trading.delta/*.parquet",
+      "grain": "one point-in-time transaction knowledge event"
+    },
+    "features": {
+      "path": "data/features/*.parquet",
+      "grain": "one ticker and knowledge-day observation"
+    },
+    "holdings": {
+      "path": "data/holdings/*.parquet",
+      "grain": "one asset line of an annual Schedule A"
+    },
+    "liabilities": {
+      "path": "data/liabilities/*.parquet",
+      "grain": "one liability line of an annual disclosure"
+    },
+    "filings": {
+      "path": "data/filings/*.parquet",
+      "grain": "one disclosure document"
+    },
+    "legislators": {
+      "path": "data/reference/legislators.parquet",
+      "grain": "one legislator"
+    },
+    "legislator_terms": {
+      "path": "data/reference/legislator_terms.parquet",
+      "grain": "one term in office"
+    },
+    "committees": {
+      "path": "data/reference/committees.parquet",
+      "grain": "one committee"
+    },
+    "committee_members": {
+      "path": "data/reference/committee_members.parquet",
+      "grain": "one legislator/committee assignment"
+    }
+  },
+  "config_rows": {
+    "trades": 279036,
+    "pit": 177732,
+    "features": 99610,
+    "holdings": 271962,
+    "liabilities": 14640,
+    "filings": 43853,
+    "legislators": 12770,
+    "legislator_terms": 45565,
+    "committees": 230,
+    "committee_members": 3895
+  },
+  "coverage": {
+    "min_event_date": "2012-01-25",
+    "max_event_date": "2026-10-16",
+    "min_knowledge_date": "2014-01-02",
+    "max_knowledge_date": "2026-10-22"
+  },
+  "pit": {
+    "knowledge_lag_model": "stock_act_statutory_45d",
+    "statutory_lag_days": 45,
+    "model_knowledge_cutoff": null,
+    "append_only": true
+  },
+  "source": {
+    "recipe": "recipe/",
+    "recipe_hash": "sha256:00d79dce1bb76eee764232f0b0eab9fa48c89392092be3f9c998d46941ef58b0",
+    "origin": "US House Clerk (disclosures-clerk.house.gov) and Senate eFD (efdsearch.senate.gov) periodic transaction reports and annual financial disclosures, STOCK Act",
+    "license": "US Government work — public domain (House); Senate eFD terms apply",
+    "schedule": "0 8 * * *"
+  },
+  "rows": 177732,
+  "generated_at": "2026-10-23T09:11:07.762449+00:00",
+  "trading_calendar_name": null,
+  "frequency_seconds": null
+}
