@@ -1,5 +1,301 @@
 {
- "retrievedAt": null,
- "people": {},
- "missing": []
+ "retrievedAt": "2026-10-26T04:35:35.839Z",
+ "people": {
+  "jensen-huang": {
+   "url": "./billionaire-portraits/jensen-huang.jpg",
+   "subject": "Jensen Huang",
+   "description": "Taiwanese and American businessman (born 1963)",
+   "source": "https://en.wikipedia.org/wiki/Jensen_Huang",
+   "fileSource": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg",
+   "author": "The White House",
+   "license": "Public domain",
+   "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg",
+   "checkedAt": "2026-10-26T04:35:25.642Z",
+   "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jen-Hsun_Huang_2025.jpg"
+  },
+  "julia-koch": {
+   "url": "./billionaire-portraits/julia-koch.jpg",
+   "subject": "Julia Koch",
+   "description": "American socialite and philanthropist (born 1962)",
+   "source": "https://en.wikipedia.org/wiki/Julia_Koch",
+   "fileSource": "https://commons.wikimedia.org/wiki/File:Julia_Koch.jpg",
+   "author": "David Koch Foundation",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "checkedAt": "2026-10-26T04:35:25.748Z",
+   "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Julia_Koch.jpg/330px-Julia_Koch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+ },
+ "missing": [
+  {
+   "id": "john-mars",
+   "name": "John Mars",
+   "reason": "Error: No unambiguous portrait"
+  },
+  {
+   "id": "lyndal-stephens-greth",
+   "name": "Lyndal Stephens Greth & family",
+   "reason": "Error: HTTP 404"
+  },
+  {
+   "id": "elaine-marshall",
+   "name": "Elaine Marshall & family",
+   "reason": "Error: HTTP 404"
+  },
+  {
+   "id": "mackenzie-scott",
+   "name": "MacKenzie Scott",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "rick-cohen",
+   "name": "Rick Cohen & family",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "ernest-garcia-ii",
+   "name": "Ernest Garcia II",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "brett-adcock",
+   "name": "Brett Adcock",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "edwin-chen",
+   "name": "Edwin Chen",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "arthur-dantchik",
+   "name": "Arthur Dantchik",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "todd-graves",
+   "name": "Todd Graves",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "eric-smidt",
+   "name": "Eric Smidt",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "antonio-gracias",
+   "name": "Antonio Gracias",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "josh-kushner",
+   "name": "Josh Kushner",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "peter-mallouk",
+   "name": "Peter Mallouk",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "edward-johnson-iv",
+   "name": "Edward Johnson IV",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "jay-chaudhry",
+   "name": "Jay Chaudhry",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "jude-reyes",
+   "name": "Jude Reyes",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "elizabeth-johnson",
+   "name": "Elizabeth Johnson",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "george-kurtz",
+   "name": "George Kurtz",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "michael-sabel",
+   "name": "Michael Sabel",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "marijke-mars",
+   "name": "Marijke Mars",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "robert-pender",
+   "name": "Robert Pender",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "valerie-mars",
+   "name": "Valerie Mars",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "pamela-mars",
+   "name": "Pamela Mars",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "victoria-mars",
+   "name": "Victoria Mars",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "ken-xie",
+   "name": "Ken Xie & family",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "brad-jacobs",
+   "name": "Brad Jacobs",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "david-steward",
+   "name": "David Steward",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "michael-dorrell",
+   "name": "Michael Dorrell",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "trudy-cathy-white",
+   "name": "Trudy Cathy White",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "josh-harris",
+   "name": "Josh Harris",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "randa-duncan-williams",
+   "name": "Randa Duncan Williams",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "orlando-bravo",
+   "name": "Orlando Bravo",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "ramzi-musallam",
+   "name": "Ramzi Musallam",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "gayle-benson",
+   "name": "Gayle Benson",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "dannine-avara",
+   "name": "Dannine Avara",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "scott-duncan",
+   "name": "Scott Duncan",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "ken-langone",
+   "name": "Ken Langone",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "charlie-mills",
+   "name": "Charlie Mills",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "robert-f-smith",
+   "name": "Robert F. Smith",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "michael-xie",
+   "name": "Michael Xie",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "li-ge",
+   "name": "Li Ge",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "elisabeth-deluca",
+   "name": "Elisabeth DeLuca & family",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "adam-foroughi",
+   "name": "Adam Foroughi",
+   "reason": "Error: No unambiguous portrait"
+  },
+  {
+   "id": "matthew-prince",
+   "name": "Matthew Prince",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "philippe-laffont",
+   "name": "Philippe Laffont",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "tamara-gustavson",
+   "name": "Tamara Gustavson",
+   "reason": "Error: No unambiguous portrait"
+  },
+  {
+   "id": "william-goldring",
+   "name": "William Goldring & family",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "todd-boehly",
+   "name": "Todd Boehly",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "tony-tamer",
+   "name": "Tony Tamer",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "sami-mnaymneh",
+   "name": "Sami Mnaymneh",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "ernest-garcia-iii",
+   "name": "Ernest Garcia III",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "tench-coxe",
+   "name": "Tench Coxe",
+   "reason": "Error: HTTP 429"
+  },
+  {
+   "id": "leo-koguan",
+   "name": "Leo KoGuan",
+   "reason": "Error: HTTP 429"
+  }
+ ]
 }

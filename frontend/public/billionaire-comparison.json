@@ -1,8 +1,4509 @@
 {
- "from": "2026-08-31",
- "to": "2026-10-26",
- "days": 56,
- "population": "公开版不含福布斯富豪榜数据（版权原因），仅桌面本机版保留。",
- "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/list/rtb/2026-08-31",
- "entries": []
+  "from": "2026-08-31",
+  "to": "2026-10-26",
+  "days": 56,
+  "population": "Current US top500 compared by identical source URI against complete prior US list; not realized investment returns",
+  "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/list/rtb/2026-08-31",
+  "entries": [
+    {
+      "id": "elon-musk",
+      "previousRank": 1,
+      "previousWorthUsd": 891913798000,
+      "rankChange": 0,
+      "worthChangeUsd": 30998904000,
+      "worthChangePct": 3.475549326572925,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeff-bezos",
+      "previousRank": 3,
+      "previousWorthUsd": 267649214000,
+      "rankChange": 1,
+      "worthChangeUsd": 100428637000,
+      "worthChangePct": 37.522485307952365,
+      "enteredTop500": false
+    },
+    {
+      "id": "larry-page",
+      "previousRank": 2,
+      "previousWorthUsd": 277239212000,
+      "rankChange": -1,
+      "worthChangeUsd": -13514119000,
+      "worthChangePct": -4.874533765447292,
+      "enteredTop500": false
+    },
+    {
+      "id": "sergey-brin",
+      "previousRank": 4,
+      "previousWorthUsd": 255766650000,
+      "rankChange": 0,
+      "worthChangeUsd": -13030759000,
+      "worthChangePct": -5.0947842496275415,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-dell",
+      "previousRank": 5,
+      "previousWorthUsd": 240638166000,
+      "rankChange": 0,
+      "worthChangeUsd": -3458551000,
+      "worthChangePct": -1.4372412562353056,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-zuckerberg",
+      "previousRank": 6,
+      "previousWorthUsd": 196586216000,
+      "rankChange": 0,
+      "worthChangeUsd": 24144512000,
+      "worthChangePct": 12.281894677702123,
+      "enteredTop500": false
+    },
+    {
+      "id": "jensen-huang",
+      "previousRank": 8,
+      "previousWorthUsd": 190640055000,
+      "rankChange": 1,
+      "worthChangeUsd": -7763314000,
+      "worthChangePct": -4.072236550708086,
+      "enteredTop500": false
+    },
+    {
+      "id": "larry-ellison",
+      "previousRank": 7,
+      "previousWorthUsd": 192483369000,
+      "rankChange": -1,
+      "worthChangeUsd": -26398267000,
+      "worthChangePct": -13.714570322176769,
+      "enteredTop500": false
+    },
+    {
+      "id": "steve-ballmer",
+      "previousRank": 9,
+      "previousWorthUsd": 155300570000,
+      "rankChange": 0,
+      "worthChangeUsd": 7049395000,
+      "worthChangePct": 4.53919454384488,
+      "enteredTop500": false
+    },
+    {
+      "id": "warren-buffett",
+      "previousRank": 10,
+      "previousWorthUsd": 143325716000,
+      "rankChange": 0,
+      "worthChangeUsd": 10722217000,
+      "worthChangePct": 7.481014084032206,
+      "enteredTop500": false
+    },
+    {
+      "id": "rob-walton",
+      "previousRank": 11,
+      "previousWorthUsd": 127075769000,
+      "rankChange": 0,
+      "worthChangeUsd": 16024627000,
+      "worthChangePct": 12.61029315510182,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-walton",
+      "previousRank": 12,
+      "previousWorthUsd": 126343483000,
+      "rankChange": 0,
+      "worthChangeUsd": 13541040000,
+      "worthChangePct": 10.717640260083696,
+      "enteredTop500": false
+    },
+    {
+      "id": "alice-walton",
+      "previousRank": 13,
+      "previousWorthUsd": 116214603000,
+      "rankChange": 0,
+      "worthChangeUsd": 13222973000,
+      "worthChangePct": 11.378064940771687,
+      "enteredTop500": false
+    },
+    {
+      "id": "bill-gates",
+      "previousRank": 15,
+      "previousWorthUsd": 110055188000,
+      "rankChange": 1,
+      "worthChangeUsd": 8920172000,
+      "worthChangePct": 8.105180829821489,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-bloomberg",
+      "previousRank": 16,
+      "previousWorthUsd": 109419000000,
+      "rankChange": 1,
+      "worthChangeUsd": -14499000000,
+      "worthChangePct": -13.250897924492088,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-peterffy",
+      "previousRank": 14,
+      "previousWorthUsd": 112214854000,
+      "rankChange": -2,
+      "worthChangeUsd": -18560360000,
+      "worthChangePct": -16.540020628641553,
+      "enteredTop500": false
+    },
+    {
+      "id": "julia-koch",
+      "previousRank": 17,
+      "previousWorthUsd": 84627000000,
+      "rankChange": 0,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeff-yass",
+      "previousRank": 19,
+      "previousWorthUsd": 67435000000,
+      "rankChange": 1,
+      "worthChangeUsd": 10355000000,
+      "worthChangePct": 15.355527545043376,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-koch",
+      "previousRank": 18,
+      "previousWorthUsd": 76942000000,
+      "rankChange": -1,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "ken-griffin",
+      "previousRank": 20,
+      "previousWorthUsd": 53123215000,
+      "rankChange": 0,
+      "worthChangeUsd": 3946818000,
+      "worthChangePct": 7.429554103606116,
+      "enteredTop500": false
+    },
+    {
+      "id": "jacqueline-mars",
+      "previousRank": 23,
+      "previousWorthUsd": 43004000000,
+      "rankChange": 2,
+      "worthChangeUsd": 7344000000,
+      "worthChangePct": 17.07748116454283,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-mars",
+      "previousRank": 24,
+      "previousWorthUsd": 43004000000,
+      "rankChange": 2,
+      "worthChangeUsd": 7344000000,
+      "worthChangePct": 17.07748116454283,
+      "enteredTop500": false
+    },
+    {
+      "id": "lukas-walton",
+      "previousRank": 22,
+      "previousWorthUsd": 43705820000,
+      "rankChange": -1,
+      "worthChangeUsd": 4317647000,
+      "worthChangePct": 9.878883407289923,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-schwarzman",
+      "previousRank": 21,
+      "previousWorthUsd": 45417402000,
+      "rankChange": -3,
+      "worthChangeUsd": -3463800000,
+      "worthChangePct": -7.626592115506739,
+      "enteredTop500": false
+    },
+    {
+      "id": "abigail-johnson",
+      "previousRank": 25,
+      "previousWorthUsd": 41635256000,
+      "rankChange": 0,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-frist-jr",
+      "previousRank": 30,
+      "previousWorthUsd": 33131845000,
+      "rankChange": 4,
+      "worthChangeUsd": 4988758000,
+      "worthChangePct": 15.057290048290398,
+      "enteredTop500": false
+    },
+    {
+      "id": "peter-thiel",
+      "previousRank": 29,
+      "previousWorthUsd": 33227853000,
+      "rankChange": 2,
+      "worthChangeUsd": 4323332000,
+      "worthChangePct": 13.011168672258181,
+      "enteredTop500": false
+    },
+    {
+      "id": "marilyn-simons",
+      "previousRank": 32,
+      "previousWorthUsd": 32548960000,
+      "rankChange": 4,
+      "worthChangeUsd": 4024140000,
+      "worthChangePct": 12.363344328052262,
+      "enteredTop500": false
+    },
+    {
+      "id": "eric-schmidt",
+      "previousRank": 26,
+      "previousWorthUsd": 37835757000,
+      "rankChange": -3,
+      "worthChangeUsd": -1558986000,
+      "worthChangePct": -4.120403881439454,
+      "enteredTop500": false
+    },
+    {
+      "id": "len-blavatnik",
+      "previousRank": 35,
+      "previousWorthUsd": 31790846000,
+      "rankChange": 5,
+      "worthChangeUsd": 3474078000,
+      "worthChangePct": 10.927919313628836,
+      "enteredTop500": false
+    },
+    {
+      "id": "melinda-french-gates",
+      "previousRank": 37,
+      "previousWorthUsd": 30672196000,
+      "rankChange": 6,
+      "worthChangeUsd": 3671357000,
+      "worthChangePct": 11.969658122946267,
+      "enteredTop500": false
+    },
+    {
+      "id": "elaine-marshall",
+      "previousRank": 34,
+      "previousWorthUsd": 32239000000,
+      "rankChange": 2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "henry-samueli",
+      "previousRank": 27,
+      "previousWorthUsd": 34853057000,
+      "rankChange": -6,
+      "worthChangeUsd": -4056669000,
+      "worthChangePct": -11.639349168137532,
+      "enteredTop500": false
+    },
+    {
+      "id": "lyndal-stephens-greth",
+      "previousRank": 33,
+      "previousWorthUsd": 32383220000,
+      "rankChange": -1,
+      "worthChangeUsd": -1894407000,
+      "worthChangePct": -5.849964889223493,
+      "enteredTop500": false
+    },
+    {
+      "id": "miriam-adelson",
+      "previousRank": 28,
+      "previousWorthUsd": 33283125000,
+      "rankChange": -7,
+      "worthChangeUsd": -3155319000,
+      "worthChangePct": -9.480236606388374,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-pera",
+      "previousRank": 36,
+      "previousWorthUsd": 31674244000,
+      "rankChange": 0,
+      "worthChangeUsd": -2049394000,
+      "worthChangePct": -6.47022230427978,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-tepper",
+      "previousRank": 45,
+      "previousWorthUsd": 23687000000,
+      "rankChange": 8,
+      "worthChangeUsd": 4817000000,
+      "worthChangePct": 20.336049309747963,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-tu",
+      "previousRank": 38,
+      "previousWorthUsd": 29077253000,
+      "rankChange": 0,
+      "worthChangeUsd": -1191708000,
+      "worthChangePct": -4.0984201636929045,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-sun",
+      "previousRank": 39,
+      "previousWorthUsd": 29053463000,
+      "rankChange": 0,
+      "worthChangeUsd": -1188396000,
+      "worthChangePct": -4.090376420876231,
+      "enteredTop500": false
+    },
+    {
+      "id": "stanley-kroenke",
+      "previousRank": 43,
+      "previousWorthUsd": 24307497000,
+      "rankChange": 3,
+      "worthChangeUsd": 3281303000,
+      "worthChangePct": 13.499139792139026,
+      "enteredTop500": false
+    },
+    {
+      "id": "israel-englander",
+      "previousRank": 40,
+      "previousWorthUsd": 27555932000,
+      "rankChange": -1,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "mackenzie-scott",
+      "previousRank": 31,
+      "previousWorthUsd": 32607671000,
+      "rankChange": -11,
+      "worthChangeUsd": -5412481000,
+      "worthChangePct": -16.598796645120714,
+      "enteredTop500": false
+    },
+    {
+      "id": "steve-cohen",
+      "previousRank": 47,
+      "previousWorthUsd": 22982540000,
+      "rankChange": 4,
+      "worthChangeUsd": 3686150000,
+      "worthChangePct": 16.03891475876905,
+      "enteredTop500": false
+    },
+    {
+      "id": "greg-brockman",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "phil-knight",
+      "previousRank": 41,
+      "previousWorthUsd": 26017371000,
+      "rankChange": -4,
+      "worthChangeUsd": -536443000,
+      "worthChangePct": -2.0618647441357543,
+      "enteredTop500": false
+    },
+    {
+      "id": "rupert-murdoch",
+      "previousRank": 44,
+      "previousWorthUsd": 24228113000,
+      "rankChange": -2,
+      "worthChangeUsd": 1195394000,
+      "worthChangePct": 4.9339129299917,
+      "enteredTop500": false
+    },
+    {
+      "id": "christy-walton",
+      "previousRank": 53,
+      "previousWorthUsd": 21616093000,
+      "rankChange": 6,
+      "worthChangeUsd": 2143565000,
+      "worthChangePct": 9.916523767731753,
+      "enteredTop500": false
+    },
+    {
+      "id": "diane-hendricks",
+      "previousRank": 52,
+      "previousWorthUsd": 21689200000,
+      "rankChange": 4,
+      "worthChangeUsd": 1889000000,
+      "worthChangePct": 8.709403758552643,
+      "enteredTop500": false
+    },
+    {
+      "id": "brett-adcock",
+      "previousRank": 46,
+      "previousWorthUsd": 23403340000,
+      "rankChange": -3,
+      "worthChangeUsd": -20234000,
+      "worthChangePct": -0.08645774492016951,
+      "enteredTop500": false
+    },
+    {
+      "id": "jerry-jones",
+      "previousRank": 57,
+      "previousWorthUsd": 19221627000,
+      "rankChange": 7,
+      "worthChangeUsd": 4035043000,
+      "worthChangePct": 20.992203209436955,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-doerr",
+      "previousRank": 50,
+      "previousWorthUsd": 22177214000,
+      "rankChange": -1,
+      "worthChangeUsd": -560839000,
+      "worthChangePct": -2.5288974530344523,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-ross",
+      "previousRank": 63,
+      "previousWorthUsd": 16982712000,
+      "rankChange": 11,
+      "worthChangeUsd": 4526003000,
+      "worthChangePct": 26.65064920137608,
+      "enteredTop500": false
+    },
+    {
+      "id": "alexander-karp",
+      "previousRank": 62,
+      "previousWorthUsd": 17142356000,
+      "rankChange": 9,
+      "worthChangeUsd": 3803951000,
+      "worthChangePct": 22.190362864941086,
+      "enteredTop500": false
+    },
+    {
+      "id": "ernest-garcia-ii",
+      "previousRank": 42,
+      "previousWorthUsd": 24593458000,
+      "rankChange": -12,
+      "worthChangeUsd": -3845506000,
+      "worthChangePct": -15.636296449242721,
+      "enteredTop500": false
+    },
+    {
+      "id": "henry-nicholas-iii",
+      "previousRank": 49,
+      "previousWorthUsd": 22251777000,
+      "rankChange": -6,
+      "worthChangeUsd": -1665282000,
+      "worthChangePct": -7.483815786936926,
+      "enteredTop500": false
+    },
+    {
+      "id": "rick-cohen",
+      "previousRank": 54,
+      "previousWorthUsd": 20593313000,
+      "rankChange": -2,
+      "worthChangeUsd": -156622000,
+      "worthChangePct": -0.7605478535678062,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-gilbert",
+      "previousRank": 48,
+      "previousWorthUsd": 22439327000,
+      "rankChange": -9,
+      "worthChangeUsd": -2212748000,
+      "worthChangePct": -9.861026580699145,
+      "enteredTop500": false
+    },
+    {
+      "id": "todd-graves",
+      "previousRank": 51,
+      "previousWorthUsd": 21983000000,
+      "rankChange": -7,
+      "worthChangeUsd": -2032000000,
+      "worthChangePct": -9.243506345812673,
+      "enteredTop500": false
+    },
+    {
+      "id": "donald-bren",
+      "previousRank": 58,
+      "previousWorthUsd": 19212086000,
+      "rankChange": -1,
+      "worthChangeUsd": 585413000,
+      "worthChangePct": 3.047107950693121,
+      "enteredTop500": false
+    },
+    {
+      "id": "arthur-dantchik",
+      "previousRank": 65,
+      "previousWorthUsd": 16877000000,
+      "rankChange": 5,
+      "worthChangeUsd": 2600000000,
+      "worthChangePct": 15.405581560703915,
+      "enteredTop500": false
+    },
+    {
+      "id": "philip-anschutz",
+      "previousRank": 55,
+      "previousWorthUsd": 19401000000,
+      "rankChange": -6,
+      "worthChangeUsd": -101000000,
+      "worthChangePct": -0.5205917220761817,
+      "enteredTop500": false
+    },
+    {
+      "id": "nancy-walton-laurie",
+      "previousRank": 64,
+      "previousWorthUsd": 16907880000,
+      "rankChange": 2,
+      "worthChangeUsd": 2130321000,
+      "worthChangePct": 12.599574872781211,
+      "enteredTop500": false
+    },
+    {
+      "id": "harold-hamm",
+      "previousRank": 56,
+      "previousWorthUsd": 19240000000,
+      "rankChange": -7,
+      "worthChangeUsd": -240000000,
+      "worthChangePct": -1.2474012474012475,
+      "enteredTop500": false
+    },
+    {
+      "id": "ray-dalio",
+      "previousRank": 80,
+      "previousWorthUsd": 15383970000,
+      "rankChange": 16,
+      "worthChangeUsd": 3510558000,
+      "worthChangePct": 22.819584281560612,
+      "enteredTop500": false
+    },
+    {
+      "id": "jan-koum",
+      "previousRank": 66,
+      "previousWorthUsd": 16809441000,
+      "rankChange": 1,
+      "worthChangeUsd": 1763214000,
+      "worthChangePct": 10.48942674536292,
+      "enteredTop500": false
+    },
+    {
+      "id": "edwin-chen",
+      "previousRank": 60,
+      "previousWorthUsd": 18000000000,
+      "rankChange": -6,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "eric-smidt",
+      "previousRank": 61,
+      "previousWorthUsd": 17923000000,
+      "rankChange": -6,
+      "worthChangeUsd": -167500000,
+      "worthChangePct": -0.9345533671818333,
+      "enteredTop500": false
+    },
+    {
+      "id": "antonio-gracias",
+      "previousRank": 376,
+      "previousWorthUsd": 4240698000,
+      "rankChange": 308,
+      "worthChangeUsd": 12859302000,
+      "worthChangePct": 303.23550509845313,
+      "enteredTop500": false
+    },
+    {
+      "id": "josh-kushner",
+      "previousRank": 67,
+      "previousWorthUsd": 16690704000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "peter-mallouk",
+      "previousRank": 71,
+      "previousWorthUsd": 16082000000,
+      "rankChange": 1,
+      "worthChangeUsd": 451000000,
+      "worthChangePct": 2.80437756497948,
+      "enteredTop500": false
+    },
+    {
+      "id": "edward-johnson-iv",
+      "previousRank": 69,
+      "previousWorthUsd": 16303349000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "shahid-khan",
+      "previousRank": 83,
+      "previousWorthUsd": 14782353000,
+      "rankChange": 11,
+      "worthChangeUsd": 1471345000,
+      "worthChangePct": 9.953388340814213,
+      "enteredTop500": false
+    },
+    {
+      "id": "laurene-powell-jobs",
+      "previousRank": 79,
+      "previousWorthUsd": 15385362000,
+      "rankChange": 6,
+      "worthChangeUsd": 591252000,
+      "worthChangePct": 3.8429515015636286,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-menard-jr",
+      "previousRank": 72,
+      "previousWorthUsd": 15985099000,
+      "rankChange": -2,
+      "worthChangeUsd": -33105000,
+      "worthChangePct": -0.207099124002923,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniela-amodei",
+      "previousRank": 73,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "dario-amodei",
+      "previousRank": 74,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jack-clark",
+      "previousRank": 75,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jared-kaplan",
+      "previousRank": 76,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "sam-mccandlish",
+      "previousRank": 77,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "tom-brown",
+      "previousRank": 78,
+      "previousWorthUsd": 15500000000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "ralph-lauren",
+      "previousRank": 84,
+      "previousWorthUsd": 14750401000,
+      "rankChange": 3,
+      "worthChangeUsd": 685610000,
+      "worthChangePct": 4.648077025160197,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-kaiser",
+      "previousRank": 68,
+      "previousWorthUsd": 16413414000,
+      "rankChange": -14,
+      "worthChangeUsd": -1004129000,
+      "worthChangePct": -6.117733946149168,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeffery-hildebrand",
+      "previousRank": 128,
+      "previousWorthUsd": 11044497000,
+      "rankChange": 45,
+      "worthChangeUsd": 4337462000,
+      "worthChangePct": 39.27260788789204,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-kraft",
+      "previousRank": 90,
+      "previousWorthUsd": 13841585000,
+      "rankChange": 6,
+      "worthChangeUsd": 1391894000,
+      "worthChangePct": 10.055885940808079,
+      "enteredTop500": false
+    },
+    {
+      "id": "ken-fisher",
+      "previousRank": 92,
+      "previousWorthUsd": 13154000000,
+      "rankChange": 7,
+      "worthChangeUsd": 1809700000,
+      "worthChangePct": 13.757792306522731,
+      "enteredTop500": false
+    },
+    {
+      "id": "ann-walton-kroenke",
+      "previousRank": 89,
+      "previousWorthUsd": 13931679000,
+      "rankChange": 3,
+      "worthChangeUsd": 601438000,
+      "worthChangePct": 4.317053242469913,
+      "enteredTop500": false
+    },
+    {
+      "id": "jay-chaudhry",
+      "previousRank": 135,
+      "previousWorthUsd": 10743508000,
+      "rankChange": 48,
+      "worthChangeUsd": 3733966000,
+      "worthChangePct": 34.755556564950666,
+      "enteredTop500": false
+    },
+    {
+      "id": "elizabeth-johnson",
+      "previousRank": 87,
+      "previousWorthUsd": 14430666000,
+      "rankChange": -1,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "j-christopher-reyes",
+      "previousRank": 95,
+      "previousWorthUsd": 13100000000,
+      "rankChange": 6,
+      "worthChangeUsd": 1161000000,
+      "worthChangePct": 8.86259541984733,
+      "enteredTop500": false
+    },
+    {
+      "id": "jude-reyes",
+      "previousRank": 96,
+      "previousWorthUsd": 13100000000,
+      "rankChange": 6,
+      "worthChangeUsd": 1161000000,
+      "worthChangePct": 8.86259541984733,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-kurtz",
+      "previousRank": 91,
+      "previousWorthUsd": 13612452000,
+      "rankChange": 0,
+      "worthChangeUsd": 626343000,
+      "worthChangePct": 4.601250384574359,
+      "enteredTop500": false
+    },
+    {
+      "id": "pierre-omidyar",
+      "previousRank": 103,
+      "previousWorthUsd": 12335121000,
+      "rankChange": 11,
+      "worthChangeUsd": 1640906000,
+      "worthChangePct": 13.302715068623971,
+      "enteredTop500": false
+    },
+    {
+      "id": "leon-black",
+      "previousRank": 82,
+      "previousWorthUsd": 14784859000,
+      "rankChange": -11,
+      "worthChangeUsd": -904128000,
+      "worthChangePct": -6.115229100257229,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-sabel",
+      "previousRank": 85,
+      "previousWorthUsd": 14465181000,
+      "rankChange": -9,
+      "worthChangeUsd": -613461000,
+      "worthChangePct": -4.240949352794134,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-pender",
+      "previousRank": 86,
+      "previousWorthUsd": 14465181000,
+      "rankChange": -9,
+      "worthChangeUsd": -613461000,
+      "worthChangePct": -4.240949352794134,
+      "enteredTop500": false
+    },
+    {
+      "id": "richard-kinder",
+      "previousRank": 97,
+      "previousWorthUsd": 13079725000,
+      "rankChange": 1,
+      "worthChangeUsd": 565210000,
+      "worthChangePct": 4.321268222382351,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-roberts",
+      "previousRank": 88,
+      "previousWorthUsd": 14301558000,
+      "rankChange": -9,
+      "worthChangeUsd": -693820000,
+      "worthChangePct": -4.851359551176173,
+      "enteredTop500": false
+    },
+    {
+      "id": "arthur-blank",
+      "previousRank": 136,
+      "previousWorthUsd": 10414542000,
+      "rankChange": 38,
+      "worthChangeUsd": 2762121000,
+      "worthChangePct": 26.52177119262662,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-schwab",
+      "previousRank": 81,
+      "previousWorthUsd": 14941989000,
+      "rankChange": -18,
+      "worthChangeUsd": -1833408000,
+      "worthChangePct": -12.270173669650005,
+      "enteredTop500": false
+    },
+    {
+      "id": "dan-friedkin",
+      "previousRank": 113,
+      "previousWorthUsd": 11656044000,
+      "rankChange": 13,
+      "worthChangeUsd": 1050488000,
+      "worthChangePct": 9.012388765862585,
+      "enteredTop500": false
+    },
+    {
+      "id": "marijke-mars",
+      "previousRank": 131,
+      "previousWorthUsd": 10758000000,
+      "rankChange": 30,
+      "worthChangeUsd": 1835000000,
+      "worthChangePct": 17.057073805540064,
+      "enteredTop500": false
+    },
+    {
+      "id": "pamela-mars",
+      "previousRank": 132,
+      "previousWorthUsd": 10758000000,
+      "rankChange": 30,
+      "worthChangeUsd": 1835000000,
+      "worthChangePct": 17.057073805540064,
+      "enteredTop500": false
+    },
+    {
+      "id": "valerie-mars",
+      "previousRank": 133,
+      "previousWorthUsd": 10758000000,
+      "rankChange": 30,
+      "worthChangeUsd": 1835000000,
+      "worthChangePct": 17.057073805540064,
+      "enteredTop500": false
+    },
+    {
+      "id": "victoria-mars",
+      "previousRank": 134,
+      "previousWorthUsd": 10758000000,
+      "rankChange": 30,
+      "worthChangeUsd": 1835000000,
+      "worthChangePct": 17.057073805540064,
+      "enteredTop500": false
+    },
+    {
+      "id": "henry-kravis",
+      "previousRank": 93,
+      "previousWorthUsd": 13150401000,
+      "rankChange": -12,
+      "worthChangeUsd": -842955000,
+      "worthChangePct": -6.410108710753383,
+      "enteredTop500": false
+    },
+    {
+      "id": "brad-jacobs",
+      "previousRank": 98,
+      "previousWorthUsd": 12840007000,
+      "rankChange": -8,
+      "worthChangeUsd": -568024000,
+      "worthChangePct": -4.423860516586946,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-steward",
+      "previousRank": 102,
+      "previousWorthUsd": 12412195000,
+      "rankChange": -5,
+      "worthChangeUsd": -153195000,
+      "worthChangePct": -1.2342297232681245,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-ergen",
+      "previousRank": 111,
+      "previousWorthUsd": 11865721000,
+      "rankChange": 3,
+      "worthChangeUsd": 378194000,
+      "worthChangePct": 3.1872820876202974,
+      "enteredTop500": false
+    },
+    {
+      "id": "jimmy-haslam",
+      "previousRank": 140,
+      "previousWorthUsd": 10335125000,
+      "rankChange": 31,
+      "worthChangeUsd": 1883875000,
+      "worthChangePct": 18.227887906532338,
+      "enteredTop500": false
+    },
+    {
+      "id": "andrew-beal",
+      "previousRank": 99,
+      "previousWorthUsd": 12718500000,
+      "rankChange": -11,
+      "worthChangeUsd": -527657000,
+      "worthChangePct": -4.148736093092739,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-duggan",
+      "previousRank": 116,
+      "previousWorthUsd": 11571330000,
+      "rankChange": 5,
+      "worthChangeUsd": 597957000,
+      "worthChangePct": 5.167573649701461,
+      "enteredTop500": false
+    },
+    {
+      "id": "ken-xie",
+      "previousRank": 112,
+      "previousWorthUsd": 11679742000,
+      "rankChange": 0,
+      "worthChangeUsd": 405234000,
+      "worthChangePct": 3.4695458170223277,
+      "enteredTop500": false
+    },
+    {
+      "id": "douglas-leone",
+      "previousRank": 108,
+      "previousWorthUsd": 11983002000,
+      "rankChange": -5,
+      "worthChangeUsd": 101948000,
+      "worthChangePct": 0.8507717848999775,
+      "enteredTop500": false
+    },
+    {
+      "id": "bubba-cathy",
+      "previousRank": 105,
+      "previousWorthUsd": 12012000000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "dan-cathy",
+      "previousRank": 106,
+      "previousWorthUsd": 12012000000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "trudy-cathy-white",
+      "previousRank": 107,
+      "previousWorthUsd": 12012000000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-duffield",
+      "previousRank": 121,
+      "previousWorthUsd": 11413674000,
+      "rankChange": 4,
+      "worthChangeUsd": 573326000,
+      "worthChangePct": 5.023150301997411,
+      "enteredTop500": false
+    },
+    {
+      "id": "brian-chesky",
+      "previousRank": 100,
+      "previousWorthUsd": 12669901000,
+      "rankChange": -18,
+      "worthChangeUsd": -736418000,
+      "worthChangePct": -5.812342180100697,
+      "enteredTop500": false
+    },
+    {
+      "id": "micky-arison",
+      "previousRank": 156,
+      "previousWorthUsd": 9471973000,
+      "rankChange": 37,
+      "worthChangeUsd": 2318501000,
+      "worthChangePct": 24.477487425270322,
+      "enteredTop500": false
+    },
+    {
+      "id": "terrence-pegula",
+      "previousRank": 162,
+      "previousWorthUsd": 9291331000,
+      "rankChange": 42,
+      "worthChangeUsd": 2475322000,
+      "worthChangePct": 26.641199199554936,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-dorrell",
+      "previousRank": 183,
+      "previousWorthUsd": 8467000000,
+      "rankChange": 62,
+      "worthChangeUsd": 3252760000,
+      "worthChangePct": 38.41691271997165,
+      "enteredTop500": false
+    },
+    {
+      "id": "josh-harris",
+      "previousRank": 127,
+      "previousWorthUsd": 11055470000,
+      "rankChange": 5,
+      "worthChangeUsd": 651166000,
+      "worthChangePct": 5.889989299414679,
+      "enteredTop500": false
+    },
+    {
+      "id": "tilman-fertitta",
+      "previousRank": 126,
+      "previousWorthUsd": 11085104000,
+      "rankChange": 3,
+      "worthChangeUsd": 612294000,
+      "worthChangePct": 5.523574699885541,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-rubin",
+      "previousRank": 154,
+      "previousWorthUsd": 9592384000,
+      "rankChange": 30,
+      "worthChangeUsd": 2077616000,
+      "worthChangePct": 21.659016152814566,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-ackman",
+      "previousRank": 174,
+      "previousWorthUsd": 8897123000,
+      "rankChange": 49,
+      "worthChangeUsd": 2760484000,
+      "worthChangePct": 31.026703800767958,
+      "enteredTop500": false
+    },
+    {
+      "id": "orlando-bravo",
+      "previousRank": 115,
+      "previousWorthUsd": 11612000000,
+      "rankChange": -11,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "ramzi-musallam",
+      "previousRank": 130,
+      "previousWorthUsd": 10784000000,
+      "rankChange": 3,
+      "worthChangeUsd": 803718000,
+      "worthChangePct": 7.452874629080118,
+      "enteredTop500": false
+    },
+    {
+      "id": "roger-penske",
+      "previousRank": 119,
+      "previousWorthUsd": 11440017000,
+      "rankChange": -9,
+      "worthChangeUsd": 130006000,
+      "worthChangePct": 1.1364143951883987,
+      "enteredTop500": false
+    },
+    {
+      "id": "james-goodnight",
+      "previousRank": 70,
+      "previousWorthUsd": 16112196000,
+      "rankChange": -59,
+      "worthChangeUsd": -4665514000,
+      "worthChangePct": -28.956412893686252,
+      "enteredTop500": false
+    },
+    {
+      "id": "randa-duncan-williams",
+      "previousRank": 114,
+      "previousWorthUsd": 11640059000,
+      "rankChange": -16,
+      "worthChangeUsd": -303485000,
+      "worthChangePct": -2.6072462347484664,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-butt",
+      "previousRank": 125,
+      "previousWorthUsd": 11136600000,
+      "rankChange": -6,
+      "worthChangeUsd": 188000000,
+      "worthChangePct": 1.6881274356625902,
+      "enteredTop500": false
+    },
+    {
+      "id": "nathan-blecharczyk",
+      "previousRank": 110,
+      "previousWorthUsd": 11951059000,
+      "rankChange": -22,
+      "worthChangeUsd": -685357000,
+      "worthChangePct": -5.73469681640765,
+      "enteredTop500": false
+    },
+    {
+      "id": "dannine-avara",
+      "previousRank": 117,
+      "previousWorthUsd": 11563920000,
+      "rankChange": -16,
+      "worthChangeUsd": -301196000,
+      "worthChangePct": -2.604618503068164,
+      "enteredTop500": false
+    },
+    {
+      "id": "milane-frantz",
+      "previousRank": 118,
+      "previousWorthUsd": 11550777000,
+      "rankChange": -16,
+      "worthChangeUsd": -301196000,
+      "worthChangePct": -2.607582156594314,
+      "enteredTop500": false
+    },
+    {
+      "id": "gayle-benson",
+      "previousRank": 200,
+      "previousWorthUsd": 7943640000,
+      "rankChange": 65,
+      "worthChangeUsd": 3255731000,
+      "worthChangePct": 40.98537949856741,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-malone",
+      "previousRank": 124,
+      "previousWorthUsd": 11226203000,
+      "rankChange": -12,
+      "worthChangeUsd": -56392000,
+      "worthChangePct": -0.5023247842569745,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-stevens",
+      "previousRank": 104,
+      "previousWorthUsd": 12121612000,
+      "rankChange": -33,
+      "worthChangeUsd": -977413000,
+      "worthChangePct": -8.063391238723035,
+      "enteredTop500": false
+    },
+    {
+      "id": "vinod-khosla",
+      "previousRank": 94,
+      "previousWorthUsd": 13141714000,
+      "rankChange": -44,
+      "worthChangeUsd": -2101001000,
+      "worthChangePct": -15.987267718655268,
+      "enteredTop500": false
+    },
+    {
+      "id": "scott-duncan",
+      "previousRank": 123,
+      "previousWorthUsd": 11238109000,
+      "rankChange": -16,
+      "worthChangeUsd": -288974000,
+      "worthChangePct": -2.571375664713699,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-f-smith",
+      "previousRank": 142,
+      "previousWorthUsd": 10044700000,
+      "rankChange": 2,
+      "worthChangeUsd": 898300000,
+      "worthChangePct": 8.943024679681823,
+      "enteredTop500": false
+    },
+    {
+      "id": "antony-ressler",
+      "previousRank": 109,
+      "previousWorthUsd": 11972125000,
+      "rankChange": -32,
+      "worthChangeUsd": -1097602000,
+      "worthChangePct": -9.167979786378776,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-shaw",
+      "previousRank": 176,
+      "previousWorthUsd": 8823000000,
+      "rankChange": 34,
+      "worthChangeUsd": 1983254000,
+      "worthChangePct": 22.478227360308285,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-paulson",
+      "previousRank": 396,
+      "previousWorthUsd": 4048000000,
+      "rankChange": 253,
+      "worthChangeUsd": 6751409000,
+      "worthChangePct": 166.78381916996048,
+      "enteredTop500": false
+    },
+    {
+      "id": "charlie-mills",
+      "previousRank": 138,
+      "previousWorthUsd": 10365621000,
+      "rankChange": -6,
+      "worthChangeUsd": 430945000,
+      "worthChangePct": 4.157445077337865,
+      "enteredTop500": false
+    },
+    {
+      "id": "ken-langone",
+      "previousRank": 137,
+      "previousWorthUsd": 10393093000,
+      "rankChange": -8,
+      "worthChangeUsd": 397291000,
+      "worthChangePct": 3.8226445197786645,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-bisciotti",
+      "previousRank": 184,
+      "previousWorthUsd": 8410646000,
+      "rankChange": 38,
+      "worthChangeUsd": 2320646000,
+      "worthChangePct": 27.591768813002,
+      "enteredTop500": false
+    },
+    {
+      "id": "ron-baron",
+      "previousRank": 193,
+      "previousWorthUsd": 8177784000,
+      "rankChange": 46,
+      "worthChangeUsd": 2475822000,
+      "worthChangePct": 30.274974247302204,
+      "enteredTop500": false
+    },
+    {
+      "id": "tom-gores",
+      "previousRank": 141,
+      "previousWorthUsd": 10055600000,
+      "rankChange": -7,
+      "worthChangeUsd": 587100000,
+      "worthChangePct": 5.838537730219977,
+      "enteredTop500": false
+    },
+    {
+      "id": "don-hankey",
+      "previousRank": 194,
+      "previousWorthUsd": 8151900000,
+      "rankChange": 45,
+      "worthChangeUsd": 2303100000,
+      "worthChangePct": 28.252309277591724,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-xie",
+      "previousRank": 145,
+      "previousWorthUsd": 10016233000,
+      "rankChange": -5,
+      "worthChangeUsd": 408648000,
+      "worthChangePct": 4.079857167859414,
+      "enteredTop500": false
+    },
+    {
+      "id": "bruce-kovner",
+      "previousRank": 139,
+      "previousWorthUsd": 10355860000,
+      "rankChange": -12,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "patrick-soon-shiong",
+      "previousRank": 159,
+      "previousWorthUsd": 9373786000,
+      "rankChange": 7,
+      "worthChangeUsd": 976029000,
+      "worthChangePct": 10.412324326584796,
+      "enteredTop500": false
+    },
+    {
+      "id": "harry-stine",
+      "previousRank": 148,
+      "previousWorthUsd": 9891000000,
+      "rankChange": -5,
+      "worthChangeUsd": 319000000,
+      "worthChangePct": 3.225154180568193,
+      "enteredTop500": false
+    },
+    {
+      "id": "elisabeth-deluca",
+      "previousRank": 169,
+      "previousWorthUsd": 9028439000,
+      "rankChange": 15,
+      "worthChangeUsd": 1177561000,
+      "worthChangePct": 13.042797320777158,
+      "enteredTop500": false
+    },
+    {
+      "id": "gabe-newell",
+      "previousRank": 129,
+      "previousWorthUsd": 11033600000,
+      "rankChange": -26,
+      "worthChangeUsd": -872295000,
+      "worthChangePct": -7.905805901972157,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeff-greene",
+      "previousRank": 171,
+      "previousWorthUsd": 8995087000,
+      "rankChange": 15,
+      "worthChangeUsd": 1130650000,
+      "worthChangePct": 12.569639404265907,
+      "enteredTop500": false
+    },
+    {
+      "id": "denise-york",
+      "previousRank": 144,
+      "previousWorthUsd": 10021800000,
+      "rankChange": -13,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "li-ge",
+      "previousRank": 146,
+      "previousWorthUsd": 9985358000,
+      "rankChange": -12,
+      "worthChangeUsd": -250183000,
+      "worthChangePct": -2.5054985509783427,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-geffen",
+      "previousRank": 150,
+      "previousWorthUsd": 9687620000,
+      "rankChange": -9,
+      "worthChangeUsd": -16680000,
+      "worthChangePct": -0.1721785123693952,
+      "enteredTop500": false
+    },
+    {
+      "id": "judy-faulkner",
+      "previousRank": 152,
+      "previousWorthUsd": 9627200000,
+      "rankChange": -8,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "patrick-ryan",
+      "previousRank": 191,
+      "previousWorthUsd": 8214002000,
+      "rankChange": 30,
+      "worthChangeUsd": 1392340000,
+      "worthChangePct": 16.950811553247735,
+      "enteredTop500": false
+    },
+    {
+      "id": "adam-foroughi",
+      "previousRank": 120,
+      "previousWorthUsd": 11427930000,
+      "rankChange": -42,
+      "worthChangeUsd": -1841214000,
+      "worthChangePct": -16.111526759439375,
+      "enteredTop500": false
+    },
+    {
+      "id": "matthew-prince",
+      "previousRank": 168,
+      "previousWorthUsd": 9039548000,
+      "rankChange": 5,
+      "worthChangeUsd": 461795000,
+      "worthChangePct": 5.108607200271518,
+      "enteredTop500": false
+    },
+    {
+      "id": "philippe-laffont",
+      "previousRank": 202,
+      "previousWorthUsd": 7893800000,
+      "rankChange": 38,
+      "worthChangeUsd": 1606499000,
+      "worthChangePct": 20.35140236641415,
+      "enteredTop500": false
+    },
+    {
+      "id": "marc-benioff",
+      "previousRank": 158,
+      "previousWorthUsd": 9415883000,
+      "rankChange": -7,
+      "worthChangeUsd": 21035000,
+      "worthChangePct": 0.22339912252520555,
+      "enteredTop500": false
+    },
+    {
+      "id": "jack-dangermond",
+      "previousRank": 59,
+      "previousWorthUsd": 18605092000,
+      "rankChange": -107,
+      "worthChangeUsd": -9202632000,
+      "worthChangePct": -49.46297497480797,
+      "enteredTop500": false
+    },
+    {
+      "id": "joe-gebbia",
+      "previousRank": 265,
+      "previousWorthUsd": 6090405000,
+      "rankChange": 98,
+      "worthChangeUsd": 3271052000,
+      "worthChangePct": 53.70828376766406,
+      "enteredTop500": false
+    },
+    {
+      "id": "les-wexner",
+      "previousRank": 172,
+      "previousWorthUsd": 8957583000,
+      "rankChange": 4,
+      "worthChangeUsd": 364284000,
+      "worthChangePct": 4.066766671321941,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-overdeck",
+      "previousRank": 198,
+      "previousWorthUsd": 7980000000,
+      "rankChange": 29,
+      "worthChangeUsd": 1321476000,
+      "worthChangePct": 16.55984962406015,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-siegel-1",
+      "previousRank": 197,
+      "previousWorthUsd": 7980000000,
+      "rankChange": 27,
+      "worthChangeUsd": 1321472000,
+      "worthChangePct": 16.559799498746866,
+      "enteredTop500": false
+    },
+    {
+      "id": "steven-rales",
+      "previousRank": 175,
+      "previousWorthUsd": 8886013000,
+      "rankChange": 4,
+      "worthChangeUsd": 365164000,
+      "worthChangePct": 4.109424552946299,
+      "enteredTop500": false
+    },
+    {
+      "id": "tamara-gustavson",
+      "previousRank": 178,
+      "previousWorthUsd": 8688429000,
+      "rankChange": 6,
+      "worthChangeUsd": 535920000,
+      "worthChangePct": 6.168203710935544,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-rowling",
+      "previousRank": 155,
+      "previousWorthUsd": 9498838000,
+      "rankChange": -18,
+      "worthChangeUsd": -274826000,
+      "worthChangePct": -2.8932591544355213,
+      "enteredTop500": false
+    },
+    {
+      "id": "carl-cook",
+      "previousRank": 166,
+      "previousWorthUsd": 9087637000,
+      "rankChange": -8,
+      "worthChangeUsd": 88266000,
+      "worthChangePct": 0.971275591223549,
+      "enteredTop500": false
+    },
+    {
+      "id": "todd-boehly",
+      "previousRank": 163,
+      "previousWorthUsd": 9254000000,
+      "rankChange": -12,
+      "worthChangeUsd": -85000000,
+      "worthChangePct": -0.9185217203371515,
+      "enteredTop500": false
+    },
+    {
+      "id": "igor-olenicoff",
+      "previousRank": 196,
+      "previousWorthUsd": 8000048000,
+      "rankChange": 20,
+      "worthChangeUsd": 1087172000,
+      "worthChangePct": 13.589568462589224,
+      "enteredTop500": false
+    },
+    {
+      "id": "dustin-moskovitz",
+      "previousRank": 143,
+      "previousWorthUsd": 10023696000,
+      "rankChange": -34,
+      "worthChangeUsd": -963876000,
+      "worthChangePct": -9.615973988037945,
+      "enteredTop500": false
+    },
+    {
+      "id": "leonard-stern",
+      "previousRank": 188,
+      "previousWorthUsd": 8314600000,
+      "rankChange": 10,
+      "worthChangeUsd": 729417000,
+      "worthChangePct": 8.772725085993313,
+      "enteredTop500": false
+    },
+    {
+      "id": "kelcy-warren",
+      "previousRank": 157,
+      "previousWorthUsd": 9447659000,
+      "rankChange": -22,
+      "worthChangeUsd": -423012000,
+      "worthChangePct": -4.477426630237184,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-goldring",
+      "previousRank": 170,
+      "previousWorthUsd": 9000000000,
+      "rankChange": -10,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "min-kao",
+      "previousRank": 177,
+      "previousWorthUsd": 8803319000,
+      "rankChange": -4,
+      "worthChangeUsd": 178029000,
+      "worthChangePct": 2.0222940915806866,
+      "enteredTop500": false
+    },
+    {
+      "id": "sami-mnaymneh",
+      "previousRank": 206,
+      "previousWorthUsd": 7797000000,
+      "rankChange": 24,
+      "worthChangeUsd": 1178000000,
+      "worthChangePct": 15.108375016031808,
+      "enteredTop500": false
+    },
+    {
+      "id": "tony-tamer",
+      "previousRank": 207,
+      "previousWorthUsd": 7797000000,
+      "rankChange": 24,
+      "worthChangeUsd": 1178000000,
+      "worthChangePct": 15.108375016031808,
+      "enteredTop500": false
+    },
+    {
+      "id": "lin-bin",
+      "previousRank": 161,
+      "previousWorthUsd": 9329737000,
+      "rankChange": -23,
+      "worthChangeUsd": -361379000,
+      "worthChangePct": -3.873410365158203,
+      "enteredTop500": false
+    },
+    {
+      "id": "james-clark",
+      "previousRank": 181,
+      "previousWorthUsd": 8562936000,
+      "rankChange": -4,
+      "worthChangeUsd": 404742000,
+      "worthChangePct": 4.726673187794467,
+      "enteredTop500": false
+    },
+    {
+      "id": "stanley-druckenmiller",
+      "previousRank": 208,
+      "previousWorthUsd": 7781000000,
+      "rankChange": 22,
+      "worthChangeUsd": 1167115000,
+      "worthChangePct": 14.999550186351367,
+      "enteredTop500": false
+    },
+    {
+      "id": "ernest-garcia-iii",
+      "previousRank": 122,
+      "previousWorthUsd": 11241265000,
+      "rankChange": -65,
+      "worthChangeUsd": -2336498000,
+      "worthChangePct": -20.78500951627775,
+      "enteredTop500": false
+    },
+    {
+      "id": "dennis-washington",
+      "previousRank": 205,
+      "previousWorthUsd": 7805449000,
+      "rankChange": 17,
+      "worthChangeUsd": 1045395000,
+      "worthChangePct": 13.393143687185708,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeffrey-lurie",
+      "previousRank": 214,
+      "previousWorthUsd": 7647000000,
+      "rankChange": 25,
+      "worthChangeUsd": 1194000000,
+      "worthChangePct": 15.613966261278932,
+      "enteredTop500": false
+    },
+    {
+      "id": "ty-warner",
+      "previousRank": 190,
+      "previousWorthUsd": 8256980000,
+      "rankChange": 0,
+      "worthChangeUsd": 574526000,
+      "worthChangePct": 6.958064570823715,
+      "enteredTop500": false
+    },
+    {
+      "id": "neil-bluhm",
+      "previousRank": 167,
+      "previousWorthUsd": 9084979000,
+      "rankChange": -24,
+      "worthChangeUsd": -285377000,
+      "worthChangePct": -3.141196033584668,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-morris",
+      "previousRank": 204,
+      "previousWorthUsd": 7828973000,
+      "rankChange": 12,
+      "worthChangeUsd": 967039000,
+      "worthChangePct": 12.352054349912818,
+      "enteredTop500": false
+    },
+    {
+      "id": "j-joe-ricketts",
+      "previousRank": 160,
+      "previousWorthUsd": 9344817000,
+      "rankChange": -33,
+      "worthChangeUsd": -573256000,
+      "worthChangePct": -6.134480750131329,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-simonyi",
+      "previousRank": 182,
+      "previousWorthUsd": 8562400000,
+      "rankChange": -12,
+      "worthChangeUsd": 152121000,
+      "worthChangePct": 1.7766163692422687,
+      "enteredTop500": false
+    },
+    {
+      "id": "jonathan-gray",
+      "previousRank": 165,
+      "previousWorthUsd": 9170603000,
+      "rankChange": -30,
+      "worthChangeUsd": -484062000,
+      "worthChangePct": -5.27840971853214,
+      "enteredTop500": false
+    },
+    {
+      "id": "tench-coxe",
+      "previousRank": 164,
+      "previousWorthUsd": 9230622000,
+      "rankChange": -32,
+      "worthChangeUsd": -606137000,
+      "worthChangePct": -6.566588903759682,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-soros",
+      "previousRank": 218,
+      "previousWorthUsd": 7499000000,
+      "rankChange": 21,
+      "worthChangeUsd": 1125000000,
+      "worthChangePct": 15.002000266702225,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-milken",
+      "previousRank": 219,
+      "previousWorthUsd": 7472000000,
+      "rankChange": 21,
+      "worthChangeUsd": 1088500000,
+      "worthChangePct": 14.567719486081371,
+      "enteredTop500": false
+    },
+    {
+      "id": "leo-koguan",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "karen-pritzker",
+      "previousRank": 213,
+      "previousWorthUsd": 7649784000,
+      "rankChange": 13,
+      "worthChangeUsd": 811552000,
+      "worthChangePct": 10.608822419038237,
+      "enteredTop500": false
+    },
+    {
+      "id": "pauline-macmillan-keinath",
+      "previousRank": 149,
+      "previousWorthUsd": 9766165000,
+      "rankChange": -52,
+      "worthChangeUsd": -1326165000,
+      "worthChangePct": -13.579178725733183,
+      "enteredTop500": false
+    },
+    {
+      "id": "chris-larsen",
+      "previousRank": 101,
+      "previousWorthUsd": 12559518000,
+      "rankChange": -101,
+      "worthChangeUsd": -4119774000,
+      "worthChangePct": -32.80200721078627,
+      "enteredTop500": false
+    },
+    {
+      "id": "ray-lee-hunt",
+      "previousRank": 189,
+      "previousWorthUsd": 8280056000,
+      "rankChange": -14,
+      "worthChangeUsd": 65872000,
+      "worthChangePct": 0.7955501750229709,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-ziff",
+      "previousRank": 226,
+      "previousWorthUsd": 7188750000,
+      "rankChange": 22,
+      "worthChangeUsd": 1078350000,
+      "worthChangePct": 15.000521648408974,
+      "enteredTop500": false
+    },
+    {
+      "id": "dirk-ziff",
+      "previousRank": 227,
+      "previousWorthUsd": 7188750000,
+      "rankChange": 22,
+      "worthChangeUsd": 1078350000,
+      "worthChangePct": 15.000521648408974,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-ziff",
+      "previousRank": 228,
+      "previousWorthUsd": 7188750000,
+      "rankChange": 22,
+      "worthChangeUsd": 1078350000,
+      "worthChangePct": 15.000521648408974,
+      "enteredTop500": false
+    },
+    {
+      "id": "paul-tudor-jones-ii",
+      "previousRank": 195,
+      "previousWorthUsd": 8075000000,
+      "rankChange": -12,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "chase-coleman-iii",
+      "previousRank": 234,
+      "previousWorthUsd": 7080000000,
+      "rankChange": 26,
+      "worthChangeUsd": 990924000,
+      "worthChangePct": 13.996101694915255,
+      "enteredTop500": false
+    },
+    {
+      "id": "brian-armstrong",
+      "previousRank": 173,
+      "previousWorthUsd": 8934083000,
+      "rankChange": -36,
+      "worthChangeUsd": -872386000,
+      "worthChangePct": -9.764695492531242,
+      "enteredTop500": false
+    },
+    {
+      "id": "clifford-asness",
+      "previousRank": 258,
+      "previousWorthUsd": 6282000000,
+      "rankChange": 48,
+      "worthChangeUsd": 1700000000,
+      "worthChangePct": 27.061445399554284,
+      "enteredTop500": false
+    },
+    {
+      "id": "steven-spielberg",
+      "previousRank": 201,
+      "previousWorthUsd": 7921900000,
+      "rankChange": -10,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "andrew-cherng-1",
+      "previousRank": 239,
+      "previousWorthUsd": 6675780000,
+      "rankChange": 27,
+      "worthChangeUsd": 1107431000,
+      "worthChangePct": 16.588788126630895,
+      "enteredTop500": false
+    },
+    {
+      "id": "peggy-cherng",
+      "previousRank": 240,
+      "previousWorthUsd": 6675780000,
+      "rankChange": 27,
+      "worthChangeUsd": 1107431000,
+      "worthChangePct": 16.588788126630895,
+      "enteredTop500": false
+    },
+    {
+      "id": "herb-simon",
+      "previousRank": 212,
+      "previousWorthUsd": 7662729000,
+      "rankChange": -2,
+      "worthChangeUsd": 90434000,
+      "worthChangePct": 1.1801800637866744,
+      "enteredTop500": false
+    },
+    {
+      "id": "cal-mcnair",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "jim-kavanaugh",
+      "previousRank": 209,
+      "previousWorthUsd": 7716870000,
+      "rankChange": -7,
+      "worthChangeUsd": -7870000,
+      "worthChangePct": -0.10198435376000892,
+      "enteredTop500": false
+    },
+    {
+      "id": "vincent-viola",
+      "previousRank": 187,
+      "previousWorthUsd": 8326870000,
+      "rankChange": -30,
+      "worthChangeUsd": -621044000,
+      "worthChangePct": -7.458312667304762,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-kim",
+      "previousRank": 147,
+      "previousWorthUsd": 9948450000,
+      "rankChange": -71,
+      "worthChangeUsd": -2245000000,
+      "worthChangePct": -22.566329428202383,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-pritzker",
+      "previousRank": 222,
+      "previousWorthUsd": 7381354000,
+      "rankChange": 3,
+      "worthChangeUsd": 294527000,
+      "worthChangePct": 3.99014869087704,
+      "enteredTop500": false
+    },
+    {
+      "id": "mike-brown-1",
+      "previousRank": 215,
+      "previousWorthUsd": 7637500000,
+      "rankChange": -5,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "joseph-liemandt",
+      "previousRank": 216,
+      "previousWorthUsd": 7587578000,
+      "rankChange": -5,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "ali-ghodsi",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "marian-ilitch",
+      "previousRank": 217,
+      "previousWorthUsd": 7579900000,
+      "rankChange": -6,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "marc-rowan",
+      "previousRank": 185,
+      "previousWorthUsd": 8370545000,
+      "rankChange": -39,
+      "worthChangeUsd": -808925000,
+      "worthChangePct": -9.663946612795224,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-moritz",
+      "previousRank": 192,
+      "previousWorthUsd": 8213100000,
+      "rankChange": -33,
+      "worthChangeUsd": -669311000,
+      "worthChangePct": -8.149310248261923,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-cohen",
+      "previousRank": 246,
+      "previousWorthUsd": 6575953000,
+      "rankChange": 20,
+      "worthChangeUsd": 963476000,
+      "worthChangePct": 14.65150374402007,
+      "enteredTop500": false
+    },
+    {
+      "id": "h-ross-perot-jr",
+      "previousRank": 248,
+      "previousWorthUsd": 6517706000,
+      "rankChange": 21,
+      "worthChangeUsd": 912493000,
+      "worthChangePct": 14.00021725435299,
+      "enteredTop500": false
+    },
+    {
+      "id": "elizabeth-uihlein",
+      "previousRank": 210,
+      "previousWorthUsd": 7684783000,
+      "rankChange": -18,
+      "worthChangeUsd": -255288000,
+      "worthChangePct": -3.321993607366662,
+      "enteredTop500": false
+    },
+    {
+      "id": "richard-uihlein",
+      "previousRank": 211,
+      "previousWorthUsd": 7684783000,
+      "rankChange": -18,
+      "worthChangeUsd": -255288000,
+      "worthChangePct": -3.321993607366662,
+      "enteredTop500": false
+    },
+    {
+      "id": "jack-dorsey",
+      "previousRank": 180,
+      "previousWorthUsd": 8601976000,
+      "rankChange": -50,
+      "worthChangeUsd": -1188026000,
+      "worthChangePct": -13.811082476863456,
+      "enteredTop500": false
+    },
+    {
+      "id": "thai-lee",
+      "previousRank": 199,
+      "previousWorthUsd": 7960000000,
+      "rankChange": -32,
+      "worthChangeUsd": -595000000,
+      "worthChangePct": -7.474874371859297,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-walter",
+      "previousRank": 224,
+      "previousWorthUsd": 7293700000,
+      "rankChange": -8,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "lynsi-snyder",
+      "previousRank": 179,
+      "previousWorthUsd": 8665500000,
+      "rankChange": -54,
+      "worthChangeUsd": -1398000000,
+      "worthChangePct": -16.132940972823263,
+      "enteredTop500": false
+    },
+    {
+      "id": "blair-parry-okeden",
+      "previousRank": 151,
+      "previousWorthUsd": 9654897000,
+      "rankChange": -83,
+      "worthChangeUsd": -2464007000,
+      "worthChangePct": -25.520800480833717,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-kennedy",
+      "previousRank": 153,
+      "previousWorthUsd": 9606154000,
+      "rankChange": -82,
+      "worthChangeUsd": -2415264000,
+      "worthChangePct": -25.142882364784075,
+      "enteredTop500": false
+    },
+    {
+      "id": "howard-lutnick",
+      "previousRank": 221,
+      "previousWorthUsd": 7409239000,
+      "rankChange": -15,
+      "worthChangeUsd": -221006000,
+      "worthChangePct": -2.9828434472150245,
+      "enteredTop500": false
+    },
+    {
+      "id": "ronda-stryker",
+      "previousRank": 220,
+      "previousWorthUsd": 7421463000,
+      "rankChange": -17,
+      "worthChangeUsd": -246421000,
+      "worthChangePct": -3.3203830565482844,
+      "enteredTop500": false
+    },
+    {
+      "id": "paul-singer",
+      "previousRank": 241,
+      "previousWorthUsd": 6673500000,
+      "rankChange": 3,
+      "worthChangeUsd": 498601000,
+      "worthChangePct": 7.471356859219299,
+      "enteredTop500": false
+    },
+    {
+      "id": "mike-hollingshead",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "neal-blue",
+      "previousRank": 290,
+      "previousWorthUsd": 5498300000,
+      "rankChange": 50,
+      "worthChangeUsd": 1642642000,
+      "worthChangePct": 29.875452412563885,
+      "enteredTop500": false
+    },
+    {
+      "id": "rick-caruso",
+      "previousRank": 233,
+      "previousWorthUsd": 7091051000,
+      "rankChange": -8,
+      "worthChangeUsd": -9400000,
+      "worthChangePct": -0.1325614496356041,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-bass",
+      "previousRank": 256,
+      "previousWorthUsd": 6293213000,
+      "rankChange": 14,
+      "worthChangeUsd": 781227000,
+      "worthChangePct": 12.41380198000608,
+      "enteredTop500": false
+    },
+    {
+      "id": "ion-stoica",
+      "previousRank": 320,
+      "previousWorthUsd": 5031000000,
+      "rankChange": 77,
+      "worthChangeUsd": 1999000000,
+      "worthChangePct": 39.73365136155834,
+      "enteredTop500": false
+    },
+    {
+      "id": "matei-zaharia",
+      "previousRank": null,
+      "previousWorthUsd": null,
+      "rankChange": null,
+      "worthChangeUsd": null,
+      "worthChangePct": null,
+      "enteredTop500": null
+    },
+    {
+      "id": "edythe-broad",
+      "previousRank": 236,
+      "previousWorthUsd": 6997985000,
+      "rankChange": -9,
+      "worthChangeUsd": 26365000,
+      "worthChangePct": 0.37675130769785875,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-clark",
+      "previousRank": 314,
+      "previousWorthUsd": 5070323000,
+      "rankChange": 68,
+      "worthChangeUsd": 1929677000,
+      "worthChangePct": 38.058265716010595,
+      "enteredTop500": false
+    },
+    {
+      "id": "edward-roski-jr",
+      "previousRank": 223,
+      "previousWorthUsd": 7328353000,
+      "rankChange": -24,
+      "worthChangeUsd": -334449000,
+      "worthChangePct": -4.563767602352125,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-davis",
+      "previousRank": 277,
+      "previousWorthUsd": 5841714000,
+      "rankChange": 29,
+      "worthChangeUsd": 1151542000,
+      "worthChangePct": 19.712399477276705,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-brown",
+      "previousRank": 229,
+      "previousWorthUsd": 7180038000,
+      "rankChange": -20,
+      "worthChangeUsd": -201638000,
+      "worthChangePct": -2.808313827865535,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeremy-jacobs-sr",
+      "previousRank": 293,
+      "previousWorthUsd": 5448127000,
+      "rankChange": 43,
+      "worthChangeUsd": 1462800000,
+      "worthChangePct": 26.84959436518275,
+      "enteredTop500": false
+    },
+    {
+      "id": "ronald-wanek",
+      "previousRank": 237,
+      "previousWorthUsd": 6910802000,
+      "rankChange": -14,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-cuban",
+      "previousRank": 269,
+      "previousWorthUsd": 6039112000,
+      "rankChange": 17,
+      "worthChangeUsd": 806888000,
+      "worthChangePct": 13.361037185599473,
+      "enteredTop500": false
+    },
+    {
+      "id": "mitchell-morgan",
+      "previousRank": 242,
+      "previousWorthUsd": 6666607000,
+      "rankChange": -11,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jayshree-ullal",
+      "previousRank": 225,
+      "previousWorthUsd": 7262101000,
+      "rankChange": -29,
+      "worthChangeUsd": -604356000,
+      "worthChangePct": -8.322054457793964,
+      "enteredTop500": false
+    },
+    {
+      "id": "mat-ishbia",
+      "previousRank": 244,
+      "previousWorthUsd": 6646866000,
+      "rankChange": -11,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "donald-trump",
+      "previousRank": 235,
+      "previousWorthUsd": 7065708000,
+      "rankChange": -21,
+      "worthChangeUsd": -487708000,
+      "worthChangePct": -6.902464692851728,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-b-johnson",
+      "previousRank": 238,
+      "previousWorthUsd": 6831599000,
+      "rankChange": -19,
+      "worthChangeUsd": -291146000,
+      "worthChangePct": -4.261754824895314,
+      "enteredTop500": false
+    },
+    {
+      "id": "eric-lefkofsky",
+      "previousRank": 295,
+      "previousWorthUsd": 5443500000,
+      "rankChange": 37,
+      "worthChangeUsd": 1059577000,
+      "worthChangePct": 19.464994948103243,
+      "enteredTop500": false
+    },
+    {
+      "id": "jon-yarbrough",
+      "previousRank": 294,
+      "previousWorthUsd": 5444384000,
+      "rankChange": 35,
+      "worthChangeUsd": 1051041000,
+      "worthChangePct": 19.305049019319725,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-hale-jr",
+      "previousRank": 268,
+      "previousWorthUsd": 6044000000,
+      "rankChange": 8,
+      "worthChangeUsd": 429000000,
+      "worthChangePct": 7.097948378557247,
+      "enteredTop500": false
+    },
+    {
+      "id": "justin-ishbia",
+      "previousRank": 250,
+      "previousWorthUsd": 6422844000,
+      "rankChange": -11,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "margot-birmingham-perot",
+      "previousRank": 257,
+      "previousWorthUsd": 6286000000,
+      "rankChange": -5,
+      "worthChangeUsd": 114000000,
+      "worthChangePct": 1.813553929366847,
+      "enteredTop500": false
+    },
+    {
+      "id": "baiju-bhatt",
+      "previousRank": 270,
+      "previousWorthUsd": 6034570000,
+      "rankChange": 7,
+      "worthChangeUsd": 342521000,
+      "worthChangePct": 5.675980227257286,
+      "enteredTop500": false
+    },
+    {
+      "id": "tom-golisano",
+      "previousRank": 245,
+      "previousWorthUsd": 6598075000,
+      "rankChange": -19,
+      "worthChangeUsd": -326178000,
+      "worthChangePct": -4.943532772816313,
+      "enteredTop500": false
+    },
+    {
+      "id": "bill-haslam",
+      "previousRank": 267,
+      "previousWorthUsd": 6045425000,
+      "rankChange": 2,
+      "worthChangeUsd": 219794000,
+      "worthChangePct": 3.635707994061625,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-feinberg",
+      "previousRank": 323,
+      "previousWorthUsd": 4976000000,
+      "rankChange": 57,
+      "worthChangeUsd": 1282000000,
+      "worthChangePct": 25.763665594855308,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-catsimatidis",
+      "previousRank": 332,
+      "previousWorthUsd": 4819000000,
+      "rankChange": 65,
+      "worthChangeUsd": 1420000000,
+      "worthChangePct": 29.46669433492426,
+      "enteredTop500": false
+    },
+    {
+      "id": "doug-meijer",
+      "previousRank": 230,
+      "previousWorthUsd": 7132000000,
+      "rankChange": -38,
+      "worthChangeUsd": -897000000,
+      "worthChangePct": -12.57711721817162,
+      "enteredTop500": false
+    },
+    {
+      "id": "hank-meijer",
+      "previousRank": 231,
+      "previousWorthUsd": 7132000000,
+      "rankChange": -38,
+      "worthChangeUsd": -897000000,
+      "worthChangePct": -12.57711721817162,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-meijer",
+      "previousRank": 232,
+      "previousWorthUsd": 7132000000,
+      "rankChange": -38,
+      "worthChangeUsd": -897000000,
+      "worthChangePct": -12.57711721817162,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-henry",
+      "previousRank": 262,
+      "previousWorthUsd": 6195347000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jean-gigi-pritzker",
+      "previousRank": 281,
+      "previousWorthUsd": 5714176000,
+      "rankChange": 9,
+      "worthChangeUsd": 479919000,
+      "worthChangePct": 8.398743755880114,
+      "enteredTop500": false
+    },
+    {
+      "id": "trevor-rees-jones",
+      "previousRank": 273,
+      "previousWorthUsd": 5922985000,
+      "rankChange": 0,
+      "worthChangeUsd": 219217000,
+      "worthChangePct": 3.7011236732829813,
+      "enteredTop500": false
+    },
+    {
+      "id": "eren-ozmen",
+      "previousRank": 243,
+      "previousWorthUsd": 6657423000,
+      "rankChange": -31,
+      "worthChangeUsd": -564152000,
+      "worthChangePct": -8.47402966583316,
+      "enteredTop500": false
+    },
+    {
+      "id": "rakesh-gangwal",
+      "previousRank": 283,
+      "previousWorthUsd": 5616287000,
+      "rankChange": 8,
+      "worthChangeUsd": 428168000,
+      "worthChangePct": 7.623684473389626,
+      "enteredTop500": false
+    },
+    {
+      "id": "peter-cancro",
+      "previousRank": 330,
+      "previousWorthUsd": 4879466000,
+      "rankChange": 54,
+      "worthChangeUsd": 1150150000,
+      "worthChangePct": 23.571226851462846,
+      "enteredTop500": false
+    },
+    {
+      "id": "archie-aldis-emmerson",
+      "previousRank": 272,
+      "previousWorthUsd": 5955710000,
+      "rankChange": -5,
+      "worthChangeUsd": 69735000,
+      "worthChangePct": 1.1708931428830485,
+      "enteredTop500": false
+    },
+    {
+      "id": "bert-beveridge",
+      "previousRank": 334,
+      "previousWorthUsd": 4779862000,
+      "rankChange": 56,
+      "worthChangeUsd": 1239221000,
+      "worthChangePct": 25.92587401058859,
+      "enteredTop500": false
+    },
+    {
+      "id": "joseph-grendys",
+      "previousRank": 344,
+      "previousWorthUsd": 4590102000,
+      "rankChange": 65,
+      "worthChangeUsd": 1390489000,
+      "worthChangePct": 30.29320481331352,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-faith",
+      "previousRank": 271,
+      "previousWorthUsd": 5966279000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeff-skoll",
+      "previousRank": 275,
+      "previousWorthUsd": 5902283000,
+      "rankChange": -6,
+      "worthChangeUsd": 44839000,
+      "worthChangePct": 0.7596890897979647,
+      "enteredTop500": false
+    },
+    {
+      "id": "palmer-luckey",
+      "previousRank": 324,
+      "previousWorthUsd": 4973087000,
+      "rankChange": 42,
+      "worthChangeUsd": 967716000,
+      "worthChangePct": 19.45906033817627,
+      "enteredTop500": false
+    },
+    {
+      "id": "barry-diller",
+      "previousRank": 266,
+      "previousWorthUsd": 6049868000,
+      "rankChange": -17,
+      "worthChangeUsd": -123017000,
+      "worthChangePct": -2.0333832076997385,
+      "enteredTop500": false
+    },
+    {
+      "id": "isaac-perlmutter",
+      "previousRank": 310,
+      "previousWorthUsd": 5182950000,
+      "rankChange": 26,
+      "worthChangeUsd": 698450000,
+      "worthChangePct": 13.475916225315698,
+      "enteredTop500": false
+    },
+    {
+      "id": "romesh-t-wadhwani",
+      "previousRank": 289,
+      "previousWorthUsd": 5521000000,
+      "rankChange": 4,
+      "worthChangeUsd": 346000000,
+      "worthChangePct": 6.266980619452997,
+      "enteredTop500": false
+    },
+    {
+      "id": "fatih-ozmen",
+      "previousRank": 254,
+      "previousWorthUsd": 6397367000,
+      "rankChange": -32,
+      "worthChangeUsd": -542029000,
+      "worthChangePct": -8.472688842143963,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-rich-jr",
+      "previousRank": 247,
+      "previousWorthUsd": 6538680000,
+      "rankChange": -40,
+      "worthChangeUsd": -700680000,
+      "worthChangePct": -10.715924314999357,
+      "enteredTop500": false
+    },
+    {
+      "id": "russell-savage",
+      "previousRank": 276,
+      "previousWorthUsd": 5866035000,
+      "rankChange": -12,
+      "worthChangeUsd": -35441000,
+      "worthChangePct": -0.6041730061276485,
+      "enteredTop500": false
+    },
+    {
+      "id": "penny-pritzker",
+      "previousRank": 340,
+      "previousWorthUsd": 4651035000,
+      "rankChange": 51,
+      "worthChangeUsd": 1178506000,
+      "worthChangePct": 25.338575177352997,
+      "enteredTop500": false
+    },
+    {
+      "id": "steven-hao",
+      "previousRank": 890,
+      "previousWorthUsd": 1300000000,
+      "rankChange": 600,
+      "worthChangeUsd": 4500000000,
+      "worthChangePct": 346.1538461538462,
+      "enteredTop500": true
+    },
+    {
+      "id": "peter-kellogg",
+      "previousRank": 279,
+      "previousWorthUsd": 5748746000,
+      "rankChange": -12,
+      "worthChangeUsd": 35938000,
+      "worthChangePct": 0.6251450316295067,
+      "enteredTop500": false
+    },
+    {
+      "id": "reinhold-schmieding",
+      "previousRank": 297,
+      "previousWorthUsd": 5398844000,
+      "rankChange": 5,
+      "worthChangeUsd": 379156000,
+      "worthChangePct": 7.02291083054076,
+      "enteredTop500": false
+    },
+    {
+      "id": "gordon-getty",
+      "previousRank": 291,
+      "previousWorthUsd": 5487680000,
+      "rankChange": -2,
+      "worthChangeUsd": 267234000,
+      "worthChangePct": 4.869708146247595,
+      "enteredTop500": false
+    },
+    {
+      "id": "johnelle-hunt",
+      "previousRank": 249,
+      "previousWorthUsd": 6461003000,
+      "rankChange": -45,
+      "worthChangeUsd": -722551000,
+      "worthChangePct": -11.18326365116995,
+      "enteredTop500": false
+    },
+    {
+      "id": "vlad-tenev",
+      "previousRank": 260,
+      "previousWorthUsd": 6243128000,
+      "rankChange": -35,
+      "worthChangeUsd": -557042000,
+      "worthChangePct": -8.922482447901116,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-mandel-jr",
+      "previousRank": 325,
+      "previousWorthUsd": 4963000000,
+      "rankChange": 29,
+      "worthChangeUsd": 721000000,
+      "worthChangePct": 14.527503526093088,
+      "enteredTop500": false
+    },
+    {
+      "id": "gary-rollins",
+      "previousRank": 284,
+      "previousWorthUsd": 5603020000,
+      "rankChange": -13,
+      "worthChangeUsd": 80554000,
+      "worthChangePct": 1.43768896059625,
+      "enteredTop500": false
+    },
+    {
+      "id": "ben-lamm",
+      "previousRank": 416,
+      "previousWorthUsd": 3853970000,
+      "rankChange": 118,
+      "worthChangeUsd": 1803121000,
+      "worthChangePct": 46.78606735392336,
+      "enteredTop500": false
+    },
+    {
+      "id": "eric-yuan",
+      "previousRank": 292,
+      "previousWorthUsd": 5465518000,
+      "rankChange": -7,
+      "worthChangeUsd": 158504000,
+      "worthChangePct": 2.900072783586112,
+      "enteredTop500": false
+    },
+    {
+      "id": "annette-lerner",
+      "previousRank": 263,
+      "previousWorthUsd": 6164310000,
+      "rankChange": -37,
+      "worthChangeUsd": -541124000,
+      "worthChangePct": -8.778338532617601,
+      "enteredTop500": false
+    },
+    {
+      "id": "steven-klinsky",
+      "previousRank": 329,
+      "previousWorthUsd": 4884000000,
+      "rankChange": 28,
+      "worthChangeUsd": 738000000,
+      "worthChangePct": 15.11056511056511,
+      "enteredTop500": false
+    },
+    {
+      "id": "dan-kurzius",
+      "previousRank": 282,
+      "previousWorthUsd": 5659000000,
+      "rankChange": -20,
+      "worthChangeUsd": -41358000,
+      "worthChangePct": -0.7308358367202685,
+      "enteredTop500": false
+    },
+    {
+      "id": "rupert-johnson-jr",
+      "previousRank": 274,
+      "previousWorthUsd": 5918995000,
+      "rankChange": -29,
+      "worthChangeUsd": -318443000,
+      "worthChangePct": -5.380018060498446,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-low",
+      "previousRank": 322,
+      "previousWorthUsd": 5000000000,
+      "rankChange": 18,
+      "worthChangeUsd": 600000000,
+      "worthChangePct": 12,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-sall",
+      "previousRank": 203,
+      "previousWorthUsd": 7890740000,
+      "rankChange": -102,
+      "worthChangeUsd": -2303014000,
+      "worthChangePct": -29.186286710752096,
+      "enteredTop500": false
+    },
+    {
+      "id": "paul-foster",
+      "previousRank": 318,
+      "previousWorthUsd": 5036351000,
+      "rankChange": 12,
+      "worthChangeUsd": 545318000,
+      "worthChangePct": 10.827640885236157,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-tull",
+      "previousRank": 303,
+      "previousWorthUsd": 5314500000,
+      "rankChange": -4,
+      "worthChangeUsd": 264000000,
+      "worthChangePct": 4.967541631385831,
+      "enteredTop500": false
+    },
+    {
+      "id": "pablo-legorreta",
+      "previousRank": 307,
+      "previousWorthUsd": 5234977000,
+      "rankChange": -1,
+      "worthChangeUsd": 340490000,
+      "worthChangePct": 6.504135548255513,
+      "enteredTop500": false
+    },
+    {
+      "id": "joe-mansueto",
+      "previousRank": 296,
+      "previousWorthUsd": 5442736000,
+      "rankChange": -13,
+      "worthChangeUsd": 82538000,
+      "worthChangePct": 1.5164799468502606,
+      "enteredTop500": false
+    },
+    {
+      "id": "helen-johnson-leipold",
+      "previousRank": 343,
+      "previousWorthUsd": 4614187000,
+      "rankChange": 33,
+      "worthChangeUsd": 894873000,
+      "worthChangePct": 19.39394740611943,
+      "enteredTop500": false
+    },
+    {
+      "id": "mitchell-rales",
+      "previousRank": 356,
+      "previousWorthUsd": 4489525000,
+      "rankChange": 45,
+      "worthChangeUsd": 1009500000,
+      "worthChangePct": 22.485674987888473,
+      "enteredTop500": false
+    },
+    {
+      "id": "luke-nosek",
+      "previousRank": 434,
+      "previousWorthUsd": 3590431000,
+      "rankChange": 122,
+      "worthChangeUsd": 1880081000,
+      "worthChangePct": 52.36365773357014,
+      "enteredTop500": false
+    },
+    {
+      "id": "peter-gassner",
+      "previousRank": 331,
+      "previousWorthUsd": 4875304000,
+      "rankChange": 18,
+      "worthChangeUsd": 581940000,
+      "worthChangePct": 11.936486422180034,
+      "enteredTop500": false
+    },
+    {
+      "id": "ronald-lauder",
+      "previousRank": 327,
+      "previousWorthUsd": 4919399000,
+      "rankChange": 13,
+      "worthChangeUsd": 529691000,
+      "worthChangePct": 10.767392520915664,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-lucas",
+      "previousRank": 301,
+      "previousWorthUsd": 5367795000,
+      "rankChange": -14,
+      "worthChangeUsd": 66508000,
+      "worthChangePct": 1.2390190012845126,
+      "enteredTop500": false
+    },
+    {
+      "id": "winifred-j-marquart",
+      "previousRank": 352,
+      "previousWorthUsd": 4514102000,
+      "rankChange": 36,
+      "worthChangeUsd": 896098000,
+      "worthChangePct": 19.851080015471513,
+      "enteredTop500": false
+    },
+    {
+      "id": "h-fisk-johnson",
+      "previousRank": 354,
+      "previousWorthUsd": 4501440000,
+      "rankChange": 37,
+      "worthChangeUsd": 892585000,
+      "worthChangePct": 19.828876981588113,
+      "enteredTop500": false
+    },
+    {
+      "id": "lynda-resnick",
+      "previousRank": 298,
+      "previousWorthUsd": 5393500000,
+      "rankChange": -20,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "stewart-resnick",
+      "previousRank": 299,
+      "previousWorthUsd": 5393500000,
+      "rankChange": -20,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "s-curtis-johnson",
+      "previousRank": 355,
+      "previousWorthUsd": 4492407000,
+      "rankChange": 35,
+      "worthChangeUsd": 895643000,
+      "worthChangePct": 19.936817835071487,
+      "enteredTop500": false
+    },
+    {
+      "id": "ratmir-timashev",
+      "previousRank": 300,
+      "previousWorthUsd": 5378235000,
+      "rankChange": -21,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "andy-mills",
+      "previousRank": 311,
+      "previousWorthUsd": 5131989000,
+      "rankChange": -11,
+      "worthChangeUsd": 217141000,
+      "worthChangePct": 4.2311275413879486,
+      "enteredTop500": false
+    },
+    {
+      "id": "gwendolyn-sontheim-meyer",
+      "previousRank": 264,
+      "previousWorthUsd": 6154255000,
+      "rankChange": -59,
+      "worthChangeUsd": -805255000,
+      "worthChangePct": -13.084524446907059,
+      "enteredTop500": false
+    },
+    {
+      "id": "dan-snyder",
+      "previousRank": 335,
+      "previousWorthUsd": 4726305000,
+      "rankChange": 11,
+      "worthChangeUsd": 614995000,
+      "worthChangePct": 13.012173357411339,
+      "enteredTop500": false
+    },
+    {
+      "id": "marc-stad",
+      "previousRank": 304,
+      "previousWorthUsd": 5307391000,
+      "rankChange": -21,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "scott-cook",
+      "previousRank": 302,
+      "previousWorthUsd": 5316579000,
+      "rankChange": -24,
+      "worthChangeUsd": -24198000,
+      "worthChangePct": -0.4551423010924882,
+      "enteredTop500": false
+    },
+    {
+      "id": "dagmar-dolby",
+      "previousRank": 309,
+      "previousWorthUsd": 5200263000,
+      "rankChange": -18,
+      "worthChangeUsd": 44617000,
+      "worthChangePct": 0.8579758369913214,
+      "enteredTop500": false
+    },
+    {
+      "id": "gail-miller",
+      "previousRank": 308,
+      "previousWorthUsd": 5219300000,
+      "rankChange": -20,
+      "worthChangeUsd": 19000000,
+      "worthChangePct": 0.3640334910811795,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-hagen",
+      "previousRank": 319,
+      "previousWorthUsd": 5033299000,
+      "rankChange": -10,
+      "worthChangeUsd": 195977000,
+      "worthChangePct": 3.8936093405140446,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-filo",
+      "previousRank": 346,
+      "previousWorthUsd": 4559428000,
+      "rankChange": 16,
+      "worthChangeUsd": 652072000,
+      "worthChangePct": 14.301618536360264,
+      "enteredTop500": false
+    },
+    {
+      "id": "jon-stryker",
+      "previousRank": 312,
+      "previousWorthUsd": 5076476000,
+      "rankChange": -19,
+      "worthChangeUsd": 115420000,
+      "worthChangePct": 2.2736244591720713,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-secunda",
+      "previousRank": 280,
+      "previousWorthUsd": 5721000000,
+      "rankChange": -52,
+      "worthChangeUsd": -539000000,
+      "worthChangePct": -9.421429819961546,
+      "enteredTop500": false
+    },
+    {
+      "id": "richard-schulze",
+      "previousRank": 357,
+      "previousWorthUsd": 4483593000,
+      "rankChange": 24,
+      "worthChangeUsd": 697285000,
+      "worthChangePct": 15.551924539091752,
+      "enteredTop500": false
+    },
+    {
+      "id": "steven-udvar-hazy",
+      "previousRank": 316,
+      "previousWorthUsd": 5055971000,
+      "rankChange": -18,
+      "worthChangeUsd": 57269000,
+      "worthChangePct": 1.1327003260105724,
+      "enteredTop500": false
+    },
+    {
+      "id": "marc-lore",
+      "previousRank": 404,
+      "previousWorthUsd": 3979390000,
+      "rankChange": 69,
+      "worthChangeUsd": 1132610000,
+      "worthChangePct": 28.461899939437956,
+      "enteredTop500": false
+    },
+    {
+      "id": "phil-ruffin",
+      "previousRank": 372,
+      "previousWorthUsd": 4290725000,
+      "rankChange": 36,
+      "worthChangeUsd": 800285000,
+      "worthChangePct": 18.65150994295836,
+      "enteredTop500": false
+    },
+    {
+      "id": "larry-gies",
+      "previousRank": 305,
+      "previousWorthUsd": 5303284000,
+      "rankChange": -32,
+      "worthChangeUsd": -255920000,
+      "worthChangePct": -4.825689139031589,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-macneil",
+      "previousRank": 384,
+      "previousWorthUsd": 4183529000,
+      "rankChange": 46,
+      "worthChangeUsd": 861882000,
+      "worthChangePct": 20.601793366318244,
+      "enteredTop500": false
+    },
+    {
+      "id": "todd-christopher",
+      "previousRank": 390,
+      "previousWorthUsd": 4100000000,
+      "rankChange": 51,
+      "worthChangeUsd": 927000000,
+      "worthChangePct": 22.609756097560975,
+      "enteredTop500": false
+    },
+    {
+      "id": "scott-kapnick",
+      "previousRank": 315,
+      "previousWorthUsd": 5057208000,
+      "rankChange": -25,
+      "worthChangeUsd": -32750000,
+      "worthChangePct": -0.6475905282124049,
+      "enteredTop500": false
+    },
+    {
+      "id": "ben-chestnut",
+      "previousRank": 317,
+      "previousWorthUsd": 5039124000,
+      "rankChange": -24,
+      "worthChangeUsd": -33507000,
+      "worthChangePct": -0.6649370009549279,
+      "enteredTop500": false
+    },
+    {
+      "id": "sanjit-biswas",
+      "previousRank": 338,
+      "previousWorthUsd": 4665305000,
+      "rankChange": -4,
+      "worthChangeUsd": 328559000,
+      "worthChangePct": 7.042604931510373,
+      "enteredTop500": false
+    },
+    {
+      "id": "byron-trott",
+      "previousRank": 368,
+      "previousWorthUsd": 4337000000,
+      "rankChange": 25,
+      "worthChangeUsd": 650750000,
+      "worthChangePct": 15.004611482591654,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-a-sobrato",
+      "previousRank": 261,
+      "previousWorthUsd": 6217463000,
+      "rankChange": -83,
+      "worthChangeUsd": -1233487000,
+      "worthChangePct": -19.83907262495973,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-daniello",
+      "previousRank": 306,
+      "previousWorthUsd": 5287387000,
+      "rankChange": -39,
+      "worthChangeUsd": -318539000,
+      "worthChangePct": -6.024507001284377,
+      "enteredTop500": false
+    },
+    {
+      "id": "anthony-pritzker",
+      "previousRank": 326,
+      "previousWorthUsd": 4962895000,
+      "rankChange": -20,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "arturo-moreno",
+      "previousRank": 321,
+      "previousWorthUsd": 5029350000,
+      "rankChange": -26,
+      "worthChangeUsd": -98919000,
+      "worthChangePct": -1.9668346804259,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-middleton",
+      "previousRank": 328,
+      "previousWorthUsd": 4891370000,
+      "rankChange": -20,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "robert-johnson-3",
+      "previousRank": 374,
+      "previousWorthUsd": 4278273000,
+      "rankChange": 25,
+      "worthChangeUsd": 611095000,
+      "worthChangePct": 14.283684094025789,
+      "enteredTop500": false
+    },
+    {
+      "id": "don-vultaggio",
+      "previousRank": 255,
+      "previousWorthUsd": 6389131000,
+      "rankChange": -95,
+      "worthChangeUsd": -1522258000,
+      "worthChangePct": -23.82574406441189,
+      "enteredTop500": false
+    },
+    {
+      "id": "august-troendle",
+      "previousRank": 371,
+      "previousWorthUsd": 4310501000,
+      "rankChange": 20,
+      "worthChangeUsd": 539781000,
+      "worthChangePct": 12.522465486030509,
+      "enteredTop500": false
+    },
+    {
+      "id": "weili-dai",
+      "previousRank": 345,
+      "previousWorthUsd": 4578685000,
+      "rankChange": -7,
+      "worthChangeUsd": 271262000,
+      "worthChangePct": 5.924452107974233,
+      "enteredTop500": false
+    },
+    {
+      "id": "catherine-commisso-family",
+      "previousRank": 313,
+      "previousWorthUsd": 5071194000,
+      "rankChange": -40,
+      "worthChangeUsd": -237333000,
+      "worthChangePct": -4.680022101303953,
+      "enteredTop500": false
+    },
+    {
+      "id": "drayton-mclane-jr",
+      "previousRank": 373,
+      "previousWorthUsd": 4287992000,
+      "rankChange": 19,
+      "worthChangeUsd": 545817000,
+      "worthChangePct": 12.728964979412275,
+      "enteredTop500": false
+    },
+    {
+      "id": "rodger-riney",
+      "previousRank": 382,
+      "previousWorthUsd": 4196449000,
+      "rankChange": 27,
+      "worthChangeUsd": 623431000,
+      "worthChangePct": 14.85615576407577,
+      "enteredTop500": false
+    },
+    {
+      "id": "austen-cargill-ii",
+      "previousRank": 285,
+      "previousWorthUsd": 5568037000,
+      "rankChange": -71,
+      "worthChangeUsd": -762037000,
+      "worthChangePct": -13.685918394579632,
+      "enteredTop500": false
+    },
+    {
+      "id": "james-cargill-ii",
+      "previousRank": 286,
+      "previousWorthUsd": 5568037000,
+      "rankChange": -71,
+      "worthChangeUsd": -762037000,
+      "worthChangePct": -13.685918394579632,
+      "enteredTop500": false
+    },
+    {
+      "id": "marianne-liebmann",
+      "previousRank": 287,
+      "previousWorthUsd": 5568037000,
+      "rankChange": -71,
+      "worthChangeUsd": -762037000,
+      "worthChangePct": -13.685918394579632,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-bicket",
+      "previousRank": 353,
+      "previousWorthUsd": 4512912000,
+      "rankChange": -6,
+      "worthChangeUsd": 288213000,
+      "worthChangePct": 6.386408598262053,
+      "enteredTop500": false
+    },
+    {
+      "id": "donald-sterling",
+      "previousRank": 365,
+      "previousWorthUsd": 4367517000,
+      "rankChange": 5,
+      "worthChangeUsd": 433195000,
+      "worthChangePct": 9.91856471308526,
+      "enteredTop500": false
+    },
+    {
+      "id": "james-chambers",
+      "previousRank": 251,
+      "previousWorthUsd": 6418541000,
+      "rankChange": -110,
+      "worthChangeUsd": -1621456000,
+      "worthChangePct": -25.26206500823162,
+      "enteredTop500": false
+    },
+    {
+      "id": "katharine-rayner",
+      "previousRank": 253,
+      "previousWorthUsd": 6412716000,
+      "rankChange": -109,
+      "worthChangeUsd": -1615631000,
+      "worthChangePct": -25.194176695178765,
+      "enteredTop500": false
+    },
+    {
+      "id": "margaretta-taylor",
+      "previousRank": 252,
+      "previousWorthUsd": 6417787000,
+      "rankChange": -111,
+      "worthChangeUsd": -1620702000,
+      "worthChangePct": -25.253284348639184,
+      "enteredTop500": false
+    },
+    {
+      "id": "c-dean-metropoulos",
+      "previousRank": 370,
+      "previousWorthUsd": 4320835000,
+      "rankChange": 6,
+      "worthChangeUsd": 465346000,
+      "worthChangePct": 10.769816482230866,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-och",
+      "previousRank": 386,
+      "previousWorthUsd": 4170000000,
+      "rankChange": 21,
+      "worthChangeUsd": 604032000,
+      "worthChangePct": 14.485179856115108,
+      "enteredTop500": false
+    },
+    {
+      "id": "sid-bass",
+      "previousRank": 363,
+      "previousWorthUsd": 4405900000,
+      "rankChange": -3,
+      "worthChangeUsd": 338653000,
+      "worthChangePct": 7.686352391111918,
+      "enteredTop500": false
+    },
+    {
+      "id": "eleanor-butt-crook",
+      "previousRank": 348,
+      "previousWorthUsd": 4558600000,
+      "rankChange": -19,
+      "worthChangeUsd": 175000000,
+      "worthChangePct": 3.8388979072522265,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-shoen",
+      "previousRank": 361,
+      "previousWorthUsd": 4430132000,
+      "rankChange": -7,
+      "worthChangeUsd": 296976000,
+      "worthChangePct": 6.70354743380107,
+      "enteredTop500": false
+    },
+    {
+      "id": "stewart-rahr",
+      "previousRank": 336,
+      "previousWorthUsd": 4705288000,
+      "rankChange": -33,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "herbert-wertheim",
+      "previousRank": 333,
+      "previousWorthUsd": 4791870000,
+      "rankChange": -37,
+      "worthChangeUsd": -111942000,
+      "worthChangePct": -2.33608173844449,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-jordan",
+      "previousRank": 375,
+      "previousWorthUsd": 4270500000,
+      "rankChange": 4,
+      "worthChangeUsd": 392500000,
+      "worthChangePct": 9.190961245755766,
+      "enteredTop500": false
+    },
+    {
+      "id": "edward-stack",
+      "previousRank": 362,
+      "previousWorthUsd": 4413705000,
+      "rankChange": -10,
+      "worthChangeUsd": 227718000,
+      "worthChangePct": 5.159338922741778,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-saylor",
+      "previousRank": 369,
+      "previousWorthUsd": 4321461000,
+      "rankChange": -4,
+      "worthChangeUsd": 298995000,
+      "worthChangePct": 6.918840642088404,
+      "enteredTop500": false
+    },
+    {
+      "id": "hamilton-james",
+      "previousRank": 341,
+      "previousWorthUsd": 4646262000,
+      "rankChange": -33,
+      "worthChangeUsd": -51896000,
+      "worthChangePct": -1.1169408871045154,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-siebel",
+      "previousRank": 403,
+      "previousWorthUsd": 3983954000,
+      "rankChange": 28,
+      "worthChangeUsd": 603581000,
+      "worthChangePct": 15.150300430175651,
+      "enteredTop500": false
+    },
+    {
+      "id": "wendy-abrams",
+      "previousRank": 364,
+      "previousWorthUsd": 4374909000,
+      "rankChange": -12,
+      "worthChangeUsd": 208471000,
+      "worthChangePct": 4.765150543702737,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-coulter",
+      "previousRank": 342,
+      "previousWorthUsd": 4627791000,
+      "rankChange": -35,
+      "worthChangeUsd": -49857000,
+      "worthChangePct": -1.0773390587431455,
+      "enteredTop500": false
+    },
+    {
+      "id": "keith-dunleavy",
+      "previousRank": 460,
+      "previousWorthUsd": 3389000000,
+      "rankChange": 82,
+      "worthChangeUsd": 1184950000,
+      "worthChangePct": 34.9645913248746,
+      "enteredTop500": false
+    },
+    {
+      "id": "bob-parsons",
+      "previousRank": 347,
+      "previousWorthUsd": 4559000000,
+      "rankChange": -32,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "edward-debartolo-jr",
+      "previousRank": 398,
+      "previousWorthUsd": 4041051000,
+      "rankChange": 18,
+      "worthChangeUsd": 507822000,
+      "worthChangePct": 12.56658230742448,
+      "enteredTop500": false
+    },
+    {
+      "id": "jose-e-feliciano",
+      "previousRank": 411,
+      "previousWorthUsd": 3876800000,
+      "rankChange": 30,
+      "worthChangeUsd": 661600000,
+      "worthChangePct": 17.065621130829552,
+      "enteredTop500": false
+    },
+    {
+      "id": "behdad-eghbali",
+      "previousRank": 415,
+      "previousWorthUsd": 3856300000,
+      "rankChange": 33,
+      "worthChangeUsd": 679500000,
+      "worthChangePct": 17.620517075953636,
+      "enteredTop500": false
+    },
+    {
+      "id": "theodore-leonsis",
+      "previousRank": 349,
+      "previousWorthUsd": 4530135000,
+      "rankChange": -34,
+      "worthChangeUsd": -1015000,
+      "worthChangePct": -0.02240551330147998,
+      "enteredTop500": false
+    },
+    {
+      "id": "george-bishop",
+      "previousRank": 337,
+      "previousWorthUsd": 4701099000,
+      "rankChange": -47,
+      "worthChangeUsd": -172424000,
+      "worthChangePct": -3.6677381182570286,
+      "enteredTop500": false
+    },
+    {
+      "id": "carl-thoma",
+      "previousRank": 351,
+      "previousWorthUsd": 4524522000,
+      "rankChange": -34,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "lynn-schusterman",
+      "previousRank": 360,
+      "previousWorthUsd": 4448821000,
+      "rankChange": -26,
+      "worthChangeUsd": 71179000,
+      "worthChangePct": 1.5999519872793264,
+      "enteredTop500": false
+    },
+    {
+      "id": "alexis-le-quoc",
+      "previousRank": 387,
+      "previousWorthUsd": 4139010000,
+      "rankChange": 0,
+      "worthChangeUsd": 379550000,
+      "worthChangePct": 9.170067238300946,
+      "enteredTop500": false
+    },
+    {
+      "id": "ray-davis",
+      "previousRank": 391,
+      "previousWorthUsd": 4092405000,
+      "rankChange": 3,
+      "worthChangeUsd": 397255000,
+      "worthChangePct": 9.707128204564308,
+      "enteredTop500": false
+    },
+    {
+      "id": "meg-whitman",
+      "previousRank": 379,
+      "previousWorthUsd": 4214479000,
+      "rankChange": -10,
+      "worthChangeUsd": 266722000,
+      "worthChangePct": 6.328706347807167,
+      "enteredTop500": false
+    },
+    {
+      "id": "james-duff",
+      "previousRank": 358,
+      "previousWorthUsd": 4472200000,
+      "rankChange": -32,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-sundheim",
+      "previousRank": 418,
+      "previousWorthUsd": 3831000000,
+      "rankChange": 27,
+      "worthChangeUsd": 624602000,
+      "worthChangePct": 16.30388932393631,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-duff",
+      "previousRank": 359,
+      "previousWorthUsd": 4454600000,
+      "rankChange": -33,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "amos-hostetter-jr",
+      "previousRank": 410,
+      "previousWorthUsd": 3884112000,
+      "rankChange": 17,
+      "worthChangeUsd": 560950000,
+      "worthChangePct": 14.442168505954514,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-loeb",
+      "previousRank": 413,
+      "previousWorthUsd": 3866583000,
+      "rankChange": 19,
+      "worthChangeUsd": 534149000,
+      "worthChangePct": 13.814497192999605,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-davis-1",
+      "previousRank": 400,
+      "previousWorthUsd": 4015225000,
+      "rankChange": 5,
+      "worthChangeUsd": 384815000,
+      "worthChangePct": 9.583896294728191,
+      "enteredTop500": false
+    },
+    {
+      "id": "stewart-horejsi",
+      "previousRank": 385,
+      "previousWorthUsd": 4176907000,
+      "rankChange": -11,
+      "worthChangeUsd": 189934000,
+      "worthChangePct": 4.5472403383652065,
+      "enteredTop500": false
+    },
+    {
+      "id": "steve-wynn",
+      "previousRank": 366,
+      "previousWorthUsd": 4349314000,
+      "rankChange": -31,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "phillip-t-terry-ragon",
+      "previousRank": 388,
+      "previousWorthUsd": 4137534000,
+      "rankChange": -10,
+      "worthChangeUsd": 211343000,
+      "worthChangePct": 5.107945940746348,
+      "enteredTop500": false
+    },
+    {
+      "id": "scott-shleifer",
+      "previousRank": 421,
+      "previousWorthUsd": 3780000000,
+      "rankChange": 22,
+      "worthChangeUsd": 565309000,
+      "worthChangePct": 14.95526455026455,
+      "enteredTop500": false
+    },
+    {
+      "id": "ira-rennert",
+      "previousRank": 420,
+      "previousWorthUsd": 3813800000,
+      "rankChange": 20,
+      "worthChangeUsd": 531200000,
+      "worthChangePct": 13.928365409827467,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-rubenstein",
+      "previousRank": 383,
+      "previousWorthUsd": 4183677000,
+      "rankChange": -18,
+      "worthChangeUsd": 111980000,
+      "worthChangePct": 2.6765928631679743,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-blitzer",
+      "previousRank": 397,
+      "previousWorthUsd": 4042000000,
+      "rankChange": -5,
+      "worthChangeUsd": 250000000,
+      "worthChangePct": 6.185056902523503,
+      "enteredTop500": false
+    },
+    {
+      "id": "steve-lavin",
+      "previousRank": 259,
+      "previousWorthUsd": 6263000000,
+      "rankChange": -144,
+      "worthChangeUsd": -1983000000,
+      "worthChangePct": -31.662142743094364,
+      "enteredTop500": false
+    },
+    {
+      "id": "reed-hastings",
+      "previousRank": 339,
+      "previousWorthUsd": 4653434000,
+      "rankChange": -65,
+      "worthChangeUsd": -403161000,
+      "worthChangePct": -8.6637309135576,
+      "enteredTop500": false
+    },
+    {
+      "id": "tim-sweeney",
+      "previousRank": 377,
+      "previousWorthUsd": 4236000000,
+      "rankChange": -28,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "todd-wanek",
+      "previousRank": 378,
+      "previousWorthUsd": 4232800000,
+      "rankChange": -28,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "norman-braman",
+      "previousRank": 394,
+      "previousWorthUsd": 4070443000,
+      "rankChange": -13,
+      "worthChangeUsd": 131809000,
+      "worthChangePct": 3.2381979062229838,
+      "enteredTop500": false
+    },
+    {
+      "id": "jb-pritzker",
+      "previousRank": 381,
+      "previousWorthUsd": 4199368000,
+      "rankChange": -27,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "nancy-mills-barnett",
+      "previousRank": 399,
+      "previousWorthUsd": 4022862000,
+      "rankChange": -10,
+      "worthChangeUsd": 172019000,
+      "worthChangePct": 4.276035320127809,
+      "enteredTop500": false
+    },
+    {
+      "id": "pat-stryker",
+      "previousRank": 426,
+      "previousWorthUsd": 3685817000,
+      "rankChange": 16,
+      "worthChangeUsd": 441921000,
+      "worthChangePct": 11.989770517635574,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-dean-halbert",
+      "previousRank": 466,
+      "previousWorthUsd": 3314776000,
+      "rankChange": 55,
+      "worthChangeUsd": 809512000,
+      "worthChangePct": 24.421318363593798,
+      "enteredTop500": false
+    },
+    {
+      "id": "jennifer-gilbert",
+      "previousRank": 380,
+      "previousWorthUsd": 4211483000,
+      "rankChange": -32,
+      "worthChangeUsd": -196482000,
+      "worthChangePct": -4.66538746565046,
+      "enteredTop500": false
+    },
+    {
+      "id": "kavitark-ram-shriram",
+      "previousRank": 392,
+      "previousWorthUsd": 4088706000,
+      "rankChange": -21,
+      "worthChangeUsd": -88291000,
+      "worthChangePct": -2.159387346510118,
+      "enteredTop500": false
+    },
+    {
+      "id": "jack-link",
+      "previousRank": 401,
+      "previousWorthUsd": 4000000000,
+      "rankChange": -13,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "neal-aronson",
+      "previousRank": 402,
+      "previousWorthUsd": 3996200000,
+      "rankChange": -13,
+      "worthChangeUsd": -5100000,
+      "worthChangePct": -0.12762124017816925,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-novogratz",
+      "previousRank": 278,
+      "previousWorthUsd": 5807029000,
+      "rankChange": -138,
+      "worthChangeUsd": -1852388000,
+      "worthChangePct": -31.899065770121005,
+      "enteredTop500": false
+    },
+    {
+      "id": "jed-mccaleb",
+      "previousRank": 407,
+      "previousWorthUsd": 3909000000,
+      "rankChange": -10,
+      "worthChangeUsd": 36000000,
+      "worthChangePct": 0.920951650038373,
+      "enteredTop500": false
+    },
+    {
+      "id": "e-joe-shoen",
+      "previousRank": 417,
+      "previousWorthUsd": 3838942000,
+      "rankChange": -1,
+      "worthChangeUsd": 100786000,
+      "worthChangePct": 2.625358757699387,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-conway-jr",
+      "previousRank": 389,
+      "previousWorthUsd": 4125652000,
+      "rankChange": -30,
+      "worthChangeUsd": -202136000,
+      "worthChangePct": -4.89949224995225,
+      "enteredTop500": false
+    },
+    {
+      "id": "scott-crabill",
+      "previousRank": 408,
+      "previousWorthUsd": 3906957000,
+      "rankChange": -12,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "holden-spaht",
+      "previousRank": 409,
+      "previousWorthUsd": 3906022000,
+      "rankChange": -12,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "seth-boro",
+      "previousRank": 412,
+      "previousWorthUsd": 3868978000,
+      "rankChange": -10,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "margaret-baker",
+      "previousRank": 431,
+      "previousWorthUsd": 3620036000,
+      "rankChange": 8,
+      "worthChangeUsd": 167996000,
+      "worthChangePct": 4.640727329783461,
+      "enteredTop500": false
+    },
+    {
+      "id": "joe-lonsdale",
+      "previousRank": 430,
+      "previousWorthUsd": 3622186000,
+      "rankChange": 6,
+      "worthChangeUsd": 159611000,
+      "worthChangePct": 4.4064827151339,
+      "enteredTop500": false
+    },
+    {
+      "id": "patrizio-vinciarelli",
+      "previousRank": 405,
+      "previousWorthUsd": 3965815000,
+      "rankChange": -20,
+      "worthChangeUsd": -227663000,
+      "worthChangePct": -5.740635909642785,
+      "enteredTop500": false
+    },
+    {
+      "id": "danny-harris",
+      "previousRank": 423,
+      "previousWorthUsd": 3728711000,
+      "rankChange": -3,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "michael-intrator",
+      "previousRank": 288,
+      "previousWorthUsd": 5524182000,
+      "rankChange": -139,
+      "worthChangeUsd": -1798754000,
+      "worthChangePct": -32.561454347449086,
+      "enteredTop500": false
+    },
+    {
+      "id": "susan-alfond",
+      "previousRank": 444,
+      "previousWorthUsd": 3543121000,
+      "rankChange": 16,
+      "worthChangeUsd": 178978000,
+      "worthChangePct": 5.051422178356313,
+      "enteredTop500": false
+    },
+    {
+      "id": "ted-alfond",
+      "previousRank": 445,
+      "previousWorthUsd": 3543121000,
+      "rankChange": 16,
+      "worthChangeUsd": 178978000,
+      "worthChangePct": 5.051422178356313,
+      "enteredTop500": false
+    },
+    {
+      "id": "bill-alfond",
+      "previousRank": 446,
+      "previousWorthUsd": 3543051000,
+      "rankChange": 16,
+      "worthChangeUsd": 178978000,
+      "worthChangePct": 5.051521979220733,
+      "enteredTop500": false
+    },
+    {
+      "id": "nick-caporella",
+      "previousRank": 459,
+      "previousWorthUsd": 3392497000,
+      "rankChange": 28,
+      "worthChangeUsd": 309597000,
+      "worthChangePct": 9.125932904288494,
+      "enteredTop500": false
+    },
+    {
+      "id": "marco-degeorge",
+      "previousRank": 424,
+      "previousWorthUsd": 3692499000,
+      "rankChange": -8,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-stone",
+      "previousRank": 425,
+      "previousWorthUsd": 3690238000,
+      "rankChange": -8,
+      "worthChangeUsd": -375000,
+      "worthChangePct": -0.010161946194256305,
+      "enteredTop500": false
+    },
+    {
+      "id": "frank-slootman",
+      "previousRank": 367,
+      "previousWorthUsd": 4338139000,
+      "rankChange": -67,
+      "worthChangeUsd": -659107000,
+      "worthChangePct": -15.193312155281333,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-baszucki",
+      "previousRank": 492,
+      "previousWorthUsd": 3117096000,
+      "rankChange": 57,
+      "worthChangeUsd": 559793000,
+      "worthChangePct": 17.95879883070653,
+      "enteredTop500": false
+    },
+    {
+      "id": "duke-reyes",
+      "previousRank": 491,
+      "previousWorthUsd": 3123000000,
+      "rankChange": 55,
+      "worthChangeUsd": 520450000,
+      "worthChangePct": 16.665065642010887,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-fish",
+      "previousRank": 428,
+      "previousWorthUsd": 3640700000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "alejandro-santo-domingo",
+      "previousRank": 395,
+      "previousWorthUsd": 4070121000,
+      "rankChange": -43,
+      "worthChangeUsd": -436199000,
+      "worthChangePct": -10.717101530888149,
+      "enteredTop500": false
+    },
+    {
+      "id": "hemant-taneja",
+      "previousRank": 429,
+      "previousWorthUsd": 3632000000,
+      "rankChange": -10,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "charles-zegar",
+      "previousRank": 393,
+      "previousWorthUsd": 4075000000,
+      "rankChange": -47,
+      "worthChangeUsd": -457000000,
+      "worthChangePct": -11.214723926380369,
+      "enteredTop500": false
+    },
+    {
+      "id": "leon-g-cooperman",
+      "previousRank": 432,
+      "previousWorthUsd": 3614000000,
+      "rankChange": -9,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-fisher",
+      "previousRank": 435,
+      "previousWorthUsd": 3586967000,
+      "rankChange": -7,
+      "worthChangeUsd": 413000,
+      "worthChangePct": 0.011513905759378327,
+      "enteredTop500": false
+    },
+    {
+      "id": "brian-acton",
+      "previousRank": 436,
+      "previousWorthUsd": 3581000000,
+      "rankChange": -7,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jeff-rothschild",
+      "previousRank": 439,
+      "previousWorthUsd": 3567346000,
+      "rankChange": -5,
+      "worthChangeUsd": 3250000,
+      "worthChangePct": 0.09110414296790947,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-wrigley-jr",
+      "previousRank": 438,
+      "previousWorthUsd": 3567950000,
+      "rankChange": -7,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jonathan-nelson",
+      "previousRank": 441,
+      "previousWorthUsd": 3563357000,
+      "rankChange": -5,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "travis-kalanick",
+      "previousRank": 442,
+      "previousWorthUsd": 3562000000,
+      "rankChange": -5,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "carl-icahn",
+      "previousRank": 419,
+      "previousWorthUsd": 3821531000,
+      "rankChange": -29,
+      "worthChangeUsd": -263495000,
+      "worthChangePct": -6.89501144959965,
+      "enteredTop500": false
+    },
+    {
+      "id": "frank-fertitta-iii",
+      "previousRank": 443,
+      "previousWorthUsd": 3561882000,
+      "rankChange": -6,
+      "worthChangeUsd": -14874000,
+      "worthChangePct": -0.4175882300424327,
+      "enteredTop500": false
+    },
+    {
+      "id": "lorenzo-fertitta",
+      "previousRank": 437,
+      "previousWorthUsd": 3577733000,
+      "rankChange": -13,
+      "worthChangeUsd": -35205000,
+      "worthChangePct": -0.9840029985468451,
+      "enteredTop500": false
+    },
+    {
+      "id": "thomas-james",
+      "previousRank": 406,
+      "previousWorthUsd": 3917856000,
+      "rankChange": -45,
+      "worthChangeUsd": -395767000,
+      "worthChangePct": -10.10162190749226,
+      "enteredTop500": false
+    },
+    {
+      "id": "howard-schultz",
+      "previousRank": 433,
+      "previousWorthUsd": 3594809000,
+      "rankChange": -19,
+      "worthChangeUsd": -79929000,
+      "worthChangePct": -2.223456100171108,
+      "enteredTop500": false
+    },
+    {
+      "id": "anthony-wood",
+      "previousRank": 450,
+      "previousWorthUsd": 3456687000,
+      "rankChange": -3,
+      "worthChangeUsd": 28440000,
+      "worthChangePct": 0.8227531159170616,
+      "enteredTop500": false
+    },
+    {
+      "id": "joel-greenberg",
+      "previousRank": 509,
+      "previousWorthUsd": 3003000000,
+      "rankChange": 55,
+      "worthChangeUsd": 462000000,
+      "worthChangePct": 15.384615384615385,
+      "enteredTop500": true
+    },
+    {
+      "id": "rodney-sacks",
+      "previousRank": 451,
+      "previousWorthUsd": 3425655000,
+      "rankChange": -4,
+      "worthChangeUsd": 20715000,
+      "worthChangePct": 0.6047018745320238,
+      "enteredTop500": false
+    },
+    {
+      "id": "ankur-jain",
+      "previousRank": 452,
+      "previousWorthUsd": 3423369000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "oprah-winfrey",
+      "previousRank": 453,
+      "previousWorthUsd": 3422163000,
+      "rankChange": -4,
+      "worthChangeUsd": 1062000,
+      "worthChangePct": 0.031033004564656914,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-hoffmann",
+      "previousRank": 557,
+      "previousWorthUsd": 2617312000,
+      "rankChange": 99,
+      "worthChangeUsd": 799094000,
+      "worthChangePct": 30.53109449694954,
+      "enteredTop500": true
+    },
+    {
+      "id": "parker-conrad",
+      "previousRank": 456,
+      "previousWorthUsd": 3400000000,
+      "rankChange": -3,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "rajiv-jain",
+      "previousRank": 422,
+      "previousWorthUsd": 3775340000,
+      "rankChange": -38,
+      "worthChangeUsd": -379533000,
+      "worthChangePct": -10.052948873478945,
+      "enteredTop500": false
+    },
+    {
+      "id": "felix-baker",
+      "previousRank": 457,
+      "previousWorthUsd": 3392591000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "julian-baker",
+      "previousRank": 458,
+      "previousWorthUsd": 3392591000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "maggie-hardy",
+      "previousRank": 461,
+      "previousWorthUsd": 3388431000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "warren-stephens",
+      "previousRank": 454,
+      "previousWorthUsd": 3417176000,
+      "rankChange": -10,
+      "worthChangeUsd": -42315000,
+      "worthChangePct": -1.2383032070926403,
+      "enteredTop500": false
+    },
+    {
+      "id": "ron-burkle",
+      "previousRank": 414,
+      "previousWorthUsd": 3863885000,
+      "rankChange": -51,
+      "worthChangeUsd": -494417000,
+      "worthChangePct": -12.795851843416663,
+      "enteredTop500": false
+    },
+    {
+      "id": "sean-parker",
+      "previousRank": 463,
+      "previousWorthUsd": 3354408000,
+      "rankChange": -3,
+      "worthChangeUsd": 1406000,
+      "worthChangePct": 0.04191499662533598,
+      "enteredTop500": false
+    },
+    {
+      "id": "frank-vandersloot",
+      "previousRank": 474,
+      "previousWorthUsd": 3246020000,
+      "rankChange": 7,
+      "worthChangeUsd": 94956000,
+      "worthChangePct": 2.9253054509830503,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-hockey",
+      "previousRank": 464,
+      "previousWorthUsd": 3332000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "howard-butt-iii",
+      "previousRank": 480,
+      "previousWorthUsd": 3195000000,
+      "rankChange": 11,
+      "worthChangeUsd": 130000000,
+      "worthChangePct": 4.068857589984351,
+      "enteredTop500": false
+    },
+    {
+      "id": "stephen-butt",
+      "previousRank": 481,
+      "previousWorthUsd": 3195000000,
+      "rankChange": 11,
+      "worthChangeUsd": 130000000,
+      "worthChangePct": 4.068857589984351,
+      "enteredTop500": false
+    },
+    {
+      "id": "mark-davis-1",
+      "previousRank": 465,
+      "previousWorthUsd": 3316800000,
+      "rankChange": -6,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "richard-peery",
+      "previousRank": 447,
+      "previousWorthUsd": 3520602000,
+      "rankChange": -25,
+      "worthChangeUsd": -208473000,
+      "worthChangePct": -5.9215156953271055,
+      "enteredTop500": false
+    },
+    {
+      "id": "vincent-mcmahon",
+      "previousRank": 462,
+      "previousWorthUsd": 3361133000,
+      "rankChange": -11,
+      "worthChangeUsd": -61460000,
+      "worthChangePct": -1.8285500752276092,
+      "enteredTop500": false
+    },
+    {
+      "id": "jay-paul",
+      "previousRank": 470,
+      "previousWorthUsd": 3267006000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "ryan-smith",
+      "previousRank": 471,
+      "previousWorthUsd": 3264000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "lawrence-golub",
+      "previousRank": 472,
+      "previousWorthUsd": 3252000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "haim-saban",
+      "previousRank": 473,
+      "previousWorthUsd": 3250106000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "david-zalik",
+      "previousRank": 449,
+      "previousWorthUsd": 3492765000,
+      "rankChange": -29,
+      "worthChangeUsd": -265438000,
+      "worthChangePct": -7.599652424368659,
+      "enteredTop500": false
+    },
+    {
+      "id": "wayne-rothbaum",
+      "previousRank": 504,
+      "previousWorthUsd": 3048800000,
+      "rankChange": 25,
+      "worthChangeUsd": 177600000,
+      "worthChangePct": 5.825242718446602,
+      "enteredTop500": true
+    },
+    {
+      "id": "alexandr-wang",
+      "previousRank": 476,
+      "previousWorthUsd": 3215000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jim-breyer",
+      "previousRank": 469,
+      "previousWorthUsd": 3270413000,
+      "rankChange": -12,
+      "worthChangeUsd": -61232000,
+      "worthChangePct": -1.8723017551605867,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-pritzker",
+      "previousRank": 478,
+      "previousWorthUsd": 3204514000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "richard-hayne",
+      "previousRank": 505,
+      "previousWorthUsd": 3039590000,
+      "rankChange": 22,
+      "worthChangeUsd": 160992000,
+      "worthChangePct": 5.296503804789462,
+      "enteredTop500": true
+    },
+    {
+      "id": "henry-laufer",
+      "previousRank": 479,
+      "previousWorthUsd": 3200000000,
+      "rankChange": -5,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "sam-altman",
+      "previousRank": 467,
+      "previousWorthUsd": 3286492000,
+      "rankChange": -18,
+      "worthChangeUsd": -94695000,
+      "worthChangePct": -2.881339738541886,
+      "enteredTop500": false
+    },
+    {
+      "id": "ben-navarro",
+      "previousRank": 483,
+      "previousWorthUsd": 3190296000,
+      "rankChange": -3,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "daniel-pritzker",
+      "previousRank": 484,
+      "previousWorthUsd": 3187373000,
+      "rankChange": -3,
+      "worthChangeUsd": 11000,
+      "worthChangePct": 0.00034511178955208565,
+      "enteredTop500": false
+    },
+    {
+      "id": "william-chisholm",
+      "previousRank": 485,
+      "previousWorthUsd": 3179200000,
+      "rankChange": -3,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "edward-bass",
+      "previousRank": 506,
+      "previousWorthUsd": 3038383000,
+      "rankChange": 17,
+      "worthChangeUsd": 114861000,
+      "worthChangePct": 3.7803331574722474,
+      "enteredTop500": true
+    },
+    {
+      "id": "gerald-ford",
+      "previousRank": 486,
+      "previousWorthUsd": 3173894000,
+      "rankChange": -4,
+      "worthChangeUsd": -33624000,
+      "worthChangePct": -1.0593926577258095,
+      "enteredTop500": false
+    },
+    {
+      "id": "frank-love",
+      "previousRank": 487,
+      "previousWorthUsd": 3135000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "greg-love",
+      "previousRank": 488,
+      "previousWorthUsd": 3135000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "jenny-love-meyer",
+      "previousRank": 489,
+      "previousWorthUsd": 3135000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "laura-love",
+      "previousRank": 490,
+      "previousWorthUsd": 3135000000,
+      "rankChange": -4,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    },
+    {
+      "id": "john-paul-dejoria",
+      "previousRank": 497,
+      "previousWorthUsd": 3065052000,
+      "rankChange": 2,
+      "worthChangeUsd": 45171000,
+      "worthChangePct": 1.4737433492156087,
+      "enteredTop500": false
+    },
+    {
+      "id": "tim-cook",
+      "previousRank": 508,
+      "previousWorthUsd": 3003369000,
+      "rankChange": 12,
+      "worthChangeUsd": 101086000,
+      "worthChangePct": 3.365753592049462,
+      "enteredTop500": true
+    },
+    {
+      "id": "andrew-karam",
+      "previousRank": 440,
+      "previousWorthUsd": 3565540000,
+      "rankChange": -57,
+      "worthChangeUsd": -466290000,
+      "worthChangePct": -13.07768248287777,
+      "enteredTop500": false
+    },
+    {
+      "id": "jerry-yang",
+      "previousRank": 493,
+      "previousWorthUsd": 3095423000,
+      "rankChange": -5,
+      "worthChangeUsd": -1626000,
+      "worthChangePct": -0.05252916968052509,
+      "enteredTop500": false
+    },
+    {
+      "id": "abel-avellan",
+      "previousRank": 350,
+      "previousWorthUsd": 4529968000,
+      "rankChange": -149,
+      "worthChangeUsd": -1437082000,
+      "worthChangePct": -31.723888557270165,
+      "enteredTop500": false
+    },
+    {
+      "id": "fernando-de-leon",
+      "previousRank": 498,
+      "previousWorthUsd": 3062400000,
+      "rankChange": -2,
+      "worthChangeUsd": 0,
+      "worthChangePct": 0,
+      "enteredTop500": false
+    }
+  ]
 }

@@ -15,6 +15,7 @@
 - **交易披露**：国会议员股票与加密资产交易、迟报档案、股票共识与交易时间线，每条记录链接官方原件。
 - **年度资产**：年度财务披露的资产区间、年度变化与持仓结构；金额为披露区间，不是实时净资产。
 - **权力地图**：世界地图进入美国州地图，按州与党派联动人物、资产；州名旁数字为现任联邦众议员人数。
+- **美国富豪榜**：美国国籍前 500 位富豪的榜单净值、排名变化与公开居住州分布（榜单估计值，不是申报资产）。
 - **全球算力中心**：单个园区或集群达到 1 万张 AI 加速卡（或 1 万 H100 当量）的算力中心，以及 TOP500 前十超算；颜色区分运营中、在建和超算，圆点大小表示规模。
 
 ## 本地运行
@@ -37,10 +38,11 @@ npm run build
 
 - 国会交易与年度披露：美国众议院 Clerk、参议院 eFD（政府公开文件）
 - 国会议员照片：unitedstates.github.io（美国政府作品）
+- 美国富豪榜：Forbes Real-Time Billionaires，经 [komed3/rtb-api](https://github.com/komed3/rtb-api)（MIT）整理；人物照片为 Forbes 原站外链，开放授权头像来自 Wikimedia Commons
 - 算力中心：Epoch AI（CC BY 4.0）、TOP500.org；地理编码 OpenStreetMap（ODbL）。生成方法见 `research/compute-centers/README.md`
 - 底图：NASA Blue Marble；国界 Natural Earth
 
-公开版不含福布斯富豪榜数据与版权保留的人物头像，富豪页面显示为无数据。详见 `docs/PUBLIC-RELEASE.md`。
+公开版不含取自官网、版权保留的人物头像。详见 `docs/PUBLIC-RELEASE.md`。
 
 所有内容均为事后公开披露的整理，不是投资建议。
 

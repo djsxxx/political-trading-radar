@@ -2,7 +2,7 @@
   "name": "financial-ai-os",
   "version": "2.1.0",
   "private": true,
-  "description": "政治人物交易雷达：美国国会交易与年度披露、权力地图、全球万卡算力中心分布",
+  "description": "政治人物交易雷达：美国国会交易与年度披露、权力地图、美国富豪榜、全球万卡算力中心分布",
   "main": "out/main/main.js",
   "scripts": {
     "dev": "electron-vite dev",
@@ -10,7 +10,7 @@
     "dist:mac": "npm run build && electron-builder --mac dmg zip --arm64",
     "preview": "electron-vite preview",
     "typecheck": "tsc --noEmit",
-    "audit": "node research/political-trades/audit_annual.cjs && node research/political-trades/audit_annual_changes.cjs && node research/political-trades/audit_atlas.cjs && node research/political-trades/audit_shared_assets.cjs && node research/political-trades/audit_asset_valuation.cjs && node research/political-trades/audit_quote_change.cjs && node research/political-trades/audit_compute_centers.cjs"
+    "audit": "node research/political-trades/audit_annual.cjs && node research/political-trades/audit_annual_changes.cjs && node research/political-trades/audit_atlas.cjs && node research/political-trades/audit_shared_assets.cjs && node research/political-trades/audit_asset_valuation.cjs && node research/political-trades/audit_quote_change.cjs && node research/political-trades/audit_billionaires.cjs && node research/political-trades/audit_billionaire_states.cjs && node research/political-trades/audit_compute_centers.cjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.4",

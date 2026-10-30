@@ -1,0 +1,4951 @@
+{
+  "date": "2026-08-31",
+  "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/list/rtb/2026-08-31",
+  "people": [
+    {
+      "id": "elon-musk",
+      "rank": 1,
+      "worthUsd": 891913798000
+    },
+    {
+      "id": "larry-page",
+      "rank": 2,
+      "worthUsd": 277239212000
+    },
+    {
+      "id": "jeff-bezos",
+      "rank": 3,
+      "worthUsd": 267649214000
+    },
+    {
+      "id": "sergey-brin",
+      "rank": 4,
+      "worthUsd": 255766650000
+    },
+    {
+      "id": "michael-dell",
+      "rank": 5,
+      "worthUsd": 240638166000
+    },
+    {
+      "id": "mark-zuckerberg",
+      "rank": 6,
+      "worthUsd": 196586216000
+    },
+    {
+      "id": "larry-ellison",
+      "rank": 7,
+      "worthUsd": 192483369000
+    },
+    {
+      "id": "jensen-huang",
+      "rank": 8,
+      "worthUsd": 190640055000
+    },
+    {
+      "id": "steve-ballmer",
+      "rank": 9,
+      "worthUsd": 155300570000
+    },
+    {
+      "id": "warren-buffett",
+      "rank": 10,
+      "worthUsd": 143325716000
+    },
+    {
+      "id": "rob-walton",
+      "rank": 11,
+      "worthUsd": 127075769000
+    },
+    {
+      "id": "jim-walton",
+      "rank": 12,
+      "worthUsd": 126343483000
+    },
+    {
+      "id": "alice-walton",
+      "rank": 13,
+      "worthUsd": 116214603000
+    },
+    {
+      "id": "thomas-peterffy",
+      "rank": 14,
+      "worthUsd": 112214854000
+    },
+    {
+      "id": "bill-gates",
+      "rank": 15,
+      "worthUsd": 110055188000
+    },
+    {
+      "id": "michael-bloomberg",
+      "rank": 16,
+      "worthUsd": 109419000000
+    },
+    {
+      "id": "julia-koch",
+      "rank": 17,
+      "worthUsd": 84627000000
+    },
+    {
+      "id": "charles-koch",
+      "rank": 18,
+      "worthUsd": 76942000000
+    },
+    {
+      "id": "jeff-yass",
+      "rank": 19,
+      "worthUsd": 67435000000
+    },
+    {
+      "id": "ken-griffin",
+      "rank": 20,
+      "worthUsd": 53123215000
+    },
+    {
+      "id": "stephen-schwarzman",
+      "rank": 21,
+      "worthUsd": 45417402000
+    },
+    {
+      "id": "lukas-walton",
+      "rank": 22,
+      "worthUsd": 43705820000
+    },
+    {
+      "id": "jacqueline-mars",
+      "rank": 23,
+      "worthUsd": 43004000000
+    },
+    {
+      "id": "john-mars",
+      "rank": 24,
+      "worthUsd": 43004000000
+    },
+    {
+      "id": "abigail-johnson",
+      "rank": 25,
+      "worthUsd": 41635256000
+    },
+    {
+      "id": "eric-schmidt",
+      "rank": 26,
+      "worthUsd": 37835757000
+    },
+    {
+      "id": "henry-samueli",
+      "rank": 27,
+      "worthUsd": 34853057000
+    },
+    {
+      "id": "miriam-adelson",
+      "rank": 28,
+      "worthUsd": 33283125000
+    },
+    {
+      "id": "peter-thiel",
+      "rank": 29,
+      "worthUsd": 33227853000
+    },
+    {
+      "id": "thomas-frist-jr",
+      "rank": 30,
+      "worthUsd": 33131845000
+    },
+    {
+      "id": "mackenzie-scott",
+      "rank": 31,
+      "worthUsd": 32607671000
+    },
+    {
+      "id": "marilyn-simons",
+      "rank": 32,
+      "worthUsd": 32548960000
+    },
+    {
+      "id": "lyndal-stephens-greth",
+      "rank": 33,
+      "worthUsd": 32383220000
+    },
+    {
+      "id": "elaine-marshall",
+      "rank": 34,
+      "worthUsd": 32239000000
+    },
+    {
+      "id": "len-blavatnik",
+      "rank": 35,
+      "worthUsd": 31790846000
+    },
+    {
+      "id": "robert-pera",
+      "rank": 36,
+      "worthUsd": 31674244000
+    },
+    {
+      "id": "melinda-french-gates",
+      "rank": 37,
+      "worthUsd": 30672196000
+    },
+    {
+      "id": "john-tu",
+      "rank": 38,
+      "worthUsd": 29077253000
+    },
+    {
+      "id": "david-sun",
+      "rank": 39,
+      "worthUsd": 29053463000
+    },
+    {
+      "id": "israel-englander",
+      "rank": 40,
+      "worthUsd": 27555932000
+    },
+    {
+      "id": "phil-knight",
+      "rank": 41,
+      "worthUsd": 26017371000
+    },
+    {
+      "id": "ernest-garcia-ii",
+      "rank": 42,
+      "worthUsd": 24593458000
+    },
+    {
+      "id": "stanley-kroenke",
+      "rank": 43,
+      "worthUsd": 24307497000
+    },
+    {
+      "id": "rupert-murdoch",
+      "rank": 44,
+      "worthUsd": 24228113000
+    },
+    {
+      "id": "david-tepper",
+      "rank": 45,
+      "worthUsd": 23687000000
+    },
+    {
+      "id": "brett-adcock",
+      "rank": 46,
+      "worthUsd": 23403340000
+    },
+    {
+      "id": "steve-cohen",
+      "rank": 47,
+      "worthUsd": 22982540000
+    },
+    {
+      "id": "daniel-gilbert",
+      "rank": 48,
+      "worthUsd": 22439327000
+    },
+    {
+      "id": "henry-nicholas-iii",
+      "rank": 49,
+      "worthUsd": 22251777000
+    },
+    {
+      "id": "john-doerr",
+      "rank": 50,
+      "worthUsd": 22177214000
+    },
+    {
+      "id": "todd-graves",
+      "rank": 51,
+      "worthUsd": 21983000000
+    },
+    {
+      "id": "diane-hendricks",
+      "rank": 52,
+      "worthUsd": 21689200000
+    },
+    {
+      "id": "christy-walton",
+      "rank": 53,
+      "worthUsd": 21616093000
+    },
+    {
+      "id": "rick-cohen",
+      "rank": 54,
+      "worthUsd": 20593313000
+    },
+    {
+      "id": "philip-anschutz",
+      "rank": 55,
+      "worthUsd": 19401000000
+    },
+    {
+      "id": "harold-hamm",
+      "rank": 56,
+      "worthUsd": 19240000000
+    },
+    {
+      "id": "jerry-jones",
+      "rank": 57,
+      "worthUsd": 19221627000
+    },
+    {
+      "id": "donald-bren",
+      "rank": 58,
+      "worthUsd": 19212086000
+    },
+    {
+      "id": "jack-dangermond",
+      "rank": 59,
+      "worthUsd": 18605092000
+    },
+    {
+      "id": "edwin-chen",
+      "rank": 60,
+      "worthUsd": 18000000000
+    },
+    {
+      "id": "eric-smidt",
+      "rank": 61,
+      "worthUsd": 17923000000
+    },
+    {
+      "id": "alexander-karp",
+      "rank": 62,
+      "worthUsd": 17142356000
+    },
+    {
+      "id": "stephen-ross",
+      "rank": 63,
+      "worthUsd": 16982712000
+    },
+    {
+      "id": "nancy-walton-laurie",
+      "rank": 64,
+      "worthUsd": 16907880000
+    },
+    {
+      "id": "arthur-dantchik",
+      "rank": 65,
+      "worthUsd": 16877000000
+    },
+    {
+      "id": "jan-koum",
+      "rank": 66,
+      "worthUsd": 16809441000
+    },
+    {
+      "id": "josh-kushner",
+      "rank": 67,
+      "worthUsd": 16690704000
+    },
+    {
+      "id": "george-kaiser",
+      "rank": 68,
+      "worthUsd": 16413414000
+    },
+    {
+      "id": "edward-johnson-iv",
+      "rank": 69,
+      "worthUsd": 16303349000
+    },
+    {
+      "id": "james-goodnight",
+      "rank": 70,
+      "worthUsd": 16112196000
+    },
+    {
+      "id": "peter-mallouk",
+      "rank": 71,
+      "worthUsd": 16082000000
+    },
+    {
+      "id": "john-menard-jr",
+      "rank": 72,
+      "worthUsd": 15985099000
+    },
+    {
+      "id": "daniela-amodei",
+      "rank": 73,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "dario-amodei",
+      "rank": 74,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "jack-clark",
+      "rank": 75,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "jared-kaplan",
+      "rank": 76,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "sam-mccandlish",
+      "rank": 77,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "tom-brown",
+      "rank": 78,
+      "worthUsd": 15500000000
+    },
+    {
+      "id": "laurene-powell-jobs",
+      "rank": 79,
+      "worthUsd": 15385362000
+    },
+    {
+      "id": "ray-dalio",
+      "rank": 80,
+      "worthUsd": 15383970000
+    },
+    {
+      "id": "charles-schwab",
+      "rank": 81,
+      "worthUsd": 14941989000
+    },
+    {
+      "id": "leon-black",
+      "rank": 82,
+      "worthUsd": 14784859000
+    },
+    {
+      "id": "shahid-khan",
+      "rank": 83,
+      "worthUsd": 14782353000
+    },
+    {
+      "id": "ralph-lauren",
+      "rank": 84,
+      "worthUsd": 14750401000
+    },
+    {
+      "id": "michael-sabel",
+      "rank": 85,
+      "worthUsd": 14465181000
+    },
+    {
+      "id": "robert-pender",
+      "rank": 86,
+      "worthUsd": 14465181000
+    },
+    {
+      "id": "elizabeth-johnson",
+      "rank": 87,
+      "worthUsd": 14430666000
+    },
+    {
+      "id": "george-roberts",
+      "rank": 88,
+      "worthUsd": 14301558000
+    },
+    {
+      "id": "ann-walton-kroenke",
+      "rank": 89,
+      "worthUsd": 13931679000
+    },
+    {
+      "id": "robert-kraft",
+      "rank": 90,
+      "worthUsd": 13841585000
+    },
+    {
+      "id": "george-kurtz",
+      "rank": 91,
+      "worthUsd": 13612452000
+    },
+    {
+      "id": "ken-fisher",
+      "rank": 92,
+      "worthUsd": 13154000000
+    },
+    {
+      "id": "henry-kravis",
+      "rank": 93,
+      "worthUsd": 13150401000
+    },
+    {
+      "id": "vinod-khosla",
+      "rank": 94,
+      "worthUsd": 13141714000
+    },
+    {
+      "id": "j-christopher-reyes",
+      "rank": 95,
+      "worthUsd": 13100000000
+    },
+    {
+      "id": "jude-reyes",
+      "rank": 96,
+      "worthUsd": 13100000000
+    },
+    {
+      "id": "richard-kinder",
+      "rank": 97,
+      "worthUsd": 13079725000
+    },
+    {
+      "id": "brad-jacobs",
+      "rank": 98,
+      "worthUsd": 12840007000
+    },
+    {
+      "id": "andrew-beal",
+      "rank": 99,
+      "worthUsd": 12718500000
+    },
+    {
+      "id": "brian-chesky",
+      "rank": 100,
+      "worthUsd": 12669901000
+    },
+    {
+      "id": "chris-larsen",
+      "rank": 101,
+      "worthUsd": 12559518000
+    },
+    {
+      "id": "david-steward",
+      "rank": 102,
+      "worthUsd": 12412195000
+    },
+    {
+      "id": "pierre-omidyar",
+      "rank": 103,
+      "worthUsd": 12335121000
+    },
+    {
+      "id": "mark-stevens",
+      "rank": 104,
+      "worthUsd": 12121612000
+    },
+    {
+      "id": "bubba-cathy",
+      "rank": 105,
+      "worthUsd": 12012000000
+    },
+    {
+      "id": "dan-cathy",
+      "rank": 106,
+      "worthUsd": 12012000000
+    },
+    {
+      "id": "trudy-cathy-white",
+      "rank": 107,
+      "worthUsd": 12012000000
+    },
+    {
+      "id": "douglas-leone",
+      "rank": 108,
+      "worthUsd": 11983002000
+    },
+    {
+      "id": "antony-ressler",
+      "rank": 109,
+      "worthUsd": 11972125000
+    },
+    {
+      "id": "nathan-blecharczyk",
+      "rank": 110,
+      "worthUsd": 11951059000
+    },
+    {
+      "id": "charles-ergen",
+      "rank": 111,
+      "worthUsd": 11865721000
+    },
+    {
+      "id": "ken-xie",
+      "rank": 112,
+      "worthUsd": 11679742000
+    },
+    {
+      "id": "dan-friedkin",
+      "rank": 113,
+      "worthUsd": 11656044000
+    },
+    {
+      "id": "randa-duncan-williams",
+      "rank": 114,
+      "worthUsd": 11640059000
+    },
+    {
+      "id": "orlando-bravo",
+      "rank": 115,
+      "worthUsd": 11612000000
+    },
+    {
+      "id": "robert-duggan",
+      "rank": 116,
+      "worthUsd": 11571330000
+    },
+    {
+      "id": "dannine-avara",
+      "rank": 117,
+      "worthUsd": 11563920000
+    },
+    {
+      "id": "milane-frantz",
+      "rank": 118,
+      "worthUsd": 11550777000
+    },
+    {
+      "id": "roger-penske",
+      "rank": 119,
+      "worthUsd": 11440017000
+    },
+    {
+      "id": "adam-foroughi",
+      "rank": 120,
+      "worthUsd": 11427930000
+    },
+    {
+      "id": "david-duffield",
+      "rank": 121,
+      "worthUsd": 11413674000
+    },
+    {
+      "id": "ernest-garcia-iii",
+      "rank": 122,
+      "worthUsd": 11241265000
+    },
+    {
+      "id": "scott-duncan",
+      "rank": 123,
+      "worthUsd": 11238109000
+    },
+    {
+      "id": "john-malone",
+      "rank": 124,
+      "worthUsd": 11226203000
+    },
+    {
+      "id": "charles-butt",
+      "rank": 125,
+      "worthUsd": 11136600000
+    },
+    {
+      "id": "tilman-fertitta",
+      "rank": 126,
+      "worthUsd": 11085104000
+    },
+    {
+      "id": "josh-harris",
+      "rank": 127,
+      "worthUsd": 11055470000
+    },
+    {
+      "id": "jeffery-hildebrand",
+      "rank": 128,
+      "worthUsd": 11044497000
+    },
+    {
+      "id": "gabe-newell",
+      "rank": 129,
+      "worthUsd": 11033600000
+    },
+    {
+      "id": "ramzi-musallam",
+      "rank": 130,
+      "worthUsd": 10784000000
+    },
+    {
+      "id": "marijke-mars",
+      "rank": 131,
+      "worthUsd": 10758000000
+    },
+    {
+      "id": "pamela-mars",
+      "rank": 132,
+      "worthUsd": 10758000000
+    },
+    {
+      "id": "valerie-mars",
+      "rank": 133,
+      "worthUsd": 10758000000
+    },
+    {
+      "id": "victoria-mars",
+      "rank": 134,
+      "worthUsd": 10758000000
+    },
+    {
+      "id": "jay-chaudhry",
+      "rank": 135,
+      "worthUsd": 10743508000
+    },
+    {
+      "id": "arthur-blank",
+      "rank": 136,
+      "worthUsd": 10414542000
+    },
+    {
+      "id": "ken-langone",
+      "rank": 137,
+      "worthUsd": 10393093000
+    },
+    {
+      "id": "charlie-mills",
+      "rank": 138,
+      "worthUsd": 10365621000
+    },
+    {
+      "id": "bruce-kovner",
+      "rank": 139,
+      "worthUsd": 10355860000
+    },
+    {
+      "id": "jimmy-haslam",
+      "rank": 140,
+      "worthUsd": 10335125000
+    },
+    {
+      "id": "tom-gores",
+      "rank": 141,
+      "worthUsd": 10055600000
+    },
+    {
+      "id": "robert-f-smith",
+      "rank": 142,
+      "worthUsd": 10044700000
+    },
+    {
+      "id": "dustin-moskovitz",
+      "rank": 143,
+      "worthUsd": 10023696000
+    },
+    {
+      "id": "denise-york",
+      "rank": 144,
+      "worthUsd": 10021800000
+    },
+    {
+      "id": "michael-xie",
+      "rank": 145,
+      "worthUsd": 10016233000
+    },
+    {
+      "id": "li-ge",
+      "rank": 146,
+      "worthUsd": 9985358000
+    },
+    {
+      "id": "michael-kim",
+      "rank": 147,
+      "worthUsd": 9948450000
+    },
+    {
+      "id": "harry-stine",
+      "rank": 148,
+      "worthUsd": 9891000000
+    },
+    {
+      "id": "pauline-macmillan-keinath",
+      "rank": 149,
+      "worthUsd": 9766165000
+    },
+    {
+      "id": "david-geffen",
+      "rank": 150,
+      "worthUsd": 9687620000
+    },
+    {
+      "id": "blair-parry-okeden",
+      "rank": 151,
+      "worthUsd": 9654897000
+    },
+    {
+      "id": "judy-faulkner",
+      "rank": 152,
+      "worthUsd": 9627200000
+    },
+    {
+      "id": "jim-kennedy",
+      "rank": 153,
+      "worthUsd": 9606154000
+    },
+    {
+      "id": "michael-rubin",
+      "rank": 154,
+      "worthUsd": 9592384000
+    },
+    {
+      "id": "robert-rowling",
+      "rank": 155,
+      "worthUsd": 9498838000
+    },
+    {
+      "id": "micky-arison",
+      "rank": 156,
+      "worthUsd": 9471973000
+    },
+    {
+      "id": "kelcy-warren",
+      "rank": 157,
+      "worthUsd": 9447659000
+    },
+    {
+      "id": "marc-benioff",
+      "rank": 158,
+      "worthUsd": 9415883000
+    },
+    {
+      "id": "patrick-soon-shiong",
+      "rank": 159,
+      "worthUsd": 9373786000
+    },
+    {
+      "id": "j-joe-ricketts",
+      "rank": 160,
+      "worthUsd": 9344817000
+    },
+    {
+      "id": "lin-bin",
+      "rank": 161,
+      "worthUsd": 9329737000
+    },
+    {
+      "id": "terrence-pegula",
+      "rank": 162,
+      "worthUsd": 9291331000
+    },
+    {
+      "id": "todd-boehly",
+      "rank": 163,
+      "worthUsd": 9254000000
+    },
+    {
+      "id": "tench-coxe",
+      "rank": 164,
+      "worthUsd": 9230622000
+    },
+    {
+      "id": "jonathan-gray",
+      "rank": 165,
+      "worthUsd": 9170603000
+    },
+    {
+      "id": "carl-cook",
+      "rank": 166,
+      "worthUsd": 9087637000
+    },
+    {
+      "id": "neil-bluhm",
+      "rank": 167,
+      "worthUsd": 9084979000
+    },
+    {
+      "id": "matthew-prince",
+      "rank": 168,
+      "worthUsd": 9039548000
+    },
+    {
+      "id": "elisabeth-deluca",
+      "rank": 169,
+      "worthUsd": 9028439000
+    },
+    {
+      "id": "william-goldring",
+      "rank": 170,
+      "worthUsd": 9000000000
+    },
+    {
+      "id": "jeff-greene",
+      "rank": 171,
+      "worthUsd": 8995087000
+    },
+    {
+      "id": "les-wexner",
+      "rank": 172,
+      "worthUsd": 8957583000
+    },
+    {
+      "id": "brian-armstrong",
+      "rank": 173,
+      "worthUsd": 8934083000
+    },
+    {
+      "id": "william-ackman",
+      "rank": 174,
+      "worthUsd": 8897123000
+    },
+    {
+      "id": "steven-rales",
+      "rank": 175,
+      "worthUsd": 8886013000
+    },
+    {
+      "id": "david-shaw",
+      "rank": 176,
+      "worthUsd": 8823000000
+    },
+    {
+      "id": "min-kao",
+      "rank": 177,
+      "worthUsd": 8803319000
+    },
+    {
+      "id": "tamara-gustavson",
+      "rank": 178,
+      "worthUsd": 8688429000
+    },
+    {
+      "id": "lynsi-snyder",
+      "rank": 179,
+      "worthUsd": 8665500000
+    },
+    {
+      "id": "jack-dorsey",
+      "rank": 180,
+      "worthUsd": 8601976000
+    },
+    {
+      "id": "james-clark",
+      "rank": 181,
+      "worthUsd": 8562936000
+    },
+    {
+      "id": "charles-simonyi",
+      "rank": 182,
+      "worthUsd": 8562400000
+    },
+    {
+      "id": "michael-dorrell",
+      "rank": 183,
+      "worthUsd": 8467000000
+    },
+    {
+      "id": "stephen-bisciotti",
+      "rank": 184,
+      "worthUsd": 8410646000
+    },
+    {
+      "id": "marc-rowan",
+      "rank": 185,
+      "worthUsd": 8370545000
+    },
+    {
+      "id": "koguan-leo",
+      "rank": 186,
+      "worthUsd": 8365735000
+    },
+    {
+      "id": "vincent-viola",
+      "rank": 187,
+      "worthUsd": 8326870000
+    },
+    {
+      "id": "leonard-stern",
+      "rank": 188,
+      "worthUsd": 8314600000
+    },
+    {
+      "id": "ray-lee-hunt",
+      "rank": 189,
+      "worthUsd": 8280056000
+    },
+    {
+      "id": "ty-warner",
+      "rank": 190,
+      "worthUsd": 8256980000
+    },
+    {
+      "id": "patrick-ryan",
+      "rank": 191,
+      "worthUsd": 8214002000
+    },
+    {
+      "id": "michael-moritz",
+      "rank": 192,
+      "worthUsd": 8213100000
+    },
+    {
+      "id": "ron-baron",
+      "rank": 193,
+      "worthUsd": 8177784000
+    },
+    {
+      "id": "don-hankey",
+      "rank": 194,
+      "worthUsd": 8151900000
+    },
+    {
+      "id": "paul-tudor-jones-ii",
+      "rank": 195,
+      "worthUsd": 8075000000
+    },
+    {
+      "id": "igor-olenicoff",
+      "rank": 196,
+      "worthUsd": 8000048000
+    },
+    {
+      "id": "david-siegel-1",
+      "rank": 197,
+      "worthUsd": 7980000000
+    },
+    {
+      "id": "john-overdeck",
+      "rank": 198,
+      "worthUsd": 7980000000
+    },
+    {
+      "id": "thai-lee",
+      "rank": 199,
+      "worthUsd": 7960000000
+    },
+    {
+      "id": "gayle-benson",
+      "rank": 200,
+      "worthUsd": 7943640000
+    },
+    {
+      "id": "steven-spielberg",
+      "rank": 201,
+      "worthUsd": 7921900000
+    },
+    {
+      "id": "philippe-laffont",
+      "rank": 202,
+      "worthUsd": 7893800000
+    },
+    {
+      "id": "john-sall",
+      "rank": 203,
+      "worthUsd": 7890740000
+    },
+    {
+      "id": "john-morris",
+      "rank": 204,
+      "worthUsd": 7828973000
+    },
+    {
+      "id": "dennis-washington",
+      "rank": 205,
+      "worthUsd": 7805449000
+    },
+    {
+      "id": "sami-mnaymneh",
+      "rank": 206,
+      "worthUsd": 7797000000
+    },
+    {
+      "id": "tony-tamer",
+      "rank": 207,
+      "worthUsd": 7797000000
+    },
+    {
+      "id": "stanley-druckenmiller",
+      "rank": 208,
+      "worthUsd": 7781000000
+    },
+    {
+      "id": "jim-kavanaugh",
+      "rank": 209,
+      "worthUsd": 7716870000
+    },
+    {
+      "id": "elizabeth-uihlein",
+      "rank": 210,
+      "worthUsd": 7684783000
+    },
+    {
+      "id": "richard-uihlein",
+      "rank": 211,
+      "worthUsd": 7684783000
+    },
+    {
+      "id": "herb-simon",
+      "rank": 212,
+      "worthUsd": 7662729000
+    },
+    {
+      "id": "karen-pritzker",
+      "rank": 213,
+      "worthUsd": 7649784000
+    },
+    {
+      "id": "jeffrey-lurie",
+      "rank": 214,
+      "worthUsd": 7647000000
+    },
+    {
+      "id": "mike-brown-1",
+      "rank": 215,
+      "worthUsd": 7637500000
+    },
+    {
+      "id": "joseph-liemandt",
+      "rank": 216,
+      "worthUsd": 7587578000
+    },
+    {
+      "id": "marian-ilitch",
+      "rank": 217,
+      "worthUsd": 7579900000
+    },
+    {
+      "id": "george-soros",
+      "rank": 218,
+      "worthUsd": 7499000000
+    },
+    {
+      "id": "michael-milken",
+      "rank": 219,
+      "worthUsd": 7472000000
+    },
+    {
+      "id": "ronda-stryker",
+      "rank": 220,
+      "worthUsd": 7421463000
+    },
+    {
+      "id": "howard-lutnick",
+      "rank": 221,
+      "worthUsd": 7409239000
+    },
+    {
+      "id": "thomas-pritzker",
+      "rank": 222,
+      "worthUsd": 7381354000
+    },
+    {
+      "id": "edward-roski-jr",
+      "rank": 223,
+      "worthUsd": 7328353000
+    },
+    {
+      "id": "mark-walter",
+      "rank": 224,
+      "worthUsd": 7293700000
+    },
+    {
+      "id": "jayshree-ullal",
+      "rank": 225,
+      "worthUsd": 7262101000
+    },
+    {
+      "id": "daniel-ziff",
+      "rank": 226,
+      "worthUsd": 7188750000
+    },
+    {
+      "id": "dirk-ziff",
+      "rank": 227,
+      "worthUsd": 7188750000
+    },
+    {
+      "id": "robert-ziff",
+      "rank": 228,
+      "worthUsd": 7188750000
+    },
+    {
+      "id": "john-brown",
+      "rank": 229,
+      "worthUsd": 7180038000
+    },
+    {
+      "id": "doug-meijer",
+      "rank": 230,
+      "worthUsd": 7132000000
+    },
+    {
+      "id": "hank-meijer",
+      "rank": 231,
+      "worthUsd": 7132000000
+    },
+    {
+      "id": "mark-meijer",
+      "rank": 232,
+      "worthUsd": 7132000000
+    },
+    {
+      "id": "rick-caruso",
+      "rank": 233,
+      "worthUsd": 7091051000
+    },
+    {
+      "id": "chase-coleman-iii",
+      "rank": 234,
+      "worthUsd": 7080000000
+    },
+    {
+      "id": "donald-trump",
+      "rank": 235,
+      "worthUsd": 7065708000
+    },
+    {
+      "id": "edythe-broad",
+      "rank": 236,
+      "worthUsd": 6997985000
+    },
+    {
+      "id": "ronald-wanek",
+      "rank": 237,
+      "worthUsd": 6910802000
+    },
+    {
+      "id": "charles-b-johnson",
+      "rank": 238,
+      "worthUsd": 6831599000
+    },
+    {
+      "id": "andrew-cherng-1",
+      "rank": 239,
+      "worthUsd": 6675780000
+    },
+    {
+      "id": "peggy-cherng",
+      "rank": 240,
+      "worthUsd": 6675780000
+    },
+    {
+      "id": "paul-singer",
+      "rank": 241,
+      "worthUsd": 6673500000
+    },
+    {
+      "id": "mitchell-morgan",
+      "rank": 242,
+      "worthUsd": 6666607000
+    },
+    {
+      "id": "eren-ozmen",
+      "rank": 243,
+      "worthUsd": 6657423000
+    },
+    {
+      "id": "mat-ishbia",
+      "rank": 244,
+      "worthUsd": 6646866000
+    },
+    {
+      "id": "tom-golisano",
+      "rank": 245,
+      "worthUsd": 6598075000
+    },
+    {
+      "id": "stephen-cohen",
+      "rank": 246,
+      "worthUsd": 6575953000
+    },
+    {
+      "id": "robert-rich-jr",
+      "rank": 247,
+      "worthUsd": 6538680000
+    },
+    {
+      "id": "h-ross-perot-jr",
+      "rank": 248,
+      "worthUsd": 6517706000
+    },
+    {
+      "id": "johnelle-hunt",
+      "rank": 249,
+      "worthUsd": 6461003000
+    },
+    {
+      "id": "justin-ishbia",
+      "rank": 250,
+      "worthUsd": 6422844000
+    },
+    {
+      "id": "james-chambers",
+      "rank": 251,
+      "worthUsd": 6418541000
+    },
+    {
+      "id": "margaretta-taylor",
+      "rank": 252,
+      "worthUsd": 6417787000
+    },
+    {
+      "id": "katharine-rayner",
+      "rank": 253,
+      "worthUsd": 6412716000
+    },
+    {
+      "id": "fatih-ozmen",
+      "rank": 254,
+      "worthUsd": 6397367000
+    },
+    {
+      "id": "don-vultaggio",
+      "rank": 255,
+      "worthUsd": 6389131000
+    },
+    {
+      "id": "robert-bass",
+      "rank": 256,
+      "worthUsd": 6293213000
+    },
+    {
+      "id": "margot-birmingham-perot",
+      "rank": 257,
+      "worthUsd": 6286000000
+    },
+    {
+      "id": "clifford-asness",
+      "rank": 258,
+      "worthUsd": 6282000000
+    },
+    {
+      "id": "steve-lavin",
+      "rank": 259,
+      "worthUsd": 6263000000
+    },
+    {
+      "id": "vlad-tenev",
+      "rank": 260,
+      "worthUsd": 6243128000
+    },
+    {
+      "id": "john-a-sobrato",
+      "rank": 261,
+      "worthUsd": 6217463000
+    },
+    {
+      "id": "john-henry",
+      "rank": 262,
+      "worthUsd": 6195347000
+    },
+    {
+      "id": "annette-lerner",
+      "rank": 263,
+      "worthUsd": 6164310000
+    },
+    {
+      "id": "gwendolyn-sontheim-meyer",
+      "rank": 264,
+      "worthUsd": 6154255000
+    },
+    {
+      "id": "joe-gebbia",
+      "rank": 265,
+      "worthUsd": 6090405000
+    },
+    {
+      "id": "barry-diller",
+      "rank": 266,
+      "worthUsd": 6049868000
+    },
+    {
+      "id": "bill-haslam",
+      "rank": 267,
+      "worthUsd": 6045425000
+    },
+    {
+      "id": "robert-hale-jr",
+      "rank": 268,
+      "worthUsd": 6044000000
+    },
+    {
+      "id": "mark-cuban",
+      "rank": 269,
+      "worthUsd": 6039112000
+    },
+    {
+      "id": "baiju-bhatt",
+      "rank": 270,
+      "worthUsd": 6034570000
+    },
+    {
+      "id": "robert-faith",
+      "rank": 271,
+      "worthUsd": 5966279000
+    },
+    {
+      "id": "archie-aldis-emmerson",
+      "rank": 272,
+      "worthUsd": 5955710000
+    },
+    {
+      "id": "trevor-rees-jones",
+      "rank": 273,
+      "worthUsd": 5922985000
+    },
+    {
+      "id": "rupert-johnson-jr",
+      "rank": 274,
+      "worthUsd": 5918995000
+    },
+    {
+      "id": "jeff-skoll",
+      "rank": 275,
+      "worthUsd": 5902283000
+    },
+    {
+      "id": "russell-savage",
+      "rank": 276,
+      "worthUsd": 5866035000
+    },
+    {
+      "id": "jim-davis",
+      "rank": 277,
+      "worthUsd": 5841714000
+    },
+    {
+      "id": "michael-novogratz",
+      "rank": 278,
+      "worthUsd": 5807029000
+    },
+    {
+      "id": "peter-kellogg",
+      "rank": 279,
+      "worthUsd": 5748746000
+    },
+    {
+      "id": "thomas-secunda",
+      "rank": 280,
+      "worthUsd": 5721000000
+    },
+    {
+      "id": "jean-gigi-pritzker",
+      "rank": 281,
+      "worthUsd": 5714176000
+    },
+    {
+      "id": "dan-kurzius",
+      "rank": 282,
+      "worthUsd": 5659000000
+    },
+    {
+      "id": "rakesh-gangwal",
+      "rank": 283,
+      "worthUsd": 5616287000
+    },
+    {
+      "id": "gary-rollins",
+      "rank": 284,
+      "worthUsd": 5603020000
+    },
+    {
+      "id": "austen-cargill-ii",
+      "rank": 285,
+      "worthUsd": 5568037000
+    },
+    {
+      "id": "james-cargill-ii",
+      "rank": 286,
+      "worthUsd": 5568037000
+    },
+    {
+      "id": "marianne-liebmann",
+      "rank": 287,
+      "worthUsd": 5568037000
+    },
+    {
+      "id": "michael-intrator",
+      "rank": 288,
+      "worthUsd": 5524182000
+    },
+    {
+      "id": "romesh-t-wadhwani",
+      "rank": 289,
+      "worthUsd": 5521000000
+    },
+    {
+      "id": "neal-blue",
+      "rank": 290,
+      "worthUsd": 5498300000
+    },
+    {
+      "id": "gordon-getty",
+      "rank": 291,
+      "worthUsd": 5487680000
+    },
+    {
+      "id": "eric-yuan",
+      "rank": 292,
+      "worthUsd": 5465518000
+    },
+    {
+      "id": "jeremy-jacobs-sr",
+      "rank": 293,
+      "worthUsd": 5448127000
+    },
+    {
+      "id": "jon-yarbrough",
+      "rank": 294,
+      "worthUsd": 5444384000
+    },
+    {
+      "id": "eric-lefkofsky",
+      "rank": 295,
+      "worthUsd": 5443500000
+    },
+    {
+      "id": "joe-mansueto",
+      "rank": 296,
+      "worthUsd": 5442736000
+    },
+    {
+      "id": "reinhold-schmieding",
+      "rank": 297,
+      "worthUsd": 5398844000
+    },
+    {
+      "id": "lynda-resnick",
+      "rank": 298,
+      "worthUsd": 5393500000
+    },
+    {
+      "id": "stewart-resnick",
+      "rank": 299,
+      "worthUsd": 5393500000
+    },
+    {
+      "id": "ratmir-timashev",
+      "rank": 300,
+      "worthUsd": 5378235000
+    },
+    {
+      "id": "george-lucas",
+      "rank": 301,
+      "worthUsd": 5367795000
+    },
+    {
+      "id": "scott-cook",
+      "rank": 302,
+      "worthUsd": 5316579000
+    },
+    {
+      "id": "thomas-tull",
+      "rank": 303,
+      "worthUsd": 5314500000
+    },
+    {
+      "id": "marc-stad",
+      "rank": 304,
+      "worthUsd": 5307391000
+    },
+    {
+      "id": "larry-gies",
+      "rank": 305,
+      "worthUsd": 5303284000
+    },
+    {
+      "id": "daniel-daniello",
+      "rank": 306,
+      "worthUsd": 5287387000
+    },
+    {
+      "id": "pablo-legorreta",
+      "rank": 307,
+      "worthUsd": 5234977000
+    },
+    {
+      "id": "gail-miller",
+      "rank": 308,
+      "worthUsd": 5219300000
+    },
+    {
+      "id": "dagmar-dolby",
+      "rank": 309,
+      "worthUsd": 5200263000
+    },
+    {
+      "id": "isaac-perlmutter",
+      "rank": 310,
+      "worthUsd": 5182950000
+    },
+    {
+      "id": "andy-mills",
+      "rank": 311,
+      "worthUsd": 5131989000
+    },
+    {
+      "id": "jon-stryker",
+      "rank": 312,
+      "worthUsd": 5076476000
+    },
+    {
+      "id": "catherine-commisso-family",
+      "rank": 313,
+      "worthUsd": 5071194000
+    },
+    {
+      "id": "robert-clark",
+      "rank": 314,
+      "worthUsd": 5070323000
+    },
+    {
+      "id": "scott-kapnick",
+      "rank": 315,
+      "worthUsd": 5057208000
+    },
+    {
+      "id": "steven-udvar-hazy",
+      "rank": 316,
+      "worthUsd": 5055971000
+    },
+    {
+      "id": "ben-chestnut",
+      "rank": 317,
+      "worthUsd": 5039124000
+    },
+    {
+      "id": "paul-foster",
+      "rank": 318,
+      "worthUsd": 5036351000
+    },
+    {
+      "id": "thomas-hagen",
+      "rank": 319,
+      "worthUsd": 5033299000
+    },
+    {
+      "id": "ion-stoica",
+      "rank": 320,
+      "worthUsd": 5031000000
+    },
+    {
+      "id": "arturo-moreno",
+      "rank": 321,
+      "worthUsd": 5029350000
+    },
+    {
+      "id": "robert-low",
+      "rank": 322,
+      "worthUsd": 5000000000
+    },
+    {
+      "id": "stephen-feinberg",
+      "rank": 323,
+      "worthUsd": 4976000000
+    },
+    {
+      "id": "palmer-luckey",
+      "rank": 324,
+      "worthUsd": 4973087000
+    },
+    {
+      "id": "stephen-mandel-jr",
+      "rank": 325,
+      "worthUsd": 4963000000
+    },
+    {
+      "id": "anthony-pritzker",
+      "rank": 326,
+      "worthUsd": 4962895000
+    },
+    {
+      "id": "ronald-lauder",
+      "rank": 327,
+      "worthUsd": 4919399000
+    },
+    {
+      "id": "john-middleton",
+      "rank": 328,
+      "worthUsd": 4891370000
+    },
+    {
+      "id": "steven-klinsky",
+      "rank": 329,
+      "worthUsd": 4884000000
+    },
+    {
+      "id": "peter-cancro",
+      "rank": 330,
+      "worthUsd": 4879466000
+    },
+    {
+      "id": "peter-gassner",
+      "rank": 331,
+      "worthUsd": 4875304000
+    },
+    {
+      "id": "john-catsimatidis",
+      "rank": 332,
+      "worthUsd": 4819000000
+    },
+    {
+      "id": "herbert-wertheim",
+      "rank": 333,
+      "worthUsd": 4791870000
+    },
+    {
+      "id": "bert-beveridge",
+      "rank": 334,
+      "worthUsd": 4779862000
+    },
+    {
+      "id": "dan-snyder",
+      "rank": 335,
+      "worthUsd": 4726305000
+    },
+    {
+      "id": "stewart-rahr",
+      "rank": 336,
+      "worthUsd": 4705288000
+    },
+    {
+      "id": "george-bishop",
+      "rank": 337,
+      "worthUsd": 4701099000
+    },
+    {
+      "id": "sanjit-biswas",
+      "rank": 338,
+      "worthUsd": 4665305000
+    },
+    {
+      "id": "reed-hastings",
+      "rank": 339,
+      "worthUsd": 4653434000
+    },
+    {
+      "id": "penny-pritzker",
+      "rank": 340,
+      "worthUsd": 4651035000
+    },
+    {
+      "id": "hamilton-james",
+      "rank": 341,
+      "worthUsd": 4646262000
+    },
+    {
+      "id": "jim-coulter",
+      "rank": 342,
+      "worthUsd": 4627791000
+    },
+    {
+      "id": "helen-johnson-leipold",
+      "rank": 343,
+      "worthUsd": 4614187000
+    },
+    {
+      "id": "joseph-grendys",
+      "rank": 344,
+      "worthUsd": 4590102000
+    },
+    {
+      "id": "weili-dai",
+      "rank": 345,
+      "worthUsd": 4578685000
+    },
+    {
+      "id": "david-filo",
+      "rank": 346,
+      "worthUsd": 4559428000
+    },
+    {
+      "id": "bob-parsons",
+      "rank": 347,
+      "worthUsd": 4559000000
+    },
+    {
+      "id": "eleanor-butt-crook",
+      "rank": 348,
+      "worthUsd": 4558600000
+    },
+    {
+      "id": "theodore-leonsis",
+      "rank": 349,
+      "worthUsd": 4530135000
+    },
+    {
+      "id": "abel-avellan",
+      "rank": 350,
+      "worthUsd": 4529968000
+    },
+    {
+      "id": "carl-thoma",
+      "rank": 351,
+      "worthUsd": 4524522000
+    },
+    {
+      "id": "winifred-j-marquart",
+      "rank": 352,
+      "worthUsd": 4514102000
+    },
+    {
+      "id": "john-bicket",
+      "rank": 353,
+      "worthUsd": 4512912000
+    },
+    {
+      "id": "h-fisk-johnson",
+      "rank": 354,
+      "worthUsd": 4501440000
+    },
+    {
+      "id": "s-curtis-johnson",
+      "rank": 355,
+      "worthUsd": 4492407000
+    },
+    {
+      "id": "mitchell-rales",
+      "rank": 356,
+      "worthUsd": 4489525000
+    },
+    {
+      "id": "richard-schulze",
+      "rank": 357,
+      "worthUsd": 4483593000
+    },
+    {
+      "id": "james-duff",
+      "rank": 358,
+      "worthUsd": 4472200000
+    },
+    {
+      "id": "thomas-duff",
+      "rank": 359,
+      "worthUsd": 4454600000
+    },
+    {
+      "id": "lynn-schusterman",
+      "rank": 360,
+      "worthUsd": 4448821000
+    },
+    {
+      "id": "mark-shoen",
+      "rank": 361,
+      "worthUsd": 4430132000
+    },
+    {
+      "id": "edward-stack",
+      "rank": 362,
+      "worthUsd": 4413705000
+    },
+    {
+      "id": "sid-bass",
+      "rank": 363,
+      "worthUsd": 4405900000
+    },
+    {
+      "id": "wendy-abrams",
+      "rank": 364,
+      "worthUsd": 4374909000
+    },
+    {
+      "id": "donald-sterling",
+      "rank": 365,
+      "worthUsd": 4367517000
+    },
+    {
+      "id": "steve-wynn",
+      "rank": 366,
+      "worthUsd": 4349314000
+    },
+    {
+      "id": "frank-slootman",
+      "rank": 367,
+      "worthUsd": 4338139000
+    },
+    {
+      "id": "byron-trott",
+      "rank": 368,
+      "worthUsd": 4337000000
+    },
+    {
+      "id": "michael-saylor",
+      "rank": 369,
+      "worthUsd": 4321461000
+    },
+    {
+      "id": "c-dean-metropoulos",
+      "rank": 370,
+      "worthUsd": 4320835000
+    },
+    {
+      "id": "august-troendle",
+      "rank": 371,
+      "worthUsd": 4310501000
+    },
+    {
+      "id": "phil-ruffin",
+      "rank": 372,
+      "worthUsd": 4290725000
+    },
+    {
+      "id": "drayton-mclane-jr",
+      "rank": 373,
+      "worthUsd": 4287992000
+    },
+    {
+      "id": "robert-johnson-3",
+      "rank": 374,
+      "worthUsd": 4278273000
+    },
+    {
+      "id": "michael-jordan",
+      "rank": 375,
+      "worthUsd": 4270500000
+    },
+    {
+      "id": "antonio-gracias",
+      "rank": 376,
+      "worthUsd": 4240698000
+    },
+    {
+      "id": "tim-sweeney",
+      "rank": 377,
+      "worthUsd": 4236000000
+    },
+    {
+      "id": "todd-wanek",
+      "rank": 378,
+      "worthUsd": 4232800000
+    },
+    {
+      "id": "meg-whitman",
+      "rank": 379,
+      "worthUsd": 4214479000
+    },
+    {
+      "id": "jennifer-gilbert",
+      "rank": 380,
+      "worthUsd": 4211483000
+    },
+    {
+      "id": "jb-pritzker",
+      "rank": 381,
+      "worthUsd": 4199368000
+    },
+    {
+      "id": "rodger-riney",
+      "rank": 382,
+      "worthUsd": 4196449000
+    },
+    {
+      "id": "david-rubenstein",
+      "rank": 383,
+      "worthUsd": 4183677000
+    },
+    {
+      "id": "david-macneil",
+      "rank": 384,
+      "worthUsd": 4183529000
+    },
+    {
+      "id": "stewart-horejsi",
+      "rank": 385,
+      "worthUsd": 4176907000
+    },
+    {
+      "id": "daniel-och",
+      "rank": 386,
+      "worthUsd": 4170000000
+    },
+    {
+      "id": "alexis-le-quoc",
+      "rank": 387,
+      "worthUsd": 4139010000
+    },
+    {
+      "id": "phillip-t-terry-ragon",
+      "rank": 388,
+      "worthUsd": 4137534000
+    },
+    {
+      "id": "william-conway-jr",
+      "rank": 389,
+      "worthUsd": 4125652000
+    },
+    {
+      "id": "todd-christopher",
+      "rank": 390,
+      "worthUsd": 4100000000
+    },
+    {
+      "id": "ray-davis",
+      "rank": 391,
+      "worthUsd": 4092405000
+    },
+    {
+      "id": "kavitark-ram-shriram",
+      "rank": 392,
+      "worthUsd": 4088706000
+    },
+    {
+      "id": "charles-zegar",
+      "rank": 393,
+      "worthUsd": 4075000000
+    },
+    {
+      "id": "norman-braman",
+      "rank": 394,
+      "worthUsd": 4070443000
+    },
+    {
+      "id": "alejandro-santo-domingo",
+      "rank": 395,
+      "worthUsd": 4070121000
+    },
+    {
+      "id": "john-paulson",
+      "rank": 396,
+      "worthUsd": 4048000000
+    },
+    {
+      "id": "david-blitzer",
+      "rank": 397,
+      "worthUsd": 4042000000
+    },
+    {
+      "id": "edward-debartolo-jr",
+      "rank": 398,
+      "worthUsd": 4041051000
+    },
+    {
+      "id": "nancy-mills-barnett",
+      "rank": 399,
+      "worthUsd": 4022862000
+    },
+    {
+      "id": "jim-davis-1",
+      "rank": 400,
+      "worthUsd": 4015225000
+    },
+    {
+      "id": "jack-link",
+      "rank": 401,
+      "worthUsd": 4000000000
+    },
+    {
+      "id": "neal-aronson",
+      "rank": 402,
+      "worthUsd": 3996200000
+    },
+    {
+      "id": "thomas-siebel",
+      "rank": 403,
+      "worthUsd": 3983954000
+    },
+    {
+      "id": "marc-lore",
+      "rank": 404,
+      "worthUsd": 3979390000
+    },
+    {
+      "id": "patrizio-vinciarelli",
+      "rank": 405,
+      "worthUsd": 3965815000
+    },
+    {
+      "id": "thomas-james",
+      "rank": 406,
+      "worthUsd": 3917856000
+    },
+    {
+      "id": "jed-mccaleb",
+      "rank": 407,
+      "worthUsd": 3909000000
+    },
+    {
+      "id": "scott-crabill",
+      "rank": 408,
+      "worthUsd": 3906957000
+    },
+    {
+      "id": "holden-spaht",
+      "rank": 409,
+      "worthUsd": 3906022000
+    },
+    {
+      "id": "amos-hostetter-jr",
+      "rank": 410,
+      "worthUsd": 3884112000
+    },
+    {
+      "id": "jose-e-feliciano",
+      "rank": 411,
+      "worthUsd": 3876800000
+    },
+    {
+      "id": "seth-boro",
+      "rank": 412,
+      "worthUsd": 3868978000
+    },
+    {
+      "id": "daniel-loeb",
+      "rank": 413,
+      "worthUsd": 3866583000
+    },
+    {
+      "id": "ron-burkle",
+      "rank": 414,
+      "worthUsd": 3863885000
+    },
+    {
+      "id": "behdad-eghbali",
+      "rank": 415,
+      "worthUsd": 3856300000
+    },
+    {
+      "id": "ben-lamm",
+      "rank": 416,
+      "worthUsd": 3853970000
+    },
+    {
+      "id": "e-joe-shoen",
+      "rank": 417,
+      "worthUsd": 3838942000
+    },
+    {
+      "id": "daniel-sundheim",
+      "rank": 418,
+      "worthUsd": 3831000000
+    },
+    {
+      "id": "carl-icahn",
+      "rank": 419,
+      "worthUsd": 3821531000
+    },
+    {
+      "id": "ira-rennert",
+      "rank": 420,
+      "worthUsd": 3813800000
+    },
+    {
+      "id": "scott-shleifer",
+      "rank": 421,
+      "worthUsd": 3780000000
+    },
+    {
+      "id": "rajiv-jain",
+      "rank": 422,
+      "worthUsd": 3775340000
+    },
+    {
+      "id": "danny-harris",
+      "rank": 423,
+      "worthUsd": 3728711000
+    },
+    {
+      "id": "marco-degeorge",
+      "rank": 424,
+      "worthUsd": 3692499000
+    },
+    {
+      "id": "william-stone",
+      "rank": 425,
+      "worthUsd": 3690238000
+    },
+    {
+      "id": "pat-stryker",
+      "rank": 426,
+      "worthUsd": 3685817000
+    },
+    {
+      "id": "jorge-mas",
+      "rank": 427,
+      "worthUsd": 3675884000
+    },
+    {
+      "id": "john-fish",
+      "rank": 428,
+      "worthUsd": 3640700000
+    },
+    {
+      "id": "hemant-taneja",
+      "rank": 429,
+      "worthUsd": 3632000000
+    },
+    {
+      "id": "joe-lonsdale",
+      "rank": 430,
+      "worthUsd": 3622186000
+    },
+    {
+      "id": "margaret-baker",
+      "rank": 431,
+      "worthUsd": 3620036000
+    },
+    {
+      "id": "leon-g-cooperman",
+      "rank": 432,
+      "worthUsd": 3614000000
+    },
+    {
+      "id": "howard-schultz",
+      "rank": 433,
+      "worthUsd": 3594809000
+    },
+    {
+      "id": "luke-nosek",
+      "rank": 434,
+      "worthUsd": 3590431000
+    },
+    {
+      "id": "john-fisher",
+      "rank": 435,
+      "worthUsd": 3586967000
+    },
+    {
+      "id": "brian-acton",
+      "rank": 436,
+      "worthUsd": 3581000000
+    },
+    {
+      "id": "lorenzo-fertitta",
+      "rank": 437,
+      "worthUsd": 3577733000
+    },
+    {
+      "id": "william-wrigley-jr",
+      "rank": 438,
+      "worthUsd": 3567950000
+    },
+    {
+      "id": "jeff-rothschild",
+      "rank": 439,
+      "worthUsd": 3567346000
+    },
+    {
+      "id": "andrew-karam",
+      "rank": 440,
+      "worthUsd": 3565540000
+    },
+    {
+      "id": "jonathan-nelson",
+      "rank": 441,
+      "worthUsd": 3563357000
+    },
+    {
+      "id": "travis-kalanick",
+      "rank": 442,
+      "worthUsd": 3562000000
+    },
+    {
+      "id": "frank-fertitta-iii",
+      "rank": 443,
+      "worthUsd": 3561882000
+    },
+    {
+      "id": "susan-alfond",
+      "rank": 444,
+      "worthUsd": 3543121000
+    },
+    {
+      "id": "ted-alfond",
+      "rank": 445,
+      "worthUsd": 3543121000
+    },
+    {
+      "id": "bill-alfond",
+      "rank": 446,
+      "worthUsd": 3543051000
+    },
+    {
+      "id": "richard-peery",
+      "rank": 447,
+      "worthUsd": 3520602000
+    },
+    {
+      "id": "zhang-xingang",
+      "rank": 448,
+      "worthUsd": 3519634000
+    },
+    {
+      "id": "david-zalik",
+      "rank": 449,
+      "worthUsd": 3492765000
+    },
+    {
+      "id": "anthony-wood",
+      "rank": 450,
+      "worthUsd": 3456687000
+    },
+    {
+      "id": "rodney-sacks",
+      "rank": 451,
+      "worthUsd": 3425655000
+    },
+    {
+      "id": "ankur-jain",
+      "rank": 452,
+      "worthUsd": 3423369000
+    },
+    {
+      "id": "oprah-winfrey",
+      "rank": 453,
+      "worthUsd": 3422163000
+    },
+    {
+      "id": "warren-stephens",
+      "rank": 454,
+      "worthUsd": 3417176000
+    },
+    {
+      "id": "brian-venturo",
+      "rank": 455,
+      "worthUsd": 3401017000
+    },
+    {
+      "id": "parker-conrad",
+      "rank": 456,
+      "worthUsd": 3400000000
+    },
+    {
+      "id": "felix-baker",
+      "rank": 457,
+      "worthUsd": 3392591000
+    },
+    {
+      "id": "julian-baker",
+      "rank": 458,
+      "worthUsd": 3392591000
+    },
+    {
+      "id": "nick-caporella",
+      "rank": 459,
+      "worthUsd": 3392497000
+    },
+    {
+      "id": "keith-dunleavy",
+      "rank": 460,
+      "worthUsd": 3389000000
+    },
+    {
+      "id": "maggie-hardy",
+      "rank": 461,
+      "worthUsd": 3388431000
+    },
+    {
+      "id": "vincent-mcmahon",
+      "rank": 462,
+      "worthUsd": 3361133000
+    },
+    {
+      "id": "sean-parker",
+      "rank": 463,
+      "worthUsd": 3354408000
+    },
+    {
+      "id": "william-hockey",
+      "rank": 464,
+      "worthUsd": 3332000000
+    },
+    {
+      "id": "mark-davis-1",
+      "rank": 465,
+      "worthUsd": 3316800000
+    },
+    {
+      "id": "david-dean-halbert",
+      "rank": 466,
+      "worthUsd": 3314776000
+    },
+    {
+      "id": "sam-altman",
+      "rank": 467,
+      "worthUsd": 3286492000
+    },
+    {
+      "id": "j-tomilson-hill",
+      "rank": 468,
+      "worthUsd": 3277760000
+    },
+    {
+      "id": "jim-breyer",
+      "rank": 469,
+      "worthUsd": 3270413000
+    },
+    {
+      "id": "jay-paul",
+      "rank": 470,
+      "worthUsd": 3267006000
+    },
+    {
+      "id": "ryan-smith",
+      "rank": 471,
+      "worthUsd": 3264000000
+    },
+    {
+      "id": "lawrence-golub",
+      "rank": 472,
+      "worthUsd": 3252000000
+    },
+    {
+      "id": "haim-saban",
+      "rank": 473,
+      "worthUsd": 3250106000
+    },
+    {
+      "id": "frank-vandersloot",
+      "rank": 474,
+      "worthUsd": 3246020000
+    },
+    {
+      "id": "george-argyros",
+      "rank": 475,
+      "worthUsd": 3218187000
+    },
+    {
+      "id": "alexandr-wang",
+      "rank": 476,
+      "worthUsd": 3215000000
+    },
+    {
+      "id": "kamal-ghaffarian",
+      "rank": 477,
+      "worthUsd": 3213186000
+    },
+    {
+      "id": "john-pritzker",
+      "rank": 478,
+      "worthUsd": 3204514000
+    },
+    {
+      "id": "henry-laufer",
+      "rank": 479,
+      "worthUsd": 3200000000
+    },
+    {
+      "id": "howard-butt-iii",
+      "rank": 480,
+      "worthUsd": 3195000000
+    },
+    {
+      "id": "stephen-butt",
+      "rank": 481,
+      "worthUsd": 3195000000
+    },
+    {
+      "id": "jamie-dimon",
+      "rank": 482,
+      "worthUsd": 3190649000
+    },
+    {
+      "id": "ben-navarro",
+      "rank": 483,
+      "worthUsd": 3190296000
+    },
+    {
+      "id": "daniel-pritzker",
+      "rank": 484,
+      "worthUsd": 3187373000
+    },
+    {
+      "id": "william-chisholm",
+      "rank": 485,
+      "worthUsd": 3179200000
+    },
+    {
+      "id": "gerald-ford",
+      "rank": 486,
+      "worthUsd": 3173894000
+    },
+    {
+      "id": "frank-love",
+      "rank": 487,
+      "worthUsd": 3135000000
+    },
+    {
+      "id": "greg-love",
+      "rank": 488,
+      "worthUsd": 3135000000
+    },
+    {
+      "id": "jenny-love-meyer",
+      "rank": 489,
+      "worthUsd": 3135000000
+    },
+    {
+      "id": "laura-love",
+      "rank": 490,
+      "worthUsd": 3135000000
+    },
+    {
+      "id": "duke-reyes",
+      "rank": 491,
+      "worthUsd": 3123000000
+    },
+    {
+      "id": "david-baszucki",
+      "rank": 492,
+      "worthUsd": 3117096000
+    },
+    {
+      "id": "jerry-yang",
+      "rank": 493,
+      "worthUsd": 3095423000
+    },
+    {
+      "id": "robert-friedland",
+      "rank": 494,
+      "worthUsd": 3091770000
+    },
+    {
+      "id": "glen-taylor",
+      "rank": 495,
+      "worthUsd": 3071442000
+    },
+    {
+      "id": "travis-boersma",
+      "rank": 496,
+      "worthUsd": 3069943000
+    },
+    {
+      "id": "john-paul-dejoria",
+      "rank": 497,
+      "worthUsd": 3065052000
+    },
+    {
+      "id": "fernando-de-leon",
+      "rank": 498,
+      "worthUsd": 3062400000
+    },
+    {
+      "id": "tor-peterson",
+      "rank": 499,
+      "worthUsd": 3061399000
+    },
+    {
+      "id": "barry-sternlicht",
+      "rank": 500,
+      "worthUsd": 3059167000
+    },
+    {
+      "id": "albert-chao",
+      "rank": 501,
+      "worthUsd": 3050301000
+    },
+    {
+      "id": "dorothy-chao-jenkins",
+      "rank": 502,
+      "worthUsd": 3050301000
+    },
+    {
+      "id": "james-chao",
+      "rank": 503,
+      "worthUsd": 3050301000
+    },
+    {
+      "id": "wayne-rothbaum",
+      "rank": 504,
+      "worthUsd": 3048800000
+    },
+    {
+      "id": "richard-hayne",
+      "rank": 505,
+      "worthUsd": 3039590000
+    },
+    {
+      "id": "edward-bass",
+      "rank": 506,
+      "worthUsd": 3038383000
+    },
+    {
+      "id": "david-booth",
+      "rank": 507,
+      "worthUsd": 3025484000
+    },
+    {
+      "id": "tim-cook",
+      "rank": 508,
+      "worthUsd": 3003369000
+    },
+    {
+      "id": "joel-greenberg",
+      "rank": 509,
+      "worthUsd": 3003000000
+    },
+    {
+      "id": "michael-s-smith",
+      "rank": 510,
+      "worthUsd": 3000000000
+    },
+    {
+      "id": "henry-swieca",
+      "rank": 511,
+      "worthUsd": 2974000000
+    },
+    {
+      "id": "alan-trefler",
+      "rank": 512,
+      "worthUsd": 2941599000
+    },
+    {
+      "id": "nicolas-berggruen",
+      "rank": 513,
+      "worthUsd": 2934939000
+    },
+    {
+      "id": "lee-bass",
+      "rank": 514,
+      "worthUsd": 2931068000
+    },
+    {
+      "id": "nir-zuk",
+      "rank": 515,
+      "worthUsd": 2920366000
+    },
+    {
+      "id": "vivek-ramaswamy",
+      "rank": 516,
+      "worthUsd": 2915594000
+    },
+    {
+      "id": "susan-ocampo",
+      "rank": 517,
+      "worthUsd": 2915546000
+    },
+    {
+      "id": "john-krystynak",
+      "rank": 518,
+      "worthUsd": 2905000000
+    },
+    {
+      "id": "leonard-schleifer",
+      "rank": 519,
+      "worthUsd": 2897445000
+    },
+    {
+      "id": "safra-catz",
+      "rank": 520,
+      "worthUsd": 2892684000
+    },
+    {
+      "id": "don-levin",
+      "rank": 521,
+      "worthUsd": 2888500000
+    },
+    {
+      "id": "glenn-dubin",
+      "rank": 522,
+      "worthUsd": 2884000000
+    },
+    {
+      "id": "cameron-winklevoss",
+      "rank": 523,
+      "worthUsd": 2881192000
+    },
+    {
+      "id": "tyler-winklevoss",
+      "rank": 524,
+      "worthUsd": 2881192000
+    },
+    {
+      "id": "richard-lefrak",
+      "rank": 525,
+      "worthUsd": 2870463000
+    },
+    {
+      "id": "hayes-barnard",
+      "rank": 526,
+      "worthUsd": 2867947000
+    },
+    {
+      "id": "stephen-deckoff",
+      "rank": 527,
+      "worthUsd": 2861399000
+    },
+    {
+      "id": "bom-kim",
+      "rank": 528,
+      "worthUsd": 2860101000
+    },
+    {
+      "id": "j-hyatt-brown",
+      "rank": 529,
+      "worthUsd": 2850886000
+    },
+    {
+      "id": "jonathan-tisch",
+      "rank": 530,
+      "worthUsd": 2845510000
+    },
+    {
+      "id": "jeffrey-chih-lo",
+      "rank": 531,
+      "worthUsd": 2842940000
+    },
+    {
+      "id": "robert-sands",
+      "rank": 532,
+      "worthUsd": 2836880000
+    },
+    {
+      "id": "craig-mccaw",
+      "rank": 533,
+      "worthUsd": 2834914000
+    },
+    {
+      "id": "jeffrey-talpins",
+      "rank": 534,
+      "worthUsd": 2820000000
+    },
+    {
+      "id": "bernard-saul-ii",
+      "rank": 535,
+      "worthUsd": 2811994000
+    },
+    {
+      "id": "jay-z",
+      "rank": 536,
+      "worthUsd": 2811263000
+    },
+    {
+      "id": "mortimer-zuckerman",
+      "rank": 537,
+      "worthUsd": 2806522000
+    },
+    {
+      "id": "john-tyson",
+      "rank": 538,
+      "worthUsd": 2795065000
+    },
+    {
+      "id": "john-arnold",
+      "rank": 539,
+      "worthUsd": 2787000000
+    },
+    {
+      "id": "brett-hildebrand",
+      "rank": 540,
+      "worthUsd": 2780000000
+    },
+    {
+      "id": "amy-adams-strunk",
+      "rank": 541,
+      "worthUsd": 2771000000
+    },
+    {
+      "id": "herb-chambers",
+      "rank": 542,
+      "worthUsd": 2755803000
+    },
+    {
+      "id": "joseph-edelman",
+      "rank": 543,
+      "worthUsd": 2748600000
+    },
+    {
+      "id": "aneel-bhusri",
+      "rank": 544,
+      "worthUsd": 2745656000
+    },
+    {
+      "id": "jennifer-pritzker",
+      "rank": 545,
+      "worthUsd": 2739699000
+    },
+    {
+      "id": "lisa-su",
+      "rank": 546,
+      "worthUsd": 2704485000
+    },
+    {
+      "id": "adebayo-ogunlesi",
+      "rank": 547,
+      "worthUsd": 2695164000
+    },
+    {
+      "id": "jeff-sutton",
+      "rank": 548,
+      "worthUsd": 2689892000
+    },
+    {
+      "id": "jason-murray",
+      "rank": 549,
+      "worthUsd": 2679377000
+    },
+    {
+      "id": "mark-hancock",
+      "rank": 550,
+      "worthUsd": 2671917000
+    },
+    {
+      "id": "reid-hoffman",
+      "rank": 551,
+      "worthUsd": 2665754000
+    },
+    {
+      "id": "alexandra-daitch",
+      "rank": 552,
+      "worthUsd": 2653607000
+    },
+    {
+      "id": "lucy-stitzer",
+      "rank": 553,
+      "worthUsd": 2653607000
+    },
+    {
+      "id": "sarah-macmillan",
+      "rank": 554,
+      "worthUsd": 2653607000
+    },
+    {
+      "id": "jorge-perez",
+      "rank": 555,
+      "worthUsd": 2641728000
+    },
+    {
+      "id": "jimmy-john-liautaud",
+      "rank": 556,
+      "worthUsd": 2618000000
+    },
+    {
+      "id": "david-hoffmann",
+      "rank": 557,
+      "worthUsd": 2617312000
+    },
+    {
+      "id": "hao-hong",
+      "rank": 558,
+      "worthUsd": 2614032000
+    },
+    {
+      "id": "tarek-mansour",
+      "rank": 559,
+      "worthUsd": 2600000000
+    },
+    {
+      "id": "drew-houston",
+      "rank": 560,
+      "worthUsd": 2594657000
+    },
+    {
+      "id": "william-foley-ii",
+      "rank": 561,
+      "worthUsd": 2594574000
+    },
+    {
+      "id": "william-young",
+      "rank": 562,
+      "worthUsd": 2582000000
+    },
+    {
+      "id": "bennett-dorrance",
+      "rank": 563,
+      "worthUsd": 2580823000
+    },
+    {
+      "id": "bruce-karsh",
+      "rank": 564,
+      "worthUsd": 2580000000
+    },
+    {
+      "id": "kathy-britton",
+      "rank": 565,
+      "worthUsd": 2556859000
+    },
+    {
+      "id": "william-boyd",
+      "rank": 566,
+      "worthUsd": 2556250000
+    },
+    {
+      "id": "roy-carroll-ii",
+      "rank": 567,
+      "worthUsd": 2552941000
+    },
+    {
+      "id": "roger-wang",
+      "rank": 568,
+      "worthUsd": 2552426000
+    },
+    {
+      "id": "richard-sands",
+      "rank": 569,
+      "worthUsd": 2552370000
+    },
+    {
+      "id": "david-golub",
+      "rank": 570,
+      "worthUsd": 2547000000
+    },
+    {
+      "id": "eduardo-vivas",
+      "rank": 571,
+      "worthUsd": 2535859000
+    },
+    {
+      "id": "fred-ehrsam",
+      "rank": 572,
+      "worthUsd": 2532634000
+    },
+    {
+      "id": "brannin-mcbee",
+      "rank": 573,
+      "worthUsd": 2525956000
+    },
+    {
+      "id": "tom-ford-1",
+      "rank": 574,
+      "worthUsd": 2522735000
+    },
+    {
+      "id": "dwight-schar",
+      "rank": 575,
+      "worthUsd": 2505061000
+    },
+    {
+      "id": "bret-taylor",
+      "rank": 576,
+      "worthUsd": 2500000000
+    },
+    {
+      "id": "clay-bavor",
+      "rank": 577,
+      "worthUsd": 2500000000
+    },
+    {
+      "id": "henry-davis",
+      "rank": 578,
+      "worthUsd": 2499000000
+    },
+    {
+      "id": "bill-austin",
+      "rank": 579,
+      "worthUsd": 2493471000
+    },
+    {
+      "id": "jane-lauder",
+      "rank": 580,
+      "worthUsd": 2485530000
+    },
+    {
+      "id": "aman-sanger",
+      "rank": 581,
+      "worthUsd": 2481845000
+    },
+    {
+      "id": "michael-truell",
+      "rank": 582,
+      "worthUsd": 2481845000
+    },
+    {
+      "id": "michael-polsky",
+      "rank": 583,
+      "worthUsd": 2479000000
+    },
+    {
+      "id": "kenneth-feld",
+      "rank": 584,
+      "worthUsd": 2470374000
+    },
+    {
+      "id": "jim-crane",
+      "rank": 585,
+      "worthUsd": 2458594000
+    },
+    {
+      "id": "egon-durban",
+      "rank": 586,
+      "worthUsd": 2454000000
+    },
+    {
+      "id": "greg-mondre",
+      "rank": 587,
+      "worthUsd": 2454000000
+    },
+    {
+      "id": "kenneth-hao",
+      "rank": 588,
+      "worthUsd": 2454000000
+    },
+    {
+      "id": "mike-repole",
+      "rank": 589,
+      "worthUsd": 2451645000
+    },
+    {
+      "id": "barbara-tyson",
+      "rank": 590,
+      "worthUsd": 2450420000
+    },
+    {
+      "id": "scott-nuttall",
+      "rank": 591,
+      "worthUsd": 2447391000
+    },
+    {
+      "id": "riaz-valani",
+      "rank": 592,
+      "worthUsd": 2446300000
+    },
+    {
+      "id": "wesley-edens",
+      "rank": 593,
+      "worthUsd": 2443903000
+    },
+    {
+      "id": "thomas-steyer",
+      "rank": 594,
+      "worthUsd": 2436100000
+    },
+    {
+      "id": "phillip-frost",
+      "rank": 595,
+      "worthUsd": 2429149000
+    },
+    {
+      "id": "alec-gores",
+      "rank": 596,
+      "worthUsd": 2417621000
+    },
+    {
+      "id": "john-stanton",
+      "rank": 597,
+      "worthUsd": 2415451000
+    },
+    {
+      "id": "david-adelman",
+      "rank": 598,
+      "worthUsd": 2410000000
+    },
+    {
+      "id": "james-dinan",
+      "rank": 599,
+      "worthUsd": 2409000000
+    },
+    {
+      "id": "steven-witkoff",
+      "rank": 600,
+      "worthUsd": 2396213000
+    },
+    {
+      "id": "steven-schonfeld",
+      "rank": 601,
+      "worthUsd": 2377000000
+    },
+    {
+      "id": "doug-ostrover",
+      "rank": 602,
+      "worthUsd": 2375946000
+    },
+    {
+      "id": "randal-j-kirk",
+      "rank": 603,
+      "worthUsd": 2362117000
+    },
+    {
+      "id": "steve-case",
+      "rank": 604,
+      "worthUsd": 2350531000
+    },
+    {
+      "id": "joe-lacob",
+      "rank": 605,
+      "worthUsd": 2344000000
+    },
+    {
+      "id": "sheryl-sandberg",
+      "rank": 606,
+      "worthUsd": 2331816000
+    },
+    {
+      "id": "todd-wagner",
+      "rank": 607,
+      "worthUsd": 2330734000
+    },
+    {
+      "id": "sanjay-gajendra",
+      "rank": 608,
+      "worthUsd": 2330527000
+    },
+    {
+      "id": "leslie-alexander",
+      "rank": 609,
+      "worthUsd": 2329420000
+    },
+    {
+      "id": "daniel-lubetzky",
+      "rank": 610,
+      "worthUsd": 2324000000
+    },
+    {
+      "id": "edward-lampert",
+      "rank": 611,
+      "worthUsd": 2320443000
+    },
+    {
+      "id": "thomas-dundon",
+      "rank": 612,
+      "worthUsd": 2310000000
+    },
+    {
+      "id": "david-grain",
+      "rank": 613,
+      "worthUsd": 2300000000
+    },
+    {
+      "id": "jitendra-mohan",
+      "rank": 614,
+      "worthUsd": 2293468000
+    },
+    {
+      "id": "tim-draper",
+      "rank": 615,
+      "worthUsd": 2291889000
+    },
+    {
+      "id": "jerry-reinsdorf",
+      "rank": 616,
+      "worthUsd": 2290000000
+    },
+    {
+      "id": "alfred-west-jr",
+      "rank": 617,
+      "worthUsd": 2286152000
+    },
+    {
+      "id": "matthew-pritzker",
+      "rank": 618,
+      "worthUsd": 2280450000
+    },
+    {
+      "id": "jyoti-bansal",
+      "rank": 619,
+      "worthUsd": 2277000000
+    },
+    {
+      "id": "stefan-soloviev",
+      "rank": 620,
+      "worthUsd": 2274501000
+    },
+    {
+      "id": "ryan-horton",
+      "rank": 621,
+      "worthUsd": 2272969000
+    },
+    {
+      "id": "kevin-systrom",
+      "rank": 622,
+      "worthUsd": 2268159000
+    },
+    {
+      "id": "reagan-horton",
+      "rank": 623,
+      "worthUsd": 2267485000
+    },
+    {
+      "id": "matthew-roszak",
+      "rank": 624,
+      "worthUsd": 2261630000
+    },
+    {
+      "id": "leonard-abess",
+      "rank": 625,
+      "worthUsd": 2259910000
+    },
+    {
+      "id": "joseph-bae",
+      "rank": 626,
+      "worthUsd": 2256594000
+    },
+    {
+      "id": "evan-spiegel",
+      "rank": 627,
+      "worthUsd": 2253432000
+    },
+    {
+      "id": "noam-gottesman",
+      "rank": 628,
+      "worthUsd": 2246931000
+    },
+    {
+      "id": "bennett-rosenthal",
+      "rank": 629,
+      "worthUsd": 2242683000
+    },
+    {
+      "id": "irving-grousbeck",
+      "rank": 630,
+      "worthUsd": 2229000000
+    },
+    {
+      "id": "dan-wilks",
+      "rank": 631,
+      "worthUsd": 2221573000
+    },
+    {
+      "id": "jerry-speyer",
+      "rank": 632,
+      "worthUsd": 2219312000
+    },
+    {
+      "id": "howard-marks",
+      "rank": 633,
+      "worthUsd": 2215269000
+    },
+    {
+      "id": "jerry-moyes",
+      "rank": 634,
+      "worthUsd": 2214012000
+    },
+    {
+      "id": "adarsh-hiremath",
+      "rank": 635,
+      "worthUsd": 2200000000
+    },
+    {
+      "id": "brendan-foody",
+      "rank": 636,
+      "worthUsd": 2200000000
+    },
+    {
+      "id": "surya-midha",
+      "rank": 637,
+      "worthUsd": 2200000000
+    },
+    {
+      "id": "bijan-tehrani",
+      "rank": 638,
+      "worthUsd": 2197033000
+    },
+    {
+      "id": "herbert-allen-jr",
+      "rank": 639,
+      "worthUsd": 2194942000
+    },
+    {
+      "id": "linda-pritzker",
+      "rank": 640,
+      "worthUsd": 2184200000
+    },
+    {
+      "id": "max-levchin",
+      "rank": 641,
+      "worthUsd": 2178503000
+    },
+    {
+      "id": "nicholas-pritzker",
+      "rank": 642,
+      "worthUsd": 2176575000
+    },
+    {
+      "id": "marc-lasry",
+      "rank": 643,
+      "worthUsd": 2174553000
+    },
+    {
+      "id": "larry-robbins",
+      "rank": 644,
+      "worthUsd": 2164000000
+    },
+    {
+      "id": "bruce-toll",
+      "rank": 645,
+      "worthUsd": 2160050000
+    },
+    {
+      "id": "paul-saville",
+      "rank": 646,
+      "worthUsd": 2149850000
+    },
+    {
+      "id": "richard-saghian",
+      "rank": 647,
+      "worthUsd": 2149000000
+    },
+    {
+      "id": "marcelo-claure",
+      "rank": 648,
+      "worthUsd": 2145215000
+    },
+    {
+      "id": "mario-gabelli",
+      "rank": 649,
+      "worthUsd": 2143039000
+    },
+    {
+      "id": "steven-sarowitz",
+      "rank": 650,
+      "worthUsd": 2142812000
+    },
+    {
+      "id": "john-liew",
+      "rank": 651,
+      "worthUsd": 2138800000
+    },
+    {
+      "id": "walter-wang-1",
+      "rank": 652,
+      "worthUsd": 2137264000
+    },
+    {
+      "id": "timothy-springer",
+      "rank": 653,
+      "worthUsd": 2135729000
+    },
+    {
+      "id": "b-wayne-hughes-jr",
+      "rank": 654,
+      "worthUsd": 2133904000
+    },
+    {
+      "id": "laurie-tisch",
+      "rank": 655,
+      "worthUsd": 2118478000
+    },
+    {
+      "id": "steven-tisch",
+      "rank": 656,
+      "worthUsd": 2118478000
+    },
+    {
+      "id": "andres-santo-domingo",
+      "rank": 657,
+      "worthUsd": 2118191000
+    },
+    {
+      "id": "thomas-mueller",
+      "rank": 658,
+      "worthUsd": 2113128000
+    },
+    {
+      "id": "noubar-afeyan",
+      "rank": 659,
+      "worthUsd": 2112921000
+    },
+    {
+      "id": "anthony-casalena",
+      "rank": 660,
+      "worthUsd": 2102000000
+    },
+    {
+      "id": "andy-konwinski",
+      "rank": 661,
+      "worthUsd": 2100000000
+    },
+    {
+      "id": "denis-yarats",
+      "rank": 662,
+      "worthUsd": 2100000000
+    },
+    {
+      "id": "guillermo-rauch",
+      "rank": 663,
+      "worthUsd": 2100000000
+    },
+    {
+      "id": "johnny-ho",
+      "rank": 664,
+      "worthUsd": 2100000000
+    },
+    {
+      "id": "tony-xu",
+      "rank": 665,
+      "worthUsd": 2094353000
+    },
+    {
+      "id": "frank-laukien",
+      "rank": 666,
+      "worthUsd": 2094190000
+    },
+    {
+      "id": "pantas-sutardja",
+      "rank": 667,
+      "worthUsd": 2093567000
+    },
+    {
+      "id": "larry-connor",
+      "rank": 668,
+      "worthUsd": 2087939000
+    },
+    {
+      "id": "michael-arougheti",
+      "rank": 669,
+      "worthUsd": 2086727000
+    },
+    {
+      "id": "daniel-hirschfeld",
+      "rank": 670,
+      "worthUsd": 2085120000
+    },
+    {
+      "id": "david-paul",
+      "rank": 671,
+      "worthUsd": 2080538000
+    },
+    {
+      "id": "john-oyler",
+      "rank": 672,
+      "worthUsd": 2078956000
+    },
+    {
+      "id": "david-kaplan",
+      "rank": 673,
+      "worthUsd": 2060373000
+    },
+    {
+      "id": "barbara-banke-1",
+      "rank": 674,
+      "worthUsd": 2059060000
+    },
+    {
+      "id": "liesel-pritzker-simmons",
+      "rank": 675,
+      "worthUsd": 2054155000
+    },
+    {
+      "id": "shuo-wang",
+      "rank": 676,
+      "worthUsd": 2040000000
+    },
+    {
+      "id": "john-abele",
+      "rank": 677,
+      "worthUsd": 2039000000
+    },
+    {
+      "id": "tom-werner-1",
+      "rank": 678,
+      "worthUsd": 2036430000
+    },
+    {
+      "id": "raj-sardana",
+      "rank": 679,
+      "worthUsd": 2033898000
+    },
+    {
+      "id": "keith-bentley",
+      "rank": 680,
+      "worthUsd": 2031345000
+    },
+    {
+      "id": "ron-corio",
+      "rank": 681,
+      "worthUsd": 2029900000
+    },
+    {
+      "id": "stephen-orenstein",
+      "rank": 682,
+      "worthUsd": 2028987000
+    },
+    {
+      "id": "harvey-jones",
+      "rank": 683,
+      "worthUsd": 2028970000
+    },
+    {
+      "id": "farris-wilks",
+      "rank": 684,
+      "worthUsd": 2025222000
+    },
+    {
+      "id": "chad-richison",
+      "rank": 685,
+      "worthUsd": 2015247000
+    },
+    {
+      "id": "avram-glazer",
+      "rank": 686,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "bryan-glazer",
+      "rank": 687,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "darcie-glazer-kassewitz",
+      "rank": 688,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "edward-glazer",
+      "rank": 689,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "joel-glazer",
+      "rank": 690,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "kevin-glazer",
+      "rank": 691,
+      "worthUsd": 2011000000
+    },
+    {
+      "id": "bill-gross",
+      "rank": 692,
+      "worthUsd": 2009470000
+    },
+    {
+      "id": "david-walentas",
+      "rank": 693,
+      "worthUsd": 2007328000
+    },
+    {
+      "id": "taylor-swift",
+      "rank": 694,
+      "worthUsd": 2006500000
+    },
+    {
+      "id": "paul-lee-1",
+      "rank": 695,
+      "worthUsd": 2005715000
+    },
+    {
+      "id": "david-kabiller",
+      "rank": 696,
+      "worthUsd": 2004000000
+    },
+    {
+      "id": "thierry-cruanes",
+      "rank": 697,
+      "worthUsd": 2001991000
+    },
+    {
+      "id": "willis-johnson",
+      "rank": 698,
+      "worthUsd": 2001548000
+    },
+    {
+      "id": "gary-chouest",
+      "rank": 699,
+      "worthUsd": 2001045000
+    },
+    {
+      "id": "patrick-hanrahan",
+      "rank": 700,
+      "worthUsd": 2000620000
+    },
+    {
+      "id": "clark-hunt",
+      "rank": 701,
+      "worthUsd": 2000400000
+    },
+    {
+      "id": "daniel-hunt",
+      "rank": 702,
+      "worthUsd": 2000400000
+    },
+    {
+      "id": "lamar-hunt-jr",
+      "rank": 703,
+      "worthUsd": 2000400000
+    },
+    {
+      "id": "sharron-hunt",
+      "rank": 704,
+      "worthUsd": 2000400000
+    },
+    {
+      "id": "joseph-pitt-reeves-hyde-iii",
+      "rank": 705,
+      "worthUsd": 2000000000
+    },
+    {
+      "id": "david-lichtenstein",
+      "rank": 706,
+      "worthUsd": 1996614000
+    },
+    {
+      "id": "gregg-hymowitz",
+      "rank": 707,
+      "worthUsd": 1996000000
+    },
+    {
+      "id": "benoit-dageville",
+      "rank": 708,
+      "worthUsd": 1993495000
+    },
+    {
+      "id": "michael-patterson",
+      "rank": 709,
+      "worthUsd": 1990421000
+    },
+    {
+      "id": "scot-french",
+      "rank": 710,
+      "worthUsd": 1990421000
+    },
+    {
+      "id": "adam-forste",
+      "rank": 711,
+      "worthUsd": 1986197000
+    },
+    {
+      "id": "kevin-marchetti",
+      "rank": 712,
+      "worthUsd": 1986197000
+    },
+    {
+      "id": "charles-liang",
+      "rank": 713,
+      "worthUsd": 1984037000
+    },
+    {
+      "id": "joe-rogers-jr",
+      "rank": 714,
+      "worthUsd": 1984000000
+    },
+    {
+      "id": "amjad-masad",
+      "rank": 715,
+      "worthUsd": 1980000000
+    },
+    {
+      "id": "peter-sperling",
+      "rank": 716,
+      "worthUsd": 1980000000
+    },
+    {
+      "id": "amy-wyss",
+      "rank": 717,
+      "worthUsd": 1979000000
+    },
+    {
+      "id": "michael-hsing",
+      "rank": 718,
+      "worthUsd": 1974944000
+    },
+    {
+      "id": "nicholas-howley",
+      "rank": 719,
+      "worthUsd": 1973082000
+    },
+    {
+      "id": "jon-winkelried",
+      "rank": 720,
+      "worthUsd": 1973076000
+    },
+    {
+      "id": "mitchell-jacobson",
+      "rank": 721,
+      "worthUsd": 1965414000
+    },
+    {
+      "id": "j-frank-harrison-iii",
+      "rank": 722,
+      "worthUsd": 1964293000
+    },
+    {
+      "id": "geoffrey-palmer",
+      "rank": 723,
+      "worthUsd": 1952451000
+    },
+    {
+      "id": "evan-williams",
+      "rank": 724,
+      "worthUsd": 1952000000
+    },
+    {
+      "id": "william-koch",
+      "rank": 725,
+      "worthUsd": 1951000000
+    },
+    {
+      "id": "christopher-goldsbury",
+      "rank": 726,
+      "worthUsd": 1950591000
+    },
+    {
+      "id": "sue-gross",
+      "rank": 727,
+      "worthUsd": 1937372000
+    },
+    {
+      "id": "john-goff",
+      "rank": 728,
+      "worthUsd": 1909162000
+    },
+    {
+      "id": "eric-glyman",
+      "rank": 729,
+      "worthUsd": 1900000000
+    },
+    {
+      "id": "gene-lee",
+      "rank": 730,
+      "worthUsd": 1900000000
+    },
+    {
+      "id": "karim-atiyeh",
+      "rank": 731,
+      "worthUsd": 1900000000
+    },
+    {
+      "id": "marc-andreessen",
+      "rank": 732,
+      "worthUsd": 1888920000
+    },
+    {
+      "id": "kim-kardashian",
+      "rank": 733,
+      "worthUsd": 1885000000
+    },
+    {
+      "id": "robert-fisher",
+      "rank": 734,
+      "worthUsd": 1882273000
+    },
+    {
+      "id": "rick-smith",
+      "rank": 735,
+      "worthUsd": 1880736000
+    },
+    {
+      "id": "terry-taylor",
+      "rank": 736,
+      "worthUsd": 1875200000
+    },
+    {
+      "id": "itzhak-ezratti",
+      "rank": 737,
+      "worthUsd": 1872509000
+    },
+    {
+      "id": "art-levinson",
+      "rank": 738,
+      "worthUsd": 1869608000
+    },
+    {
+      "id": "ingrid-wu",
+      "rank": 739,
+      "worthUsd": 1862467000
+    },
+    {
+      "id": "jim-mckelvey",
+      "rank": 740,
+      "worthUsd": 1859827000
+    },
+    {
+      "id": "james-tisch",
+      "rank": 741,
+      "worthUsd": 1858365000
+    },
+    {
+      "id": "mark-attanasio",
+      "rank": 742,
+      "worthUsd": 1855300000
+    },
+    {
+      "id": "james-leininger",
+      "rank": 743,
+      "worthUsd": 1852041000
+    },
+    {
+      "id": "stanley-hubbard",
+      "rank": 744,
+      "worthUsd": 1851034000
+    },
+    {
+      "id": "carlie-irsay-gordon",
+      "rank": 745,
+      "worthUsd": 1848600000
+    },
+    {
+      "id": "casey-foyt",
+      "rank": 746,
+      "worthUsd": 1848600000
+    },
+    {
+      "id": "kalen-jackson",
+      "rank": 747,
+      "worthUsd": 1848600000
+    },
+    {
+      "id": "gwynne-shotwell",
+      "rank": 748,
+      "worthUsd": 1839868000
+    },
+    {
+      "id": "duncan-macmillan",
+      "rank": 749,
+      "worthUsd": 1834000000
+    },
+    {
+      "id": "henry-engelhardt",
+      "rank": 750,
+      "worthUsd": 1823872000
+    },
+    {
+      "id": "charlotte-colket-weber",
+      "rank": 751,
+      "worthUsd": 1813312000
+    },
+    {
+      "id": "trevor-burgess",
+      "rank": 752,
+      "worthUsd": 1812129000
+    },
+    {
+      "id": "jeremy-allaire",
+      "rank": 753,
+      "worthUsd": 1812032000
+    },
+    {
+      "id": "andy-fang",
+      "rank": 754,
+      "worthUsd": 1808363000
+    },
+    {
+      "id": "jack-cogen",
+      "rank": 755,
+      "worthUsd": 1805701000
+    },
+    {
+      "id": "brian-higgins",
+      "rank": 756,
+      "worthUsd": 1800000000
+    },
+    {
+      "id": "gerry-cardinale",
+      "rank": 757,
+      "worthUsd": 1800000000
+    },
+    {
+      "id": "o-francis-biondi",
+      "rank": 758,
+      "worthUsd": 1800000000
+    },
+    {
+      "id": "timothy-dunn",
+      "rank": 759,
+      "worthUsd": 1800000000
+    },
+    {
+      "id": "jb-straubel",
+      "rank": 760,
+      "worthUsd": 1798493000
+    },
+    {
+      "id": "larry-culp",
+      "rank": 761,
+      "worthUsd": 1797756000
+    },
+    {
+      "id": "andrew-feldman",
+      "rank": 762,
+      "worthUsd": 1797728000
+    },
+    {
+      "id": "walter-kortschak",
+      "rank": 763,
+      "worthUsd": 1797700000
+    },
+    {
+      "id": "george-yancopoulos",
+      "rank": 764,
+      "worthUsd": 1792787000
+    },
+    {
+      "id": "nikesh-arora",
+      "rank": 765,
+      "worthUsd": 1792658000
+    },
+    {
+      "id": "mike-speiser",
+      "rank": 766,
+      "worthUsd": 1791689000
+    },
+    {
+      "id": "lloyd-blankfein",
+      "rank": 767,
+      "worthUsd": 1781129000
+    },
+    {
+      "id": "jeff-lawson",
+      "rank": 768,
+      "worthUsd": 1776762000
+    },
+    {
+      "id": "james-france",
+      "rank": 769,
+      "worthUsd": 1771443000
+    },
+    {
+      "id": "herriot-tabuteau",
+      "rank": 770,
+      "worthUsd": 1767790000
+    },
+    {
+      "id": "timothy-boyle",
+      "rank": 771,
+      "worthUsd": 1767254000
+    },
+    {
+      "id": "gary-michelson",
+      "rank": 772,
+      "worthUsd": 1764100000
+    },
+    {
+      "id": "cargill-macmillan-iii",
+      "rank": 773,
+      "worthUsd": 1756027000
+    },
+    {
+      "id": "john-macmillan-1",
+      "rank": 774,
+      "worthUsd": 1756027000
+    },
+    {
+      "id": "martha-macmillan",
+      "rank": 775,
+      "worthUsd": 1756027000
+    },
+    {
+      "id": "william-macmillan",
+      "rank": 776,
+      "worthUsd": 1756027000
+    },
+    {
+      "id": "donald-friese",
+      "rank": 777,
+      "worthUsd": 1750000000
+    },
+    {
+      "id": "matthew-rabinowitz",
+      "rank": 778,
+      "worthUsd": 1749101000
+    },
+    {
+      "id": "olivia-holding-1",
+      "rank": 779,
+      "worthUsd": 1735124000
+    },
+    {
+      "id": "brad-keywell",
+      "rank": 780,
+      "worthUsd": 1733128000
+    },
+    {
+      "id": "james-scapa",
+      "rank": 781,
+      "worthUsd": 1732767000
+    },
+    {
+      "id": "ronald-clarke",
+      "rank": 782,
+      "worthUsd": 1727692000
+    },
+    {
+      "id": "hal-steinbrenner",
+      "rank": 783,
+      "worthUsd": 1727149000
+    },
+    {
+      "id": "jennifer-steinbrenner-swindal",
+      "rank": 784,
+      "worthUsd": 1727149000
+    },
+    {
+      "id": "jessica-steinbrenner",
+      "rank": 785,
+      "worthUsd": 1727149000
+    },
+    {
+      "id": "andrew-bialecki",
+      "rank": 786,
+      "worthUsd": 1723810000
+    },
+    {
+      "id": "gloria-joseph",
+      "rank": 787,
+      "worthUsd": 1720954000
+    },
+    {
+      "id": "william-lauder",
+      "rank": 788,
+      "worthUsd": 1706441000
+    },
+    {
+      "id": "chi-fung-cheng",
+      "rank": 789,
+      "worthUsd": 1705779000
+    },
+    {
+      "id": "marc-lipschultz",
+      "rank": 790,
+      "worthUsd": 1705075000
+    },
+    {
+      "id": "igor-tulchinsky",
+      "rank": 791,
+      "worthUsd": 1700000000
+    },
+    {
+      "id": "martine-rothblatt",
+      "rank": 792,
+      "worthUsd": 1698267000
+    },
+    {
+      "id": "barry-bentley",
+      "rank": 793,
+      "worthUsd": 1694724000
+    },
+    {
+      "id": "phil-shawe",
+      "rank": 794,
+      "worthUsd": 1680000000
+    },
+    {
+      "id": "richard-fairbank",
+      "rank": 795,
+      "worthUsd": 1678636000
+    },
+    {
+      "id": "alan-miller-1",
+      "rank": 796,
+      "worthUsd": 1677381000
+    },
+    {
+      "id": "aerin-lauder",
+      "rank": 797,
+      "worthUsd": 1672976000
+    },
+    {
+      "id": "bob-muglia",
+      "rank": 798,
+      "worthUsd": 1669742000
+    },
+    {
+      "id": "jahm-najafi",
+      "rank": 799,
+      "worthUsd": 1667000000
+    },
+    {
+      "id": "bobby-murphy",
+      "rank": 800,
+      "worthUsd": 1654832000
+    },
+    {
+      "id": "kenny-troutt",
+      "rank": 801,
+      "worthUsd": 1653205000
+    },
+    {
+      "id": "jeffrey-gundlach",
+      "rank": 802,
+      "worthUsd": 1643800000
+    },
+    {
+      "id": "vasily-shikin",
+      "rank": 803,
+      "worthUsd": 1642204000
+    },
+    {
+      "id": "anita-zucker",
+      "rank": 804,
+      "worthUsd": 1635068000
+    },
+    {
+      "id": "andrew-tisch",
+      "rank": 805,
+      "worthUsd": 1623178000
+    },
+    {
+      "id": "robert-langer",
+      "rank": 806,
+      "worthUsd": 1616652000
+    },
+    {
+      "id": "rick-workman",
+      "rank": 807,
+      "worthUsd": 1600000000
+    },
+    {
+      "id": "dean-solon",
+      "rank": 808,
+      "worthUsd": 1592000000
+    },
+    {
+      "id": "sundar-pichai",
+      "rank": 809,
+      "worthUsd": 1590190000
+    },
+    {
+      "id": "jeff-t-green",
+      "rank": 810,
+      "worthUsd": 1579455000
+    },
+    {
+      "id": "george-marcus",
+      "rank": 811,
+      "worthUsd": 1576850000
+    },
+    {
+      "id": "sidney-kimmel",
+      "rank": 812,
+      "worthUsd": 1576250000
+    },
+    {
+      "id": "ben-ashkenazy",
+      "rank": 813,
+      "worthUsd": 1570873000
+    },
+    {
+      "id": "william-fisher",
+      "rank": 814,
+      "worthUsd": 1570500000
+    },
+    {
+      "id": "zhao-jianhui",
+      "rank": 815,
+      "worthUsd": 1565552000
+    },
+    {
+      "id": "evgeny-eugene-shvidler",
+      "rank": 816,
+      "worthUsd": 1561715000
+    },
+    {
+      "id": "michael-steinhardt",
+      "rank": 817,
+      "worthUsd": 1558737000
+    },
+    {
+      "id": "kimbal-musk",
+      "rank": 818,
+      "worthUsd": 1558223000
+    },
+    {
+      "id": "nelson-peltz",
+      "rank": 819,
+      "worthUsd": 1557851000
+    },
+    {
+      "id": "bharat-desai",
+      "rank": 820,
+      "worthUsd": 1557000000
+    },
+    {
+      "id": "forrest-preston",
+      "rank": 821,
+      "worthUsd": 1554647000
+    },
+    {
+      "id": "joseph-steinberg",
+      "rank": 822,
+      "worthUsd": 1552656000
+    },
+    {
+      "id": "magic-johnson",
+      "rank": 823,
+      "worthUsd": 1551725000
+    },
+    {
+      "id": "frank-mccourt",
+      "rank": 824,
+      "worthUsd": 1548000000
+    },
+    {
+      "id": "peter-guber",
+      "rank": 825,
+      "worthUsd": 1543100000
+    },
+    {
+      "id": "dick-wolf-1",
+      "rank": 826,
+      "worthUsd": 1539000000
+    },
+    {
+      "id": "carson-brice",
+      "rank": 827,
+      "worthUsd": 1537207000
+    },
+    {
+      "id": "claire-bristow",
+      "rank": 828,
+      "worthUsd": 1536786000
+    },
+    {
+      "id": "ronald-perelman",
+      "rank": 829,
+      "worthUsd": 1530558000
+    },
+    {
+      "id": "adam-norwitt",
+      "rank": 830,
+      "worthUsd": 1529014000
+    },
+    {
+      "id": "dylan-field",
+      "rank": 831,
+      "worthUsd": 1521907000
+    },
+    {
+      "id": "george-christ",
+      "rank": 832,
+      "worthUsd": 1517138000
+    },
+    {
+      "id": "jeff-tangney",
+      "rank": 833,
+      "worthUsd": 1513630000
+    },
+    {
+      "id": "brian-roberts",
+      "rank": 834,
+      "worthUsd": 1509198000
+    },
+    {
+      "id": "michael-teel",
+      "rank": 835,
+      "worthUsd": 1506900000
+    },
+    {
+      "id": "ignacio-torras",
+      "rank": 836,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "john-morgan",
+      "rank": 837,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "peter-ludwig",
+      "rank": 838,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "qasar-younis",
+      "rank": 839,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "seth-klarman",
+      "rank": 840,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "thomas-crowley-jr",
+      "rank": 841,
+      "worthUsd": 1500000000
+    },
+    {
+      "id": "nicole-shanahan",
+      "rank": 842,
+      "worthUsd": 1499908000
+    },
+    {
+      "id": "alan-gerry",
+      "rank": 843,
+      "worthUsd": 1496400000
+    },
+    {
+      "id": "jeffrey-michael",
+      "rank": 844,
+      "worthUsd": 1496091000
+    },
+    {
+      "id": "tiger-woods",
+      "rank": 845,
+      "worthUsd": 1491000000
+    },
+    {
+      "id": "paul-fireman",
+      "rank": 846,
+      "worthUsd": 1489000000
+    },
+    {
+      "id": "stephen-winn",
+      "rank": 847,
+      "worthUsd": 1486800000
+    },
+    {
+      "id": "brian-schimpf",
+      "rank": 848,
+      "worthUsd": 1475578000
+    },
+    {
+      "id": "greg-brown",
+      "rank": 849,
+      "worthUsd": 1464678000
+    },
+    {
+      "id": "jimmy-rane",
+      "rank": 850,
+      "worthUsd": 1464000000
+    },
+    {
+      "id": "gregory-bentley",
+      "rank": 851,
+      "worthUsd": 1459619000
+    },
+    {
+      "id": "jeffrey-lorberbaum",
+      "rank": 852,
+      "worthUsd": 1459349000
+    },
+    {
+      "id": "douglas-rippel",
+      "rank": 853,
+      "worthUsd": 1454132000
+    },
+    {
+      "id": "lucy-guo",
+      "rank": 854,
+      "worthUsd": 1450400000
+    },
+    {
+      "id": "frank-holding-jr",
+      "rank": 855,
+      "worthUsd": 1432543000
+    },
+    {
+      "id": "mark-pincus",
+      "rank": 856,
+      "worthUsd": 1428120000
+    },
+    {
+      "id": "lebron-james",
+      "rank": 857,
+      "worthUsd": 1422000000
+    },
+    {
+      "id": "jared-smith-1",
+      "rank": 858,
+      "worthUsd": 1421000000
+    },
+    {
+      "id": "brad-kelley",
+      "rank": 859,
+      "worthUsd": 1417143000
+    },
+    {
+      "id": "christopher-stolte",
+      "rank": 860,
+      "worthUsd": 1414778000
+    },
+    {
+      "id": "timothy-headington",
+      "rank": 861,
+      "worthUsd": 1411711000
+    },
+    {
+      "id": "michael-cagney",
+      "rank": 862,
+      "worthUsd": 1411218000
+    },
+    {
+      "id": "daniel-calugar",
+      "rank": 863,
+      "worthUsd": 1409906000
+    },
+    {
+      "id": "gary-magness",
+      "rank": 864,
+      "worthUsd": 1407288000
+    },
+    {
+      "id": "marissa-mayer",
+      "rank": 865,
+      "worthUsd": 1407100000
+    },
+    {
+      "id": "matt-stone",
+      "rank": 866,
+      "worthUsd": 1406950000
+    },
+    {
+      "id": "trey-parker",
+      "rank": 867,
+      "worthUsd": 1406950000
+    },
+    {
+      "id": "ed-park",
+      "rank": 868,
+      "worthUsd": 1400000000
+    },
+    {
+      "id": "todd-park",
+      "rank": 869,
+      "worthUsd": 1400000000
+    },
+    {
+      "id": "niraj-shah",
+      "rank": 870,
+      "worthUsd": 1399831000
+    },
+    {
+      "id": "satya-nadella",
+      "rank": 871,
+      "worthUsd": 1398834000
+    },
+    {
+      "id": "sara-blakely",
+      "rank": 872,
+      "worthUsd": 1396190000
+    },
+    {
+      "id": "a-jayson-adair",
+      "rank": 873,
+      "worthUsd": 1384095000
+    },
+    {
+      "id": "michael-rees",
+      "rank": 874,
+      "worthUsd": 1375263000
+    },
+    {
+      "id": "steve-conine",
+      "rank": 875,
+      "worthUsd": 1374200000
+    },
+    {
+      "id": "tyler-perry",
+      "rank": 876,
+      "worthUsd": 1357100000
+    },
+    {
+      "id": "ryan-graves",
+      "rank": 877,
+      "worthUsd": 1356414000
+    },
+    {
+      "id": "ben-silbermann",
+      "rank": 878,
+      "worthUsd": 1350392000
+    },
+    {
+      "id": "tope-awotona",
+      "rank": 879,
+      "worthUsd": 1350000000
+    },
+    {
+      "id": "frederic-luddy",
+      "rank": 880,
+      "worthUsd": 1349132000
+    },
+    {
+      "id": "todd-mckinnon",
+      "rank": 881,
+      "worthUsd": 1348558000
+    },
+    {
+      "id": "larry-fink",
+      "rank": 882,
+      "worthUsd": 1346770000
+    },
+    {
+      "id": "stefan-kaluzny",
+      "rank": 883,
+      "worthUsd": 1331968000
+    },
+    {
+      "id": "jim-koch",
+      "rank": 884,
+      "worthUsd": 1323725000
+    },
+    {
+      "id": "richard-kayne",
+      "rank": 885,
+      "worthUsd": 1315000000
+    },
+    {
+      "id": "yu-de-chao",
+      "rank": 886,
+      "worthUsd": 1314471000
+    },
+    {
+      "id": "chris-wanstrath",
+      "rank": 887,
+      "worthUsd": 1310000000
+    },
+    {
+      "id": "shyam-sankar",
+      "rank": 888,
+      "worthUsd": 1309615000
+    },
+    {
+      "id": "bruce-beal-jr",
+      "rank": 889,
+      "worthUsd": 1304949000
+    },
+    {
+      "id": "steven-hao",
+      "rank": 890,
+      "worthUsd": 1300000000
+    },
+    {
+      "id": "thomas-powell",
+      "rank": 891,
+      "worthUsd": 1290814000
+    },
+    {
+      "id": "michael-krasny",
+      "rank": 892,
+      "worthUsd": 1290000000
+    },
+    {
+      "id": "bret-johnsen",
+      "rank": 893,
+      "worthUsd": 1284867000
+    },
+    {
+      "id": "thomas-bailey",
+      "rank": 894,
+      "worthUsd": 1282600000
+    },
+    {
+      "id": "j-wayne-weaver",
+      "rank": 895,
+      "worthUsd": 1278325000
+    },
+    {
+      "id": "paul-sciarra",
+      "rank": 896,
+      "worthUsd": 1266746000
+    },
+    {
+      "id": "sanjay-mehrotra",
+      "rank": 897,
+      "worthUsd": 1265409000
+    },
+    {
+      "id": "arthur-levine",
+      "rank": 898,
+      "worthUsd": 1257000000
+    },
+    {
+      "id": "lauren-leichtman",
+      "rank": 899,
+      "worthUsd": 1257000000
+    },
+    {
+      "id": "joe-kiani",
+      "rank": 900,
+      "worthUsd": 1255626000
+    },
+    {
+      "id": "stanley-tang",
+      "rank": 901,
+      "worthUsd": 1252566000
+    },
+    {
+      "id": "james-jannard",
+      "rank": 902,
+      "worthUsd": 1250000000
+    },
+    {
+      "id": "derek-stevens",
+      "rank": 903,
+      "worthUsd": 1248230000
+    },
+    {
+      "id": "nancy-lerner",
+      "rank": 904,
+      "worthUsd": 1247009000
+    },
+    {
+      "id": "christian-chabot",
+      "rank": 905,
+      "worthUsd": 1244479000
+    },
+    {
+      "id": "randolph-lerner",
+      "rank": 906,
+      "worthUsd": 1241268000
+    },
+    {
+      "id": "norma-lerner",
+      "rank": 907,
+      "worthUsd": 1239919000
+    },
+    {
+      "id": "j-christopher-flowers",
+      "rank": 908,
+      "worthUsd": 1239859000
+    },
+    {
+      "id": "ron-shaich",
+      "rank": 909,
+      "worthUsd": 1227849000
+    },
+    {
+      "id": "hartley-rogers",
+      "rank": 910,
+      "worthUsd": 1226461000
+    },
+    {
+      "id": "tony-townley",
+      "rank": 911,
+      "worthUsd": 1224802000
+    },
+    {
+      "id": "nicholas-woodman",
+      "rank": 912,
+      "worthUsd": 1223084000
+    },
+    {
+      "id": "pat-neal",
+      "rank": 913,
+      "worthUsd": 1222511000
+    },
+    {
+      "id": "gary-tharaldson",
+      "rank": 914,
+      "worthUsd": 1220100000
+    },
+    {
+      "id": "mary-alice-malone-jr",
+      "rank": 915,
+      "worthUsd": 1220050000
+    },
+    {
+      "id": "jeff-sprecher",
+      "rank": 916,
+      "worthUsd": 1215977000
+    },
+    {
+      "id": "neerja-sethi",
+      "rank": 917,
+      "worthUsd": 1213589000
+    },
+    {
+      "id": "catherine-malone",
+      "rank": 918,
+      "worthUsd": 1213140000
+    },
+    {
+      "id": "sheila-johnson",
+      "rank": 919,
+      "worthUsd": 1211984000
+    },
+    {
+      "id": "david-humphreys",
+      "rank": 920,
+      "worthUsd": 1209931000
+    },
+    {
+      "id": "sarah-humphreys-atkins",
+      "rank": 921,
+      "worthUsd": 1209931000
+    },
+    {
+      "id": "arnold-schwarzenegger",
+      "rank": 922,
+      "worthUsd": 1208129000
+    },
+    {
+      "id": "colette-kress",
+      "rank": 923,
+      "worthUsd": 1207458000
+    },
+    {
+      "id": "jean-marc-chapus",
+      "rank": 924,
+      "worthUsd": 1206500000
+    },
+    {
+      "id": "james-truchard",
+      "rank": 925,
+      "worthUsd": 1205373000
+    },
+    {
+      "id": "andrew-macmillan",
+      "rank": 926,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "anne-pedrero",
+      "rank": 927,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "christopher-macmillan",
+      "rank": 928,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "daniel-macmillan",
+      "rank": 929,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "david-macmillan",
+      "rank": 930,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "donald-macmillan",
+      "rank": 931,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "john-h-macmillan-iv-iv",
+      "rank": 932,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "kate-macmillan-reed",
+      "rank": 933,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "sandra-macmillan",
+      "rank": 934,
+      "worthUsd": 1204043000
+    },
+    {
+      "id": "zhong-peifeng-1",
+      "rank": 935,
+      "worthUsd": 1202814000
+    },
+    {
+      "id": "ken-kendrick",
+      "rank": 936,
+      "worthUsd": 1202187000
+    },
+    {
+      "id": "gina-vecchiarelli",
+      "rank": 937,
+      "worthUsd": 1191268000
+    },
+    {
+      "id": "terry-leprino",
+      "rank": 938,
+      "worthUsd": 1191268000
+    },
+    {
+      "id": "kr-sridhar",
+      "rank": 939,
+      "worthUsd": 1187462000
+    },
+    {
+      "id": "richard-teets-jr",
+      "rank": 940,
+      "worthUsd": 1180083000
+    },
+    {
+      "id": "paul-taubman",
+      "rank": 941,
+      "worthUsd": 1176929000
+    },
+    {
+      "id": "bruce-springsteen",
+      "rank": 942,
+      "worthUsd": 1174499000
+    },
+    {
+      "id": "anne-dinning",
+      "rank": 943,
+      "worthUsd": 1163436000
+    },
+    {
+      "id": "stephen-fredette",
+      "rank": 944,
+      "worthUsd": 1160375000
+    },
+    {
+      "id": "scott-smith-1",
+      "rank": 945,
+      "worthUsd": 1150000000
+    },
+    {
+      "id": "william-franke",
+      "rank": 946,
+      "worthUsd": 1146195000
+    },
+    {
+      "id": "michael-dunlap",
+      "rank": 947,
+      "worthUsd": 1139287000
+    },
+    {
+      "id": "craig-abod",
+      "rank": 948,
+      "worthUsd": 1136000000
+    },
+    {
+      "id": "joseph-baratta",
+      "rank": 949,
+      "worthUsd": 1129424000
+    },
+    {
+      "id": "albert-nahmad",
+      "rank": 950,
+      "worthUsd": 1118398000
+    },
+    {
+      "id": "michael-chae",
+      "rank": 951,
+      "worthUsd": 1118058000
+    },
+    {
+      "id": "ryan-israel",
+      "rank": 952,
+      "worthUsd": 1118000000
+    },
+    {
+      "id": "marty-horton",
+      "rank": 953,
+      "worthUsd": 1109136000
+    },
+    {
+      "id": "theresia-gouw",
+      "rank": 954,
+      "worthUsd": 1105155000
+    },
+    {
+      "id": "jerry-seinfeld",
+      "rank": 955,
+      "worthUsd": 1100000000
+    },
+    {
+      "id": "jane-goldman",
+      "rank": 956,
+      "worthUsd": 1099666000
+    },
+    {
+      "id": "joe-agresti",
+      "rank": 957,
+      "worthUsd": 1096000000
+    },
+    {
+      "id": "brooke-seawell",
+      "rank": 958,
+      "worthUsd": 1090650000
+    },
+    {
+      "id": "zhu-wei-1",
+      "rank": 959,
+      "worthUsd": 1081089000
+    },
+    {
+      "id": "michele-kang",
+      "rank": 960,
+      "worthUsd": 1070000000
+    },
+    {
+      "id": "farhad-ebrahimi",
+      "rank": 961,
+      "worthUsd": 1069321000
+    },
+    {
+      "id": "victor-fung",
+      "rank": 962,
+      "worthUsd": 1062748000
+    },
+    {
+      "id": "liu-xiucai",
+      "rank": 963,
+      "worthUsd": 1061005000
+    },
+    {
+      "id": "orion-hindawi",
+      "rank": 964,
+      "worthUsd": 1054000000
+    },
+    {
+      "id": "jeffrey-soffer",
+      "rank": 965,
+      "worthUsd": 1040734000
+    },
+    {
+      "id": "ajay-puri",
+      "rank": 966,
+      "worthUsd": 1039926000
+    },
+    {
+      "id": "beyonce-knowles-carter",
+      "rank": 967,
+      "worthUsd": 1037600000
+    },
+    {
+      "id": "dick-portillo",
+      "rank": 968,
+      "worthUsd": 1037069000
+    },
+    {
+      "id": "ric-elias",
+      "rank": 969,
+      "worthUsd": 1035700000
+    },
+    {
+      "id": "larry-silverstein",
+      "rank": 970,
+      "worthUsd": 1031335000
+    },
+    {
+      "id": "don-ahern",
+      "rank": 971,
+      "worthUsd": 1027200000
+    },
+    {
+      "id": "bill-cummings",
+      "rank": 972,
+      "worthUsd": 1026600000
+    },
+    {
+      "id": "jared-kushner",
+      "rank": 973,
+      "worthUsd": 1015647000
+    },
+    {
+      "id": "toby-neugebauer",
+      "rank": 974,
+      "worthUsd": 1011036000
+    },
+    {
+      "id": "omani-carson",
+      "rank": 975,
+      "worthUsd": 1010692000
+    },
+    {
+      "id": "mark-jones",
+      "rank": 976,
+      "worthUsd": 1010376000
+    },
+    {
+      "id": "robyn-jones",
+      "rank": 977,
+      "worthUsd": 1010376000
+    },
+    {
+      "id": "louis-bacon",
+      "rank": 978,
+      "worthUsd": 1008000000
+    },
+    {
+      "id": "zach-mcleroy",
+      "rank": 979,
+      "worthUsd": 1004100000
+    },
+    {
+      "id": "james-litinsky",
+      "rank": 980,
+      "worthUsd": 1001333000
+    },
+    {
+      "id": "axel-stawski",
+      "rank": 981,
+      "worthUsd": 1000636000
+    },
+    {
+      "id": "david-hindawi",
+      "rank": 982,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "dr-dre",
+      "rank": 983,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "richard-kurtz",
+      "rank": 984,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "rick-jackson",
+      "rank": 985,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "robert-johnson",
+      "rank": 986,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "shayne-coplan",
+      "rank": 987,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "stephen-ketchum",
+      "rank": 988,
+      "worthUsd": 1000000000
+    },
+    {
+      "id": "trae-stephens",
+      "rank": 989,
+      "worthUsd": 1000000000
+    }
+  ]
+}

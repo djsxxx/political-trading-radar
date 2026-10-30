@@ -1,0 +1,1207 @@
+{
+  "retrievedAt": "2026-10-26T04:28:13.062Z",
+  "wealthDate": "2026-10-26",
+  "scope": "State-level residence from public mirror profiles, not live location, not preference or business headquarters",
+  "people": [
+    {
+      "id": "abigail-johnson",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/abigail-johnson/info"
+    },
+    {
+      "id": "adam-foroughi",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/adam-foroughi/info"
+    },
+    {
+      "id": "alexander-karp",
+      "state": "New Hampshire",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/alexander-karp/info"
+    },
+    {
+      "id": "alice-walton",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/alice-walton/info"
+    },
+    {
+      "id": "andrew-beal",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/andrew-beal/info"
+    },
+    {
+      "id": "ann-walton-kroenke",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ann-walton-kroenke/info"
+    },
+    {
+      "id": "antonio-gracias",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/antonio-gracias/info"
+    },
+    {
+      "id": "antony-ressler",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/antony-ressler/info"
+    },
+    {
+      "id": "arthur-blank",
+      "state": "Georgia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/arthur-blank/info"
+    },
+    {
+      "id": "arthur-dantchik",
+      "state": "Pennsylvania",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/arthur-dantchik/info"
+    },
+    {
+      "id": "bill-gates",
+      "state": "Washington",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/bill-gates/info"
+    },
+    {
+      "id": "brad-jacobs",
+      "state": "Connecticut",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/brad-jacobs/info"
+    },
+    {
+      "id": "brett-adcock",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/brett-adcock/info"
+    },
+    {
+      "id": "brian-chesky",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/brian-chesky/info"
+    },
+    {
+      "id": "bruce-kovner",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/bruce-kovner/info"
+    },
+    {
+      "id": "bubba-cathy",
+      "state": "Georgia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/bubba-cathy/info"
+    },
+    {
+      "id": "carl-cook",
+      "state": "Indiana",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/carl-cook/info"
+    },
+    {
+      "id": "charles-butt",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-butt/info"
+    },
+    {
+      "id": "charles-ergen",
+      "state": "Colorado",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-ergen/info"
+    },
+    {
+      "id": "charles-koch",
+      "state": "Kansas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-koch/info"
+    },
+    {
+      "id": "charles-schwab",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-schwab/info"
+    },
+    {
+      "id": "charles-simonyi",
+      "state": "Washington",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-simonyi/info"
+    },
+    {
+      "id": "charlie-mills",
+      "state": "Illinois",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charlie-mills/info"
+    },
+    {
+      "id": "christy-walton",
+      "state": "Wyoming",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/christy-walton/info"
+    },
+    {
+      "id": "dan-cathy",
+      "state": "Georgia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dan-cathy/info"
+    },
+    {
+      "id": "dan-friedkin",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dan-friedkin/info"
+    },
+    {
+      "id": "daniel-gilbert",
+      "state": "Michigan",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/daniel-gilbert/info"
+    },
+    {
+      "id": "daniela-amodei",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/daniela-amodei/info"
+    },
+    {
+      "id": "dannine-avara",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dannine-avara/info"
+    },
+    {
+      "id": "dario-amodei",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dario-amodei/info"
+    },
+    {
+      "id": "david-duffield",
+      "state": "Nevada",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-duffield/info"
+    },
+    {
+      "id": "david-geffen",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-geffen/info"
+    },
+    {
+      "id": "david-shaw",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-shaw/info"
+    },
+    {
+      "id": "david-siegel-1",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-siegel-1/info"
+    },
+    {
+      "id": "david-steward",
+      "state": "Missouri",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-steward/info"
+    },
+    {
+      "id": "david-sun",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-sun/info"
+    },
+    {
+      "id": "david-tepper",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-tepper/info"
+    },
+    {
+      "id": "denise-york",
+      "state": "Ohio",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/denise-york/info"
+    },
+    {
+      "id": "dennis-washington",
+      "state": "Montana",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dennis-washington/info"
+    },
+    {
+      "id": "diane-hendricks",
+      "state": "Wisconsin",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/diane-hendricks/info"
+    },
+    {
+      "id": "don-hankey",
+      "state": "Nevada",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/don-hankey/info"
+    },
+    {
+      "id": "donald-bren",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/donald-bren/info"
+    },
+    {
+      "id": "douglas-leone",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/douglas-leone/info"
+    },
+    {
+      "id": "dustin-moskovitz",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dustin-moskovitz/info"
+    },
+    {
+      "id": "edward-johnson-iv",
+      "state": "Massachusetts",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/edward-johnson-iv/info"
+    },
+    {
+      "id": "edwin-chen",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/edwin-chen/info"
+    },
+    {
+      "id": "elaine-marshall",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elaine-marshall/info"
+    },
+    {
+      "id": "elisabeth-deluca",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elisabeth-deluca/info"
+    },
+    {
+      "id": "elizabeth-johnson",
+      "state": "Massachusetts",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elizabeth-johnson/info"
+    },
+    {
+      "id": "elon-musk",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elon-musk/info"
+    },
+    {
+      "id": "eric-schmidt",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/eric-schmidt/info"
+    },
+    {
+      "id": "eric-smidt",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/eric-smidt/info"
+    },
+    {
+      "id": "ernest-garcia-ii",
+      "state": "Arizona",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ernest-garcia-ii/info"
+    },
+    {
+      "id": "ernest-garcia-iii",
+      "state": "Arizona",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ernest-garcia-iii/info"
+    },
+    {
+      "id": "gabe-newell",
+      "state": "Washington",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/gabe-newell/info"
+    },
+    {
+      "id": "gayle-benson",
+      "state": "Louisiana",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/gayle-benson/info"
+    },
+    {
+      "id": "george-kaiser",
+      "state": "Oklahoma",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-kaiser/info"
+    },
+    {
+      "id": "george-kurtz",
+      "state": "Arizona",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-kurtz/info"
+    },
+    {
+      "id": "george-roberts",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-roberts/info"
+    },
+    {
+      "id": "george-soros",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-soros/info"
+    },
+    {
+      "id": "greg-brockman",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/greg-brockman/info"
+    },
+    {
+      "id": "harold-hamm",
+      "state": "Oklahoma",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/harold-hamm/info"
+    },
+    {
+      "id": "harry-stine",
+      "state": "Iowa",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/harry-stine/info"
+    },
+    {
+      "id": "henry-kravis",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/henry-kravis/info"
+    },
+    {
+      "id": "henry-nicholas-iii",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/henry-nicholas-iii/info"
+    },
+    {
+      "id": "henry-samueli",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/henry-samueli/info"
+    },
+    {
+      "id": "igor-olenicoff",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/igor-olenicoff/info"
+    },
+    {
+      "id": "israel-englander",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/israel-englander/info"
+    },
+    {
+      "id": "j-christopher-reyes",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/j-christopher-reyes/info"
+    },
+    {
+      "id": "j-joe-ricketts",
+      "state": "Wyoming",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/j-joe-ricketts/info"
+    },
+    {
+      "id": "jack-clark",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jack-clark/info"
+    },
+    {
+      "id": "jack-dangermond",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jack-dangermond/info"
+    },
+    {
+      "id": "jacqueline-mars",
+      "state": "Virginia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jacqueline-mars/info"
+    },
+    {
+      "id": "james-clark",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/james-clark/info"
+    },
+    {
+      "id": "james-goodnight",
+      "state": "North Carolina",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/james-goodnight/info"
+    },
+    {
+      "id": "jan-koum",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jan-koum/info"
+    },
+    {
+      "id": "jared-kaplan",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jared-kaplan/info"
+    },
+    {
+      "id": "jay-chaudhry",
+      "state": "Nevada",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jay-chaudhry/info"
+    },
+    {
+      "id": "jeff-bezos",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeff-bezos/info"
+    },
+    {
+      "id": "jeff-greene",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeff-greene/info"
+    },
+    {
+      "id": "jeff-yass",
+      "state": "Pennsylvania",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeff-yass/info"
+    },
+    {
+      "id": "jeffery-hildebrand",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeffery-hildebrand/info"
+    },
+    {
+      "id": "jeffrey-lurie",
+      "state": "Pennsylvania",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeffrey-lurie/info"
+    },
+    {
+      "id": "jensen-huang",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jensen-huang/info"
+    },
+    {
+      "id": "jerry-jones",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jerry-jones/info"
+    },
+    {
+      "id": "jim-walton",
+      "state": "Arkansas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jim-walton/info"
+    },
+    {
+      "id": "jimmy-haslam",
+      "state": "Tennessee",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jimmy-haslam/info"
+    },
+    {
+      "id": "joe-gebbia",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/joe-gebbia/info"
+    },
+    {
+      "id": "john-doerr",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-doerr/info"
+    },
+    {
+      "id": "john-malone",
+      "state": "Colorado",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-malone/info"
+    },
+    {
+      "id": "john-mars",
+      "state": "Wyoming",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-mars/info"
+    },
+    {
+      "id": "john-menard-jr",
+      "state": "Wisconsin",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-menard-jr/info"
+    },
+    {
+      "id": "john-morris",
+      "state": "Missouri",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-morris/info"
+    },
+    {
+      "id": "john-overdeck",
+      "state": "New Jersey",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-overdeck/info"
+    },
+    {
+      "id": "john-paulson",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-paulson/info"
+    },
+    {
+      "id": "john-tu",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-tu/info"
+    },
+    {
+      "id": "jonathan-gray",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jonathan-gray/info"
+    },
+    {
+      "id": "josh-harris",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/josh-harris/info"
+    },
+    {
+      "id": "josh-kushner",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/josh-kushner/info"
+    },
+    {
+      "id": "jude-reyes",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jude-reyes/info"
+    },
+    {
+      "id": "judy-faulkner",
+      "state": "Wisconsin",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/judy-faulkner/info"
+    },
+    {
+      "id": "julia-koch",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/julia-koch/info"
+    },
+    {
+      "id": "karen-pritzker",
+      "state": "Connecticut",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/karen-pritzker/info"
+    },
+    {
+      "id": "kelcy-warren",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/kelcy-warren/info"
+    },
+    {
+      "id": "ken-fisher",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-fisher/info"
+    },
+    {
+      "id": "ken-griffin",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-griffin/info"
+    },
+    {
+      "id": "ken-langone",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-langone/info"
+    },
+    {
+      "id": "ken-xie",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-xie/info"
+    },
+    {
+      "id": "larry-ellison",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/larry-ellison/info"
+    },
+    {
+      "id": "larry-page",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/larry-page/info"
+    },
+    {
+      "id": "laurene-powell-jobs",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/laurene-powell-jobs/info"
+    },
+    {
+      "id": "len-blavatnik",
+      "state": null,
+      "status": "outside_us",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/len-blavatnik/info"
+    },
+    {
+      "id": "leo-koguan",
+      "state": null,
+      "status": "outside_us",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/leo-koguan/info"
+    },
+    {
+      "id": "leon-black",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/leon-black/info"
+    },
+    {
+      "id": "leonard-stern",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/leonard-stern/info"
+    },
+    {
+      "id": "les-wexner",
+      "state": "Ohio",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/les-wexner/info"
+    },
+    {
+      "id": "li-ge",
+      "state": null,
+      "status": "outside_us",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/li-ge/info"
+    },
+    {
+      "id": "lin-bin",
+      "state": null,
+      "status": "outside_us",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/lin-bin/info"
+    },
+    {
+      "id": "lukas-walton",
+      "state": "Illinois",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/lukas-walton/info"
+    },
+    {
+      "id": "lyndal-stephens-greth",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/lyndal-stephens-greth/info"
+    },
+    {
+      "id": "mackenzie-scott",
+      "state": "Washington",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/mackenzie-scott/info"
+    },
+    {
+      "id": "marc-benioff",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/marc-benioff/info"
+    },
+    {
+      "id": "marijke-mars",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/marijke-mars/info"
+    },
+    {
+      "id": "marilyn-simons",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/marilyn-simons/info"
+    },
+    {
+      "id": "mark-stevens",
+      "state": "Colorado",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/mark-stevens/info"
+    },
+    {
+      "id": "mark-zuckerberg",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/mark-zuckerberg/info"
+    },
+    {
+      "id": "matthew-prince",
+      "state": "Utah",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/matthew-prince/info"
+    },
+    {
+      "id": "melinda-french-gates",
+      "state": "Washington",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/melinda-french-gates/info"
+    },
+    {
+      "id": "michael-bloomberg",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-bloomberg/info"
+    },
+    {
+      "id": "michael-dell",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-dell/info"
+    },
+    {
+      "id": "michael-dorrell",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-dorrell/info"
+    },
+    {
+      "id": "michael-milken",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-milken/info"
+    },
+    {
+      "id": "michael-rubin",
+      "state": "Pennsylvania",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-rubin/info"
+    },
+    {
+      "id": "michael-sabel",
+      "state": "District of Columbia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-sabel/info"
+    },
+    {
+      "id": "michael-xie",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-xie/info"
+    },
+    {
+      "id": "micky-arison",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/micky-arison/info"
+    },
+    {
+      "id": "milane-frantz",
+      "state": "Texas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/milane-frantz/info"
+    },
+    {
+      "id": "min-kao",
+      "state": "Kansas",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/min-kao/info"
+    },
+    {
+      "id": "miriam-adelson",
+      "state": "Nevada",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/miriam-adelson/info"
+    },
+    {
+      "id": "nancy-walton-laurie",
+      "state": "Nevada",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/nancy-walton-laurie/info"
+    },
+    {
+      "id": "nathan-blecharczyk",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/nathan-blecharczyk/info"
+    },
+    {
+      "id": "neil-bluhm",
+      "state": "Illinois",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/neil-bluhm/info"
+    },
+    {
+      "id": "orlando-bravo",
+      "state": "Florida",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/orlando-bravo/info"
+    },
+    {
+      "id": "pamela-mars",
+      "state": "Virginia",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/pamela-mars/info"
+    },
+    {
+      "id": "patrick-ryan",
+      "state": "Illinois",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/patrick-ryan/info"
+    },
+    {
+      "id": "patrick-soon-shiong",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/patrick-soon-shiong/info"
+    },
+    {
+      "id": "peter-mallouk",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/peter-mallouk/info"
+    },
+    {
+      "id": "peter-thiel",
+      "state": "California",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/peter-thiel/info"
+    },
+    {
+      "id": "phil-knight",
+      "state": "Oregon",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/phil-knight/info"
+    },
+    {
+      "id": "philip-anschutz",
+      "state": "Colorado",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/philip-anschutz/info"
+    },
+    {
+      "id": "philippe-laffont",
+      "state": "New York",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/philippe-laffont/info"
+    },
+    {
+      "id": "pierre-omidyar",
+      "state": "Hawaii",
+      "status": "reported",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/pierre-omidyar/info"
+    },
+    {
+      "id": "ralph-lauren",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ralph-lauren/info"
+    },
+    {
+      "id": "ramzi-musallam",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ramzi-musallam/info"
+    },
+    {
+      "id": "randa-duncan-williams",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/randa-duncan-williams/info"
+    },
+    {
+      "id": "ray-dalio",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ray-dalio/info"
+    },
+    {
+      "id": "richard-kinder",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/richard-kinder/info"
+    },
+    {
+      "id": "rick-cohen",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rick-cohen/info"
+    },
+    {
+      "id": "rob-walton",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rob-walton/info"
+    },
+    {
+      "id": "robert-duggan",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-duggan/info"
+    },
+    {
+      "id": "robert-f-smith",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-f-smith/info"
+    },
+    {
+      "id": "robert-kraft",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-kraft/info"
+    },
+    {
+      "id": "robert-pender",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-pender/info"
+    },
+    {
+      "id": "robert-pera",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-pera/info"
+    },
+    {
+      "id": "robert-rowling",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-rowling/info"
+    },
+    {
+      "id": "roger-penske",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/roger-penske/info"
+    },
+    {
+      "id": "ron-baron",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ron-baron/info"
+    },
+    {
+      "id": "rupert-murdoch",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rupert-murdoch/info"
+    },
+    {
+      "id": "sam-mccandlish",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/sam-mccandlish/info"
+    },
+    {
+      "id": "sami-mnaymneh",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/sami-mnaymneh/info"
+    },
+    {
+      "id": "scott-duncan",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/scott-duncan/info"
+    },
+    {
+      "id": "sergey-brin",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/sergey-brin/info"
+    },
+    {
+      "id": "shahid-khan",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/shahid-khan/info"
+    },
+    {
+      "id": "stanley-druckenmiller",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stanley-druckenmiller/info"
+    },
+    {
+      "id": "stanley-kroenke",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stanley-kroenke/info"
+    },
+    {
+      "id": "stephen-bisciotti",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stephen-bisciotti/info"
+    },
+    {
+      "id": "stephen-ross",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stephen-ross/info"
+    },
+    {
+      "id": "stephen-schwarzman",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stephen-schwarzman/info"
+    },
+    {
+      "id": "steve-ballmer",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/steve-ballmer/info"
+    },
+    {
+      "id": "steve-cohen",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/steve-cohen/info"
+    },
+    {
+      "id": "steven-rales",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/steven-rales/info"
+    },
+    {
+      "id": "tamara-gustavson",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tamara-gustavson/info"
+    },
+    {
+      "id": "tench-coxe",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tench-coxe/info"
+    },
+    {
+      "id": "terrence-pegula",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/terrence-pegula/info"
+    },
+    {
+      "id": "thomas-frist-jr",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/thomas-frist-jr/info"
+    },
+    {
+      "id": "thomas-peterffy",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/thomas-peterffy/info"
+    },
+    {
+      "id": "tilman-fertitta",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tilman-fertitta/info"
+    },
+    {
+      "id": "todd-boehly",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/todd-boehly/info"
+    },
+    {
+      "id": "todd-graves",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/todd-graves/info"
+    },
+    {
+      "id": "tom-brown",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tom-brown/info"
+    },
+    {
+      "id": "tom-gores",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tom-gores/info"
+    },
+    {
+      "id": "tony-tamer",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tony-tamer/info"
+    },
+    {
+      "id": "trudy-cathy-white",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/trudy-cathy-white/info"
+    },
+    {
+      "id": "ty-warner",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ty-warner/info"
+    },
+    {
+      "id": "valerie-mars",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/valerie-mars/info"
+    },
+    {
+      "id": "victoria-mars",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/victoria-mars/info"
+    },
+    {
+      "id": "vinod-khosla",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/vinod-khosla/info"
+    },
+    {
+      "id": "warren-buffett",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/warren-buffett/info"
+    },
+    {
+      "id": "william-ackman",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/william-ackman/info"
+    },
+    {
+      "id": "william-goldring",
+      "state": null,
+      "status": "missing",
+      "source": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/william-goldring/info"
+    }
+  ]
+}

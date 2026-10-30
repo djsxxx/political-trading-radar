@@ -1,0 +1,2083 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "retrievedAt": "2026-10-26T04:15:26.798Z",
+  "scope": "Forbes citizenship us; first 100 by estimated net worth",
+  "source": "https://www.forbes.com/real-time-billionaires/",
+  "mirror": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/list/rtb/2026-10-26",
+  "mirrorProject": "https://github.com/komed3/rtb-api",
+  "unit": "USD",
+  "inputUnit": "million USD",
+  "politicalEvidenceStatus": "not_collected",
+  "people": [
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "rank": 1,
+      "globalRank": 1,
+      "worthUsd": 922912702000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+      "organization": {
+        "name": "Tesla",
+        "title": "CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/elon-musk/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elon-musk/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "rank": 2,
+      "globalRank": 2,
+      "worthUsd": 368077851000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/67531eb2b5f7c9e191f632d7/416x416.jpg?background=000000&cropX1=316&cropX2=1027&cropY1=125&cropY2=838",
+      "organization": {
+        "name": "Amazon",
+        "title": "Chairman and Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jeff-bezos/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeff-bezos/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "larry-page",
+      "name": "Larry Page",
+      "rank": 3,
+      "globalRank": 3,
+      "worthUsd": 263725093000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+      "organization": {
+        "name": "Alphabet",
+        "title": "Cofounder and board member"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/larry-page/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/larry-page/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "sergey-brin",
+      "name": "Sergey Brin",
+      "rank": 4,
+      "globalRank": 4,
+      "worthUsd": 242735891000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+      "organization": {
+        "name": "Alphabet",
+        "title": "Cofounder and board member"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/sergey-brin/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/sergey-brin/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "michael-dell",
+      "name": "Michael Dell",
+      "rank": 5,
+      "globalRank": 5,
+      "worthUsd": 237179615000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Dell Technologies"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/615c93f9da61f2ff5b9ecf9b/416x416.jpg?background=000000&cropX1=0&cropX2=1678&cropY1=118&cropY2=1797",
+      "organization": {
+        "name": "Dell Technologies",
+        "title": "Chairman and CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/michael-dell/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-dell/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "rank": 6,
+      "globalRank": 6,
+      "worthUsd": 220730728000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Facebook"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401",
+      "organization": {
+        "name": "Meta Platforms",
+        "title": "Cofounder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/mark-zuckerberg/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/mark-zuckerberg/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "rank": 7,
+      "globalRank": 7,
+      "worthUsd": 182876741000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "NVIDIA",
+        "title": "CEO & President"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jensen-huang/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jensen-huang/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "larry-ellison",
+      "name": "Larry Ellison",
+      "rank": 8,
+      "globalRank": 8,
+      "worthUsd": 166085102000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Oracle"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+      "organization": {
+        "name": "Oracle",
+        "title": "CTO and Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/larry-ellison/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/larry-ellison/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "steve-ballmer",
+      "name": "Steve Ballmer",
+      "rank": 9,
+      "globalRank": 9,
+      "worthUsd": 162349965000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708",
+      "organization": {
+        "name": "Los Angeles Clippers",
+        "title": "Owner"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/steve-ballmer/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/steve-ballmer/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "warren-buffett",
+      "name": "Warren Buffett",
+      "rank": 10,
+      "globalRank": 10,
+      "worthUsd": 154047933000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Berkshire Hathaway"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+      "organization": {
+        "name": "Berkshire Hathaway Inc. (Cl A)",
+        "title": "CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/warren-buffett/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/warren-buffett/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "rob-walton",
+      "name": "Rob Walton & family",
+      "rank": 11,
+      "globalRank": 12,
+      "worthUsd": 143100396000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/59d50a9e4bbe6f37dd9ff712/416x416.jpg?background=000000&cropX1=244&cropX2=1841&cropY1=60&cropY2=1658",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/rob-walton/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rob-walton/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jim-walton",
+      "name": "Jim Walton & family",
+      "rank": 12,
+      "globalRank": 13,
+      "worthUsd": 139884523000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c7ef2fea7ea434b351bca5a/416x416.jpg?background=000000&cropX1=49&cropX2=934&cropY1=65&cropY2=951",
+      "organization": {
+        "name": "Arvest Bank Group, Inc.",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jim-walton/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jim-walton/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "alice-walton",
+      "name": "Alice Walton",
+      "rank": 13,
+      "globalRank": 14,
+      "worthUsd": 129437576000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c7ef270a7ea434b351bca52/416x416.jpg?background=000000&cropX1=232&cropX2=998&cropY1=222&cropY2=988",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/alice-walton/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/alice-walton/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "bill-gates",
+      "name": "Bill Gates",
+      "rank": 14,
+      "globalRank": 16,
+      "worthUsd": 118975360000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/62d599ede3ff49f348f9b9b4/416x416.jpg?background=000000&cropX1=155&cropX2=976&cropY1=340&cropY2=1161",
+      "organization": {
+        "name": "The Gates Foundation",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/bill-gates/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/bill-gates/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "michael-bloomberg",
+      "name": "Michael Bloomberg",
+      "rank": 15,
+      "globalRank": 20,
+      "worthUsd": 94920000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Bloomberg LP"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c76b4104bbe6f24ad99c35d/416x416.jpg?background=000000&cropX1=165&cropX2=5613&cropY1=321&cropY2=5769",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/michael-bloomberg/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-bloomberg/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "thomas-peterffy",
+      "name": "Thomas Peterffy",
+      "rank": 16,
+      "globalRank": 21,
+      "worthUsd": 93654494000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Discount brokerage"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a5c6218444200084e6532/416x416.jpg?background=000000&cropX1=466&cropX2=1132&cropY1=297&cropY2=962",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/thomas-peterffy/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/thomas-peterffy/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "julia-koch",
+      "name": "Julia Koch & family",
+      "rank": 17,
+      "globalRank": 23,
+      "worthUsd": 84627000000,
+      "industry": [
+        "diversified"
+      ],
+      "companies": [
+        "Koch",
+        "Inc."
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/julia-koch/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/julia-koch/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jeff-yass",
+      "name": "Jeff Yass",
+      "rank": 18,
+      "globalRank": 26,
+      "worthUsd": 77790000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Trading",
+        "investments"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jeff-yass/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeff-yass/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "charles-koch",
+      "name": "Charles Koch & family",
+      "rank": 19,
+      "globalRank": 27,
+      "worthUsd": 76942000000,
+      "industry": [
+        "diversified"
+      ],
+      "companies": [
+        "Koch",
+        "Inc."
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/615c94bd2aac2936a52682d1/416x416.jpg?background=000000&cropX1=286&cropX2=848&cropY1=110&cropY2=672",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/charles-koch/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-koch/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ken-griffin",
+      "name": "Ken Griffin",
+      "rank": 20,
+      "globalRank": 33,
+      "worthUsd": 57070033000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/6247575a5af6af682d503f2f/416x416.jpg?background=000000&cropX1=0&cropX2=1966&cropY1=0&cropY2=1966",
+      "organization": {
+        "name": "Citadel LLC",
+        "title": "Founder & CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ken-griffin/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-griffin/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jacqueline-mars",
+      "name": "Jacqueline Mars",
+      "rank": 21,
+      "globalRank": 36,
+      "worthUsd": 50348000000,
+      "industry": [
+        "food & beverage"
+      ],
+      "companies": [
+        "Candy",
+        "pet food"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/59d50d06a7ea436b47b36d84/416x416.jpg?background=000000&cropX1=147&cropX2=1649&cropY1=377&cropY2=1879",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jacqueline-mars/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jacqueline-mars/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "john-mars",
+      "name": "John Mars",
+      "rank": 22,
+      "globalRank": 37,
+      "worthUsd": 50348000000,
+      "industry": [
+        "food & beverage"
+      ],
+      "companies": [
+        "Candy",
+        "pet food"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/john-mars/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-mars/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "lukas-walton",
+      "name": "Lukas Walton",
+      "rank": 23,
+      "globalRank": 39,
+      "worthUsd": 48023467000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart "
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/lukas-walton/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/lukas-walton/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "stephen-schwarzman",
+      "name": "Stephen Schwarzman",
+      "rank": 24,
+      "globalRank": 46,
+      "worthUsd": 41953602000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Investments"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d89f4d318444200084e5265/416x416.jpg?background=000000&cropX1=1911&cropX2=5305&cropY1=26&cropY2=3418",
+      "organization": {
+        "name": "Blackstone",
+        "title": "Chairman and CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/stephen-schwarzman/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stephen-schwarzman/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "abigail-johnson",
+      "name": "Abigail Johnson",
+      "rank": 25,
+      "globalRank": 47,
+      "worthUsd": 41635256000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Fidelity"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/6333a5b13de1fff2da377afb/416x416.jpg?background=000000&cropX1=0&cropX2=1077&cropY1=3&cropY2=1080",
+      "organization": {
+        "name": "Fidelity Investments",
+        "title": "Chairman & CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/abigail-johnson/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/abigail-johnson/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "thomas-frist-jr",
+      "name": "Thomas Frist Jr & family",
+      "rank": 26,
+      "globalRank": 54,
+      "worthUsd": 38120603000,
+      "industry": [
+        "healthcare"
+      ],
+      "companies": [
+        "Hospitals"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/ee825ff539047091cda533423b10d65b/416x416.jpg?background=000000&cropX1=16&cropX2=947&cropY1=153&cropY2=1084",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/thomas-frist-jr/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/thomas-frist-jr/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "peter-thiel",
+      "name": "Peter Thiel",
+      "rank": 27,
+      "globalRank": 58,
+      "worthUsd": 37551185000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Facebook",
+        "investments"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5a836fff31358e4955ad6549/416x416.jpg?background=000000&cropX1=234&cropX2=790&cropY1=7&cropY2=563",
+      "organization": {
+        "name": "Founders Fund",
+        "title": "Investor"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/peter-thiel/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/peter-thiel/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "marilyn-simons",
+      "name": "Marilyn Simons & family",
+      "rank": 28,
+      "globalRank": 61,
+      "worthUsd": 36573100000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/marilyn-simons/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/marilyn-simons/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "eric-schmidt",
+      "name": "Eric Schmidt",
+      "rank": 29,
+      "globalRank": 63,
+      "worthUsd": 36276771000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5f4526a6f048a75b8e14e6b2/416x416.jpg?background=000000&cropX1=0&cropX2=3235&cropY1=381&cropY2=3615",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/eric-schmidt/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/eric-schmidt/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "len-blavatnik",
+      "name": "Len Blavatnik",
+      "rank": 30,
+      "globalRank": 65,
+      "worthUsd": 35264924000,
+      "industry": [
+        "diversified"
+      ],
+      "companies": [
+        "Music",
+        "chemicals"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c745d7b4bbe6f072958dac9/416x416.jpg?background=000000&cropX1=473&cropX2=2103&cropY1=123&cropY2=1753",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/len-blavatnik/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/len-blavatnik/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "melinda-french-gates",
+      "name": "Melinda French Gates",
+      "rank": 31,
+      "globalRank": 68,
+      "worthUsd": 34343553000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Pivotal Philanthropies Foundation",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/melinda-french-gates/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/melinda-french-gates/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "elaine-marshall",
+      "name": "Elaine Marshall & family",
+      "rank": 32,
+      "globalRank": 69,
+      "worthUsd": 32239000000,
+      "industry": [
+        "diversified"
+      ],
+      "companies": [
+        "Koch",
+        "Inc."
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/elaine-marshall/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elaine-marshall/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "henry-samueli",
+      "name": "Henry Samueli",
+      "rank": 33,
+      "globalRank": 71,
+      "worthUsd": 30796388000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Semiconductors"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8aa0fd6de3150009a5030b/416x416.jpg?background=000000&cropX1=376&cropX2=1438&cropY1=38&cropY2=1100",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/henry-samueli/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/henry-samueli/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "lyndal-stephens-greth",
+      "name": "Lyndal Stephens Greth & family",
+      "rank": 34,
+      "globalRank": 72,
+      "worthUsd": 30488813000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "Oil & gas"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/lyndal-stephens-greth/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/lyndal-stephens-greth/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "miriam-adelson",
+      "name": "Miriam Adelson & family",
+      "rank": 35,
+      "globalRank": 73,
+      "worthUsd": 30127806000,
+      "industry": [
+        "gambling & casinos"
+      ],
+      "companies": [
+        "Casinos"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/miriam-adelson/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/miriam-adelson/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "robert-pera",
+      "name": "Robert Pera",
+      "rank": 36,
+      "globalRank": 75,
+      "worthUsd": 29624850000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Wireless networking"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5f1f2df0e0da1e7313d9879a/416x416.jpg?background=000000&cropX1=217&cropX2=1125&cropY1=71&cropY2=980",
+      "organization": {
+        "name": "Ubiquiti",
+        "title": "Chief Executive Officer"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/robert-pera/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-pera/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "david-tepper",
+      "name": "David Tepper",
+      "rank": 37,
+      "globalRank": 79,
+      "worthUsd": 28504000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5f4e9ddf5539e4341ae861af/416x416.jpg?background=000000&cropX1=1423&cropX2=4003&cropY1=121&cropY2=2699",
+      "organization": {
+        "name": "Appaloosa Management",
+        "title": "President and Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/david-tepper/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-tepper/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "john-tu",
+      "name": "John Tu",
+      "rank": 38,
+      "globalRank": 82,
+      "worthUsd": 27885545000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Computer hardware"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/a8e97df48d0b22d58aa783577ec6c714/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=63&cropY2=804",
+      "organization": {
+        "name": "Kingston Technology Corporation",
+        "title": "President"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/john-tu/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-tu/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "david-sun",
+      "name": "David Sun",
+      "rank": 39,
+      "globalRank": 83,
+      "worthUsd": 27865067000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Computer hardware"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/56dbf33ff9a34972aa0637c95ea9c36b/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=85&cropY2=829",
+      "organization": {
+        "name": "Kingston Technology Corporation",
+        "title": "COO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/david-sun/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/david-sun/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "stanley-kroenke",
+      "name": "Stanley Kroenke",
+      "rank": 40,
+      "globalRank": 85,
+      "worthUsd": 27588800000,
+      "industry": [
+        "sports"
+      ],
+      "companies": [
+        "Sports",
+        "real estate"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a620422254b0008e15a49/416x416.jpg?background=000000&cropX1=401&cropX2=2960&cropY1=0&cropY2=2557",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/stanley-kroenke/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stanley-kroenke/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "israel-englander",
+      "name": "Israel Englander",
+      "rank": 41,
+      "globalRank": 87,
+      "worthUsd": 27555932000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a74d16de3150009a4fafc/416x416.jpg?background=000000&cropX1=0&cropX2=770&cropY1=122&cropY2=892",
+      "organization": {
+        "name": "Millennium Management, L.L.C.",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/israel-englander/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/israel-englander/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "mackenzie-scott",
+      "name": "MacKenzie Scott",
+      "rank": 42,
+      "globalRank": 88,
+      "worthUsd": 27195190000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Yield Giving",
+        "title": "Philanthropist"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/mackenzie-scott/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/mackenzie-scott/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "steve-cohen",
+      "name": "Steve Cohen",
+      "rank": 43,
+      "globalRank": 89,
+      "worthUsd": 26668690000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5a8d946e4bbe6f2652f61ca6/416x416.jpg?background=000000&cropX1=703&cropX2=3292&cropY1=80&cropY2=2667",
+      "organization": {
+        "name": "Point72 Asset Management",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/steve-cohen/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/steve-cohen/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "greg-brockman",
+      "name": "Greg Brockman",
+      "rank": 44,
+      "globalRank": 94,
+      "worthUsd": 25486000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/greg-brockman/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/greg-brockman/info",
+      "profileAvailable": false
+    },
+    {
+      "id": "phil-knight",
+      "name": "Phil Knight & family",
+      "rank": 45,
+      "globalRank": 95,
+      "worthUsd": 25480928000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Nike"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/6488d5874961598251b12f50/416x416.jpg?background=000000&cropX1=598&cropX2=3344&cropY1=0&cropY2=2747",
+      "organization": {
+        "name": "Nike",
+        "title": "Cofounder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/phil-knight/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/phil-knight/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "rupert-murdoch",
+      "name": "Rupert Murdoch & family",
+      "rank": 46,
+      "globalRank": 96,
+      "worthUsd": 25423507000,
+      "industry": [
+        "media & entertainment"
+      ],
+      "companies": [
+        "Newspapers",
+        "TV network"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/6067bf2f800a3f1324d4c89c/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+      "organization": {
+        "name": "News Corp",
+        "title": "Chairman and CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/rupert-murdoch/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rupert-murdoch/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "christy-walton",
+      "name": "Christy Walton",
+      "rank": 47,
+      "globalRank": 105,
+      "worthUsd": 23759658000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/f12075ee278b0ce676c90b51cc5e60d6/416x416.jpg?background=000000&cropX1=13&cropX2=744&cropY1=29&cropY2=761",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/christy-walton/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/christy-walton/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "diane-hendricks",
+      "name": "Diane Hendricks",
+      "rank": 48,
+      "globalRank": 108,
+      "worthUsd": 23578200000,
+      "industry": [
+        "construction & engineering"
+      ],
+      "companies": [
+        "Building supplies"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/64a853a98e6fe5954491cf23/416x416.jpg?background=000000&cropX1=319&cropX2=1470&cropY1=22&cropY2=1174",
+      "organization": {
+        "name": "ABC Supply",
+        "title": "Cofounder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/diane-hendricks/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/diane-hendricks/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "brett-adcock",
+      "name": "Brett Adcock",
+      "rank": 49,
+      "globalRank": 110,
+      "worthUsd": 23383106000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Robots"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Figure AI",
+        "title": "CEO & founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/brett-adcock/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/brett-adcock/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jerry-jones",
+      "name": "Jerry Jones & family",
+      "rank": 50,
+      "globalRank": 111,
+      "worthUsd": 23256670000,
+      "industry": [
+        "sports"
+      ],
+      "companies": [
+        "Dallas Cowboys"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a639e6de3150009a4f883/416x416.jpg?background=000000&cropX1=943&cropX2=2577&cropY1=0&cropY2=1633",
+      "organization": {
+        "name": "Dallas Cowboys",
+        "title": "President and General Manager"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jerry-jones/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jerry-jones/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "john-doerr",
+      "name": "John Doerr",
+      "rank": 51,
+      "globalRank": 119,
+      "worthUsd": 21616375000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Venture capital"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c9d17e74bbe6f277fd241e6/416x416.jpg?background=000000&cropX1=151&cropX2=1830&cropY1=6&cropY2=1685",
+      "organization": {
+        "name": "Kleiner Perkins",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/john-doerr/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-doerr/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "stephen-ross",
+      "name": "Stephen Ross",
+      "rank": 52,
+      "globalRank": 120,
+      "worthUsd": 21508715000,
+      "industry": [
+        "real estate"
+      ],
+      "companies": [
+        "Real estate"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/6155d324dc08886dde5040d8/416x416.jpg?background=000000&cropX1=811&cropX2=2999&cropY1=83&cropY2=2268",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/stephen-ross/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/stephen-ross/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "alexander-karp",
+      "name": "Alexander Karp",
+      "rank": 53,
+      "globalRank": 123,
+      "worthUsd": 20946307000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Software firm"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/67604f9532a49a6580ba2826/416x416.jpg?background=000000&cropX1=137&cropX2=1882&cropY1=132&cropY2=1875",
+      "organization": {
+        "name": "Palantir Technologies",
+        "title": "Cofounder and CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/alexander-karp/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/alexander-karp/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ernest-garcia-ii",
+      "name": "Ernest Garcia II",
+      "rank": 54,
+      "globalRank": 126,
+      "worthUsd": 20747952000,
+      "industry": [
+        "automotive"
+      ],
+      "companies": [
+        "Used cars"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ernest-garcia-ii/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ernest-garcia-ii/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "henry-nicholas-iii",
+      "name": "Henry Nicholas III",
+      "rank": 55,
+      "globalRank": 129,
+      "worthUsd": 20586495000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Semiconductors"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5f49795b4ab4bd09fe628b58/416x416.jpg?background=000000&cropX1=208&cropX2=1476&cropY1=88&cropY2=1355",
+      "organization": {
+        "name": "Broadcom",
+        "title": "Cofounder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/henry-nicholas-iii/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/henry-nicholas-iii/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "rick-cohen",
+      "name": "Rick Cohen & family",
+      "rank": 56,
+      "globalRank": 130,
+      "worthUsd": 20436691000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Warehouse automation"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/rick-cohen/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/rick-cohen/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "daniel-gilbert",
+      "name": "Daniel Gilbert",
+      "rank": 57,
+      "globalRank": 133,
+      "worthUsd": 20226579000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Rocket Mortgage"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5e444fcb112160000621ed4c/416x416.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=307&cropY2=2307",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/daniel-gilbert/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/daniel-gilbert/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "todd-graves",
+      "name": "Todd Graves",
+      "rank": 58,
+      "globalRank": 134,
+      "worthUsd": 19951000000,
+      "industry": [
+        "food & beverage"
+      ],
+      "companies": [
+        "Fast food"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/todd-graves/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/todd-graves/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "donald-bren",
+      "name": "Donald Bren",
+      "rank": 59,
+      "globalRank": 135,
+      "worthUsd": 19797499000,
+      "industry": [
+        "real estate"
+      ],
+      "companies": [
+        "Real estate"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d9b6d9867dd830006a2db41/416x416.jpg?background=000000&cropX1=513&cropX2=1983&cropY1=80&cropY2=1551",
+      "organization": {
+        "name": "Irvine Company",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/donald-bren/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/donald-bren/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "arthur-dantchik",
+      "name": "Arthur Dantchik",
+      "rank": 60,
+      "globalRank": 137,
+      "worthUsd": 19477000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Trading",
+        "investments"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/arthur-dantchik/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/arthur-dantchik/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "philip-anschutz",
+      "name": "Philip Anschutz",
+      "rank": 61,
+      "globalRank": 139,
+      "worthUsd": 19300000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Energy",
+        "sports",
+        "entertainment"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5efa16915f1126000639e990/416x416.jpg?background=000000&cropX1=522&cropX2=4000&cropY1=840&cropY2=4320",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/philip-anschutz/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/philip-anschutz/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "nancy-walton-laurie",
+      "name": "Nancy Walton Laurie",
+      "rank": 62,
+      "globalRank": 142,
+      "worthUsd": 19038201000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/669e75a291732d69b35c2ab2/416x416.jpg?background=000000&cropX1=0&cropX2=370&cropY1=21&cropY2=392",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/nancy-walton-laurie/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/nancy-walton-laurie/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "harold-hamm",
+      "name": "Harold Hamm & family",
+      "rank": 63,
+      "globalRank": 143,
+      "worthUsd": 19000000000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "Oil & gas"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a634322254b0008e15a64/416x416.jpg?background=000000&cropX1=880&cropX2=1549&cropY1=0&cropY2=668",
+      "organization": {
+        "name": "Continental Resources",
+        "title": "Founder and Chairman Emeritus"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/harold-hamm/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/harold-hamm/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ray-dalio",
+      "name": "Ray Dalio",
+      "rank": 64,
+      "globalRank": 145,
+      "worthUsd": 18894528000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Hedge funds"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5ac959f74bbe6f2310f1e05c/416x416.jpg?background=000000&cropX1=657&cropX2=3206&cropY1=80&cropY2=2627",
+      "organization": {
+        "name": "Bridgewater Associates",
+        "title": "Founder & CIO Mentor"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ray-dalio/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ray-dalio/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jan-koum",
+      "name": "Jan Koum",
+      "rank": 65,
+      "globalRank": 148,
+      "worthUsd": 18572655000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "WhatsApp"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a61aa22254b0008e15a3f/416x416.jpg?background=000000&cropX1=46&cropX2=1310&cropY1=63&cropY2=1329",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jan-koum/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jan-koum/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "edwin-chen",
+      "name": "Edwin Chen",
+      "rank": 66,
+      "globalRank": 152,
+      "worthUsd": 18000000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/edwin-chen/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/edwin-chen/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "eric-smidt",
+      "name": "Eric Smidt",
+      "rank": 67,
+      "globalRank": 154,
+      "worthUsd": 17755500000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Hardware stores"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/eric-smidt/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/eric-smidt/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "antonio-gracias",
+      "name": "Antonio Gracias",
+      "rank": 68,
+      "globalRank": 160,
+      "worthUsd": 17100000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Investments"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Valor Equity Partners",
+        "title": "Founder, CEO and CIO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/antonio-gracias/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/antonio-gracias/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "josh-kushner",
+      "name": "Josh Kushner",
+      "rank": 69,
+      "globalRank": 164,
+      "worthUsd": 16690704000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Venture capital  "
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Thrive Capital",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/josh-kushner/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/josh-kushner/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "peter-mallouk",
+      "name": "Peter Mallouk",
+      "rank": 70,
+      "globalRank": 166,
+      "worthUsd": 16533000000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Wealth planning"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/peter-mallouk/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/peter-mallouk/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "edward-johnson-iv",
+      "name": "Edward Johnson IV",
+      "rank": 71,
+      "globalRank": 167,
+      "worthUsd": 16303349000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Fidelity"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/edward-johnson-iv/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/edward-johnson-iv/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "shahid-khan",
+      "name": "Shahid Khan",
+      "rank": 72,
+      "globalRank": 169,
+      "worthUsd": 16253698000,
+      "industry": [
+        "automotive"
+      ],
+      "companies": [
+        "Sports teams",
+        "auto parts"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a654022254b0008e15acc/416x416.jpg?background=000000&cropX1=261&cropX2=2362&cropY1=268&cropY2=2372",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/shahid-khan/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/shahid-khan/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "laurene-powell-jobs",
+      "name": "Laurene Powell Jobs",
+      "rank": 73,
+      "globalRank": 172,
+      "worthUsd": 15976614000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Apple",
+        "Disney"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8e17856c7c8f0009907ebd/416x416.jpg?background=000000&cropX1=217&cropX2=1524&cropY1=0&cropY2=1308",
+      "organization": {
+        "name": "Emerson Collective",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/laurene-powell-jobs/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/laurene-powell-jobs/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "john-menard-jr",
+      "name": "John Menard Jr",
+      "rank": 74,
+      "globalRank": 173,
+      "worthUsd": 15951994000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Home improvement stores"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5f0f870a933def00067666de/416x416.jpg?background=000000&cropX1=223&cropX2=1909&cropY1=133&cropY2=1820",
+      "organization": {
+        "name": "Menard, Inc.",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/john-menard-jr/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/john-menard-jr/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "daniela-amodei",
+      "name": "Daniela Amodei",
+      "rank": 75,
+      "globalRank": 177,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Anthropic",
+        "title": "Cofounder & President"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/daniela-amodei/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/daniela-amodei/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "dario-amodei",
+      "name": "Dario Amodei",
+      "rank": 76,
+      "globalRank": 178,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/dario-amodei/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dario-amodei/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jack-clark",
+      "name": "Jack Clark",
+      "rank": 77,
+      "globalRank": 179,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jack-clark/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jack-clark/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jared-kaplan",
+      "name": "Jared Kaplan",
+      "rank": 78,
+      "globalRank": 180,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jared-kaplan/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jared-kaplan/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "sam-mccandlish",
+      "name": "Sam McCandlish",
+      "rank": 79,
+      "globalRank": 181,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/sam-mccandlish/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/sam-mccandlish/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "tom-brown",
+      "name": "Tom Brown",
+      "rank": 80,
+      "globalRank": 182,
+      "worthUsd": 15500000000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Artificial intelligence"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/tom-brown/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/tom-brown/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ralph-lauren",
+      "name": "Ralph Lauren & family",
+      "rank": 81,
+      "globalRank": 183,
+      "worthUsd": 15436011000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Apparel"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5f4d624c9203e6bccfc46e87/416x416.jpg?background=000000&cropX1=1084&cropX2=2223&cropY1=371&cropY2=1511",
+      "organization": {
+        "name": "Ralph Lauren",
+        "title": "Chairman "
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ralph-lauren/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ralph-lauren/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "george-kaiser",
+      "name": "George Kaiser",
+      "rank": 82,
+      "globalRank": 184,
+      "worthUsd": 15409285000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "Oil & gas",
+        "banking"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5ba439ef31358e5690cd9d73/416x416.jpg?background=000000&cropX1=2031&cropX2=5125&cropY1=15&cropY2=3107",
+      "organization": {
+        "name": "Bank of Oklahoma",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/george-kaiser/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-kaiser/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jeffery-hildebrand",
+      "name": "Jeffery Hildebrand",
+      "rank": 83,
+      "globalRank": 185,
+      "worthUsd": 15381959000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "Oil & gas"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/5d8addf818444200084e726c/416x416.jpg?background=000000&cropX1=802&cropX2=1319&cropY1=710&cropY2=1228",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jeffery-hildebrand/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jeffery-hildebrand/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "robert-kraft",
+      "name": "Robert Kraft",
+      "rank": 84,
+      "globalRank": 188,
+      "worthUsd": 15233479000,
+      "industry": [
+        "sports"
+      ],
+      "companies": [
+        "Manufacturing",
+        "New England Patriots"
+      ],
+      "photo": "https://specials-images.forbesimg.com/imageserve/64a85309b1ebfd68d09b888d/416x416.jpg?background=000000&cropX1=0&cropX2=898&cropY1=318&cropY2=1219",
+      "organization": {
+        "name": "The Kraft Group",
+        "title": "Chairman & CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/robert-kraft/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-kraft/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ken-fisher",
+      "name": "Ken Fisher",
+      "rank": 85,
+      "globalRank": 190,
+      "worthUsd": 14963700000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Money management"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/59dbd16931358e542c038093/416x416.jpg?background=000000&cropX1=119&cropX2=540&cropY1=34&cropY2=455",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ken-fisher/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ken-fisher/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "ann-walton-kroenke",
+      "name": "Ann Walton Kroenke",
+      "rank": 86,
+      "globalRank": 205,
+      "worthUsd": 14533117000,
+      "industry": [
+        "fashion & retail"
+      ],
+      "companies": [
+        "Walmart"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5ba4d59031358e5690cda47f/416x416.jpg?background=000000&cropX1=21&cropX2=1217&cropY1=133&cropY2=1329",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/ann-walton-kroenke/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/ann-walton-kroenke/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jay-chaudhry",
+      "name": "Jay Chaudhry",
+      "rank": 87,
+      "globalRank": 207,
+      "worthUsd": 14477474000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Security software"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jay-chaudhry/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jay-chaudhry/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "elizabeth-johnson",
+      "name": "Elizabeth Johnson",
+      "rank": 88,
+      "globalRank": 208,
+      "worthUsd": 14430666000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Fidelity"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/elizabeth-johnson/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/elizabeth-johnson/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "j-christopher-reyes",
+      "name": "J. Christopher Reyes",
+      "rank": 89,
+      "globalRank": 211,
+      "worthUsd": 14261000000,
+      "industry": [
+        "food & beverage"
+      ],
+      "companies": [
+        "Food distribution"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/033ba8ea1f4e0697e1ca957753400dc9/416x416.jpg?background=000000&cropX1=35&cropX2=698&cropY1=3&cropY2=667",
+      "organization": {
+        "name": "Reyes Holdings",
+        "title": "Co-Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/j-christopher-reyes/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/j-christopher-reyes/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "jude-reyes",
+      "name": "Jude Reyes",
+      "rank": 90,
+      "globalRank": 212,
+      "worthUsd": 14261000000,
+      "industry": [
+        "food & beverage"
+      ],
+      "companies": [
+        "Food distribution"
+      ],
+      "photo": null,
+      "organization": {
+        "name": "Reyes Holdings",
+        "title": "Co-Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/jude-reyes/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/jude-reyes/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "george-kurtz",
+      "name": "George Kurtz",
+      "rank": 91,
+      "globalRank": 213,
+      "worthUsd": 14238795000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "Security software"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/george-kurtz/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-kurtz/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "pierre-omidyar",
+      "name": "Pierre Omidyar",
+      "rank": 92,
+      "globalRank": 218,
+      "worthUsd": 13976027000,
+      "industry": [
+        "technology"
+      ],
+      "companies": [
+        "EBay",
+        "PayPal"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5f11f5931c59f70008546278/416x416.jpg?background=000000&cropX1=317&cropX2=854&cropY1=226&cropY2=763",
+      "organization": {
+        "name": "eBay",
+        "title": "Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/pierre-omidyar/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/pierre-omidyar/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "leon-black",
+      "name": "Leon Black",
+      "rank": 93,
+      "globalRank": 221,
+      "worthUsd": 13880731000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Private equity"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a65cc22254b0008e15ad5/416x416.jpg?background=000000&cropX1=679&cropX2=1781&cropY1=23&cropY2=1124",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/leon-black/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/leon-black/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "michael-sabel",
+      "name": "Michael Sabel",
+      "rank": 94,
+      "globalRank": 222,
+      "worthUsd": 13851720000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "oil & gas"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/michael-sabel/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/michael-sabel/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "robert-pender",
+      "name": "Robert Pender",
+      "rank": 95,
+      "globalRank": 223,
+      "worthUsd": 13851720000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "oil & gas"
+      ],
+      "photo": null,
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/robert-pender/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/robert-pender/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "richard-kinder",
+      "name": "Richard Kinder",
+      "rank": 96,
+      "globalRank": 224,
+      "worthUsd": 13644935000,
+      "industry": [
+        "energy"
+      ],
+      "companies": [
+        "Pipelines"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5c76d0e4a7ea43100043cdf2/416x416.jpg?background=000000&cropX1=995&cropX2=3185&cropY1=56&cropY2=2245",
+      "organization": {
+        "name": "Kinder Morgan",
+        "title": "Chairman and CEO"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/richard-kinder/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/richard-kinder/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "george-roberts",
+      "name": "George Roberts",
+      "rank": 97,
+      "globalRank": 225,
+      "worthUsd": 13607738000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Private equity"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a8a0b6de3150009a500b5/416x416.jpg?background=000000&cropX1=743&cropX2=1994&cropY1=9&cropY2=1259",
+      "organization": null,
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/george-roberts/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/george-roberts/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "arthur-blank",
+      "name": "Arthur Blank",
+      "rank": 98,
+      "globalRank": 239,
+      "worthUsd": 13176663000,
+      "industry": [
+        "sports"
+      ],
+      "companies": [
+        "Home Depot"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a8cc56de3150009a50133/416x416.jpg?background=000000&cropX1=310&cropX2=4009&cropY1=16&cropY2=3712",
+      "organization": {
+        "name": "Atlanta Falcons",
+        "title": "Chairman"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/arthur-blank/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/arthur-blank/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "charles-schwab",
+      "name": "Charles Schwab",
+      "rank": 99,
+      "globalRank": 241,
+      "worthUsd": 13108581000,
+      "industry": [
+        "finance & investments"
+      ],
+      "companies": [
+        "Discount brokerage"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8a66976de3150009a4f8e6/416x416.jpg?background=000000&cropX1=1827&cropX2=4378&cropY1=8&cropY2=2557",
+      "organization": {
+        "name": "Charles Schwab",
+        "title": "Chairman and Founder"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/charles-schwab/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/charles-schwab/info",
+      "profileAvailable": true
+    },
+    {
+      "id": "dan-friedkin",
+      "name": "Dan Friedkin",
+      "rank": 100,
+      "globalRank": 247,
+      "worthUsd": 12706532000,
+      "industry": [
+        "automotive"
+      ],
+      "companies": [
+        "Toyota dealerships"
+      ],
+      "photo": "https:////specials-images.forbesimg.com/imageserve/5d8ad21f22254b0008e1646d/416x416.jpg?background=000000&cropX1=874&cropX2=2968&cropY1=508&cropY2=2604",
+      "organization": {
+        "name": "The Friedkin Group",
+        "title": "owner and ceo"
+      },
+      "family": false,
+      "profileSource": "https://www.forbes.com/profile/dan-friedkin/",
+      "mirrorProfile": "https://raw.githubusercontent.com/komed3/rtb-api/main/api/profile/dan-friedkin/info",
+      "profileAvailable": true
+    }
+  ]
+}
