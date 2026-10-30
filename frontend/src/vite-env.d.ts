@@ -15,8 +15,5 @@ interface Window {
     getAnnualHistory:()=>Promise<import('./components/annualChangeModel').AnnualHistory>
     getAnnualStatus:()=>Promise<any>
     refreshAnnualAssets:()=>Promise<any>
-    getMarketSnapshot: () => Promise<import('./types').MarketFeedSnapshot | undefined>
-    getCandles: (symbol: string, interval: string) => Promise<import('./types').Candle[]>
-    onMarketSnapshot: (callback: (snapshot: import('./types').MarketFeedSnapshot) => void) => () => void
   }
 }

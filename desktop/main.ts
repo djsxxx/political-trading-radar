@@ -1,11 +1,9 @@
 import { app, BrowserWindow, ipcMain, shell } from 'electron'
 import { join } from 'node:path'
 import { readFile } from 'node:fs/promises'
-import { DualMarketFeed, getPublicCandles } from './marketFeed'
 import { PoliticalRadarService } from './politicalRadar'
 import { AnnualAssetsService } from './annualAssets'
 
-let marketFeed: DualMarketFeed | undefined
 let politicalRadar: PoliticalRadarService | undefined
 let annualAssets: AnnualAssetsService | undefined
 let mainWindow: BrowserWindow | undefined
@@ -65,12 +63,6 @@ app.whenReady().then(() => {
   mainWindow=createWindow()
   ipcMain.handle('political:open-map',()=>{openPowerMap();return {opened:true}})
   ipcMain.handle('political:open-people',()=>{if(!mainWindow||mainWindow.isDestroyed())mainWindow=createWindow();mainWindow.restore();mainWindow.show();mainWindow.focus();return {opened:true}})
-  marketFeed = new DualMarketFeed((snapshot) => {
-    for (const window of BrowserWindow.getAllWindows()) window.webContents.send('market:snapshot', snapshot)
-  })
-  ipcMain.handle('market:get-snapshot', () => marketFeed?.snapshot())
-  ipcMain.handle('market:get-candles', (_event, symbol: string, interval: string) => getPublicCandles(symbol, interval))
-  marketFeed.start()
   app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) mainWindow=createWindow()
   })
@@ -80,4 +72,4 @@ app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') app.quit()
 })
 
-app.on('before-quit', () => {marketFeed?.stop();politicalRadar?.stop();annualAssets?.stop()})
+app.on('before-quit', () => {politicalRadar?.stop();annualAssets?.stop()})

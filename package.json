@@ -2,7 +2,7 @@
   "name": "financial-ai-os",
   "version": "2.1.0",
   "private": true,
-  "description": "Apple Silicon multi-market monitoring, dual-strategy signals, and decision-audit prototype",
+  "description": "政治人物交易雷达：美国国会交易与年度披露、权力地图、全球万卡算力中心分布",
   "main": "out/main/main.js",
   "scripts": {
     "dev": "electron-vite dev",
